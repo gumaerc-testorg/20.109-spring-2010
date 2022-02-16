@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 2: Site-Directed Mutagenesis'
 uid: 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) \>
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) \>
 
 Introduction
 ------------
@@ -23,11 +27,11 @@ Today you will begin by combining plasmid DNA encoding wild-type inverse pericam
 
 ![Diagram showing steps of the mutagenesis process.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-2-site-directed-mutagenesis/m2d2_fig2a_b.jpg)
 
-Overview of the QuikChange® site-directed mutagenesis method. (Courtesy of Agilent Technologies, Inc. Used with permission.)
+Overview of the QuikChange{{< sup "®" >}} site-directed mutagenesis method. (Courtesy of Agilent Technologies, Inc. Used with permission.)
 
 The thermocycling reaction today will run for a little over two hours. During this incubation time, we will discuss two articles from the primary literature. We will 'warm-up' by discussing the paper by Heim, Prasher, and Tsien (1994). This is a short paper describing the very first attempt to mutagenize GFP, and a fine introduction to some of the concepts and methods used in this module. Next we will do a close reading of the paper that introduced inverse pericam, by Nagai, et al (2001). We will examine the construction and analysis of the inverse pericam (IPC) multi-component calcium sensor in some depth.
 
-Now might be a good time to mention why we care about measuring intracellular calcium in the first place. Calcium is involved in many signal transduction cascades, which regulate everything from immune cell activation to muscle contraction, from adhesion to apoptosis - see for example the reviews by David Clapham in Cell (2007), or Ernesto Carafoli in PNAS (2002). Intracellular calcium (Ca2+) is normally maintained at ~100 nM, orders of magnitude less than the ~mM concentration outside the cell. ATPase pumps act to keep the basal concentration of cytoplasmic calcium low. Often calcium acts as a secondary messenger, i.e., it relays a message from the cell surface to its cytoplasm. For example, a particular ligand may bind a cell surface receptor, causing a flood of calcium ions to be released from the intracellular compartments in which they are usually sequestered. These free ions in turn may promote phosphorylation or other downstream signaling.
+Now might be a good time to mention why we care about measuring intracellular calcium in the first place. Calcium is involved in many signal transduction cascades, which regulate everything from immune cell activation to muscle contraction, from adhesion to apoptosis - see for example the reviews by David Clapham in Cell (2007), or Ernesto Carafoli in PNAS (2002). Intracellular calcium (Ca{{< sup "2+" >}}) is normally maintained at ~100 nM, orders of magnitude less than the ~mM concentration outside the cell. ATPase pumps act to keep the basal concentration of cytoplasmic calcium low. Often calcium acts as a secondary messenger, i.e., it relays a message from the cell surface to its cytoplasm. For example, a particular ligand may bind a cell surface receptor, causing a flood of calcium ions to be released from the intracellular compartments in which they are usually sequestered. These free ions in turn may promote phosphorylation or other downstream signaling.
 
 The proteins that bind calcium do so with a great variety of affinities, and have roles ranging from sequestration to sensing. Some calcium responses may have long-term effects, particularly in the case of transcription factors that can bind calcium. As you learned last time, calmodulin works as a calcium sensor by undergoing a conformational change upon calcium binding. Your goal today is to prepare mutant calmodulin (in the context of inverse pericam) DNA, in order to alter the affinity of the resulting protein for calcium.
 
@@ -53,7 +57,7 @@ Protocols
 
 ### Part 2: Site-directed Mutagenesis
 
-We will be using the QuickChange® kit from Stratagene to perform our site-directed mutageneses. Each group will set up one reaction, for their chosen X#Z mutation. Meanwhile, the teaching faculty will set up a single positive control reaction, to ensure that all the reagents are working properly. You should work quickly but carefully, and keep your tube in a chilled container at all times. **Please return shared reagents to the ice buckets on the front bench when you are done with them**.
+We will be using the QuickChange{{< sup "®" >}} kit from Stratagene to perform our site-directed mutageneses. Each group will set up one reaction, for their chosen X#Z mutation. Meanwhile, the teaching faculty will set up a single positive control reaction, to ensure that all the reagents are working properly. You should work quickly but carefully, and keep your tube in a chilled container at all times. **Please return shared reagents to the ice buckets on the front bench when you are done with them**.
 
 1.  Read through the following protocol and prepare all calculations before beginning physical manipulations of your samples.
 2.  Get a PCR tube and label the top with your mutation and lab section (write small!). Add 43 μL of "Master Mix" - containing buffer and dNTPs - to your tube. Be sure to use a fresh pipet tip, as several groups will share each aliquot of Master Mix!
@@ -220,7 +224,7 @@ Reagent List
 ------------
 
 *   QuikChange II Site-Directed Mutagenesis Kit from Stratagene
-    *   10X Reaction Buffer (100 mM KCl, 100 mM (NH4)2SO4, 200 mM Tris-HCl, 20 mM MgSO4, 1% Triton® X-100, 1 mg/mL BSA)
-    *   _PfuUltra_® DNA polymerase (2.5 U/μL, 1 μL per rxn)
+    *   10X Reaction Buffer (100 mM KCl, 100 mM (NH4)2SO4, 200 mM Tris-HCl, 20 mM MgSO4, 1% Triton{{< sup "®" >}} X-100, 1 mg/mL BSA)
+    *   _PfuUltra_{{< sup "®" >}} DNA polymerase (2.5 U/μL, 1 μL per rxn)
     *   dNTP mix (proprietary mix, 1 μL per rxn)
     *   _Dpn_ I (10 U/μL)

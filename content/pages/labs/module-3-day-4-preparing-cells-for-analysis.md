@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 4: Preparing Cells for Analysis'
 uid: 9f1add66-0448-ffba-794a-48d70e4c97b2
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) >
 
 Introduction
 ------------
@@ -46,7 +50,7 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
     *   Let the teaching faculty know if you have difficulty focusing within a bead.
 2.  Aspirate the culture medium from each of your samples. Be careful not to suck up the beads, while using a serological pipet just as you did when washing your freshly synthesized beads. A 10 mL pipet size should work well for most beads, while for very delicate beads, you should use a 2 mL serological pipet or even a P1000.
 3.  About half of your beads will be used to measure protein content: move these to an eppendorf tube. The goal is about 10-15 (2-3 mm) beads per tube.
-    *   For large beads (4-5 mm), you might use only 5-10 beads, and for very small beads (<1 mm), you might use 20 or more.
+    *   For large beads (4-5 mm), you might use only 5-10 beads, and for very small beads (\<1 mm), you might use 20 or more.
 4.  The other half will be used to isolate RNA. Using a sterile spatula, transfer the beads into a fresh well of your 6-well plate. This transfer step is to exclude any cells that are growing on the bottom of the plate (as opposed to actually in the beads) from analysis.
 
 **Samples for RNA**
@@ -97,7 +101,7 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
 SAMPLE
 {{< thclose >}}
 {{< thopen >}}
-A260
+A{{< sub "260" >}}
 {{< thclose >}}
 {{< thopen >}}
 RNA CONC. μg/mL)

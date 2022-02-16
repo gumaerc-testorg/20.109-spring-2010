@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 7: Aptamer Binding Assay'
 uid: 6074c179-64ef-9a51-f5e9-785309daca35
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-6-post-selection-ivt-and-journal-club) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-8-journal-club-continued) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-6-post-selection-ivt-and-journal-club) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-8-journal-club-continued) >
 
 Introduction
 ------------
@@ -39,7 +43,7 @@ Repeat the [Day 4]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-
 ### Part 2: Binding Assay
 
 1.  Retrieve some 6 μM heme from the teaching faculty. _Why might you use 6 μM instead of 8 μM, if we want 1:1 molar RNA:heme?_
-    *   A 1M stock solution of heme was originally prepared in DMSO, then diluted in multiple steps to 6 μM. Note that the stock solution is prepared by dabbing a little (solid) hemin into DMSO, and then testing the concentration on a spectrophotometer. The extinction coefficient of heme at 405 nm is 180 mM\-1cm\-1.
+    *   A 1M stock solution of heme was originally prepared in DMSO, then diluted in multiple steps to 6 μM. Note that the stock solution is prepared by dabbing a little (solid) hemin into DMSO, and then testing the concentration on a spectrophotometer. The extinction coefficient of heme at 405 nm is 180 mM{{< sup "\\-1" >}}cm{{< sup "\\-1" >}}.
 2.  For each sample in the table below, add 175 µL of heme solution to an eppendorf tube.
 3.  Now add 175 µL of selection buffer to the first tube. To the remaining tubes, add 175 µL of the appropriate aptamer solution.
 4.  Incubate for a minimum of five minutes at room temperature.

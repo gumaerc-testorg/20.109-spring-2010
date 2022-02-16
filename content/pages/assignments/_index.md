@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 ---
@@ -39,10 +42,10 @@ DESCRIPTIONS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [RNA Engineering]({{< baseurl >}}/pages/labs#RNA_Engineering)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -125,10 +128,10 @@ Research article
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Cell-Biomaterial Engineering]({{< baseurl >}}/pages/labs#Biomaterial_Engineering)
 {{< tdclose >}}
 {{< tdopen >}}

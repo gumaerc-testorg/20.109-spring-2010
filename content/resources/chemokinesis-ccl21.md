@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Supporting Videos for Module 3, Day 1 Lecture: Introduction to Cell-Biomaterial
+  Engineering'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Chemokinesis +CCL21
 uid: 5b4582a3-d5cb-e5f6-f723-5495ac9ddd14

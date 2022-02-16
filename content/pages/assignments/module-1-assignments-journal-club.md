@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 1 Assignments: Journal Club'
 uid: 96d78713-6ddb-e72b-2a7f-724d9ac77ed6

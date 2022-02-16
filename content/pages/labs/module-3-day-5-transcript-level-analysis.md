@@ -1,19 +1,23 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 5: Transcript-Level Analysis'
 uid: 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) >
 
 Introduction
 ------------
 
 There are several ways to assess the presence or concentration of a protein. In the second module, you used a colorimetric Coomassie-based assay to measure the concentration of protein expressed by your bacteria. Because you were purifying a His-tagged protein from bacteria induced primarily to express said protein, you could assume that the protein concentration that you measured was primarily inverse pericam. In contrast, today you are trying to measure the concentration of a specific protein that is only one among many in a complex mixture.
 
-A great way to identify proteins is to exploit antibodies – also called immunoglobulins – whether in a Western blot or by ELISA (enzyme-linked immunosorbent assay). In native physiological settings (such as your own body), antibodies are secreted by B cells in response to pathogens. A given antibody is highly specific (_KD_ ~ nM) for its binding partner, called an antigen, and the entire antibody population for a given person is incredibly diverse (>107 unique antibodies). Diversity is maintained by recombination processes at the DNA level, and specificity entailed by protein structure.
+A great way to identify proteins is to exploit antibodies – also called immunoglobulins – whether in a Western blot or by ELISA (enzyme-linked immunosorbent assay). In native physiological settings (such as your own body), antibodies are secreted by B cells in response to pathogens. A given antibody is highly specific (_K{{< sub "D" >}}_ ~ nM) for its binding partner, called an antigen, and the entire antibody population for a given person is incredibly diverse (>10{{< sup "7" >}} unique antibodies). Diversity is maintained by recombination processes at the DNA level, and specificity entailed by protein structure.
 
 Antibody proteins comprise constant (C) and variable (V) regions, on both their heavy and light chains. The C regions determine antibody effector functions, such as antibody-dependent killing of infected cells. The three hypervariable portions of the V region together make up the antigen-recognition site. Only a small portion of an antigen, called an epitope, is recognized by its cognate antibody. This ~10 amino acid region may be linear, or it may be made up of linearly distant regions and thus recognized only when the antigen is in its native conformation. For example, conformation-dependent antibodies are useful for distinguishing different collagen types.
 

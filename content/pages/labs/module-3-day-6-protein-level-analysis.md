@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 6: Protein-Level Analysis'
 uid: f82c52d5-f03d-5172-9e51-338ebfdc2fc4
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-7-wrap-up-analysis) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-7-wrap-up-analysis) >
 
 Introduction
 ------------

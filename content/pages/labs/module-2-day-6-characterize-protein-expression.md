@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 6: Characterize Protein Expression'
 uid: 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) >
 
 Introduction
 ------------
@@ -50,7 +54,7 @@ Protocols
 ### Part 2: SDS-PAGE of Protein Extracts
 
 1.  Last time you measured the amount of cells in each of your samples. (If you ran cultures overnight, the teaching faculty measured the +IPTG samples for you and posted the results.) Look back at your measurements, and find the sample with the lowest cell concentration. Set aside 15 µL of this sample for PAGE analysis in an eppendorf.
-2.  For your other five samples, you should take the amount of bacterial lysate corresponding to the same number of cells as the lowest concentration sample. For example, if the OD600 of your WT -IPTG sample was 0.05, and the OD600 of your WT +IPTG sample was 0.30, you would take 15 µL of the -IPTG, but only 2.5 µL of the +IPTG sample.
+2.  For your other five samples, you should take the amount of bacterial lysate corresponding to the same number of cells as the lowest concentration sample. For example, if the OD{{< sub "600" >}} of your WT -IPTG sample was 0.05, and the OD{{< sub "600" >}} of your WT +IPTG sample was 0.30, you would take 15 µL of the -IPTG, but only 2.5 µL of the +IPTG sample.
 3.  Next, add enough water so the each sample has 15 µL of liquid in it. You might use the table below to guide your work.
 
 {{< tableopen >}}
@@ -63,7 +67,7 @@ SAMPLE/LANE #
 SAMPLE NAME
 {{< thclose >}}
 {{< thopen >}}
-OD600
+OD{{< sub "600" >}}
 {{< thclose >}}
 {{< thopen >}}
 SAMPLE VOLUME (µL)
@@ -310,13 +314,13 @@ You will process three samples (the three +IPTG extracts) according to the follo
 SAMPLE (mg/mL)
 {{< thclose >}}
 {{< thopen >}}
-A595
+A{{< sub "595" >}}
 {{< thclose >}}
 {{< thopen >}}
 SAMPLE
 {{< thclose >}}
 {{< thopen >}}
-A595
+A{{< sub "595" >}}
 {{< thclose >}}
 
 {{< trclose >}}

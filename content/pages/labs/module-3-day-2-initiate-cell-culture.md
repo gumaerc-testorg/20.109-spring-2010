@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'fModule 3, Day 2: Initiate Cell Culture'
 uid: b802fd25-d874-3abb-5ebe-1fab28e947bd
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-1-start-up-biomaterials-engineering) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-1-start-up-biomaterials-engineering) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) >
 
 Introduction
 ------------

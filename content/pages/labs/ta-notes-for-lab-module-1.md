@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'TA notes for Lab Module 1: RNA Engineering'
 uid: d6824c94-8959-a4ec-b5b3-a6ce9cdcde6d
@@ -211,7 +215,7 @@ Day 7: Aptamer Binding Assay
 *   Part 2  
     *   6 μM heme stock, 1.2 mL per group
     *   From ~ 1 M stock solution in DMSO
-    *   Dab a bit of solid into the solvent, then measure at 405 nm (extinction coefficient is 180 mM\-1 cm\-1)
+    *   Dab a bit of solid into the solvent, then measure at 405 nm (extinction coefficient is 180 mM{{< sup "\\-1" >}} cm{{< sup "\\-1" >}})
     *   2x SB, 1.7 mL per group
 
 ### Day of Lab (T/W)

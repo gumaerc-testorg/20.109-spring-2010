@@ -6,12 +6,16 @@ description: Depicted are two complementary strands of DNA, with a desired targe
   in the first couple rounds of PCR, products longer than the desired target will
   be made (dotted lines keep extending). However, these early products themselves
   become templates that produce the correct product in abundance.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/61889242e6f75d6947c2be06a35917d7_m1d1_fig1.jpg
+file: /media/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/61889242e6f75d6947c2be06a35917d7_m1d1_fig1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Module 1, Day 1: Amplify Aptamer-Encoding DNA'
+parent_type: CourseSection
 resourcetype: Image
 title: PCR schematic
 uid: 61889242-e6f7-5d69-47c2-be06a35917d7

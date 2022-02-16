@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: Lab Orientation
 uid: 84e8174c-592f-f934-08b5-8921e05ba894
@@ -68,7 +72,7 @@ Today you will make 100 ml of a 0.5M sorbitol solution and measure its pH. Makin
 Balance
 
 1.  Put on gloves and eye protection to weigh out solids. This protects you from the chemicals and the chemicals from getting contaminated with anything foreign on your hands. Sorbitol is not a dangerous chemical.
-2.  Zero the balance with a medium size weigh boat on it. Weigh boats are kept in the drawer under the balance. The marked button marked -> O/T <- will zero ("tare") the balance and the display should read 0.0000 after taring. Be sure to close the balance doors when taring the balance.
+2.  Zero the balance with a medium size weigh boat on it. Weigh boats are kept in the drawer under the balance. The marked button marked -> O/T \<- will zero ("tare") the balance and the display should read 0.0000 after taring. Be sure to close the balance doors when taring the balance.
 3.  Use a spatula to measure 9.1 grams of sorbitol. To measure this, open the balance doors and hold the spatula and chemical over the weigh boat. Begin by adding only a small amount of the powder to the weigh boat. Once you determine how much that weighs, you can add correspondingly more. If you have weighed out too much, you can put some back as long as you have used a clean spatula and a clean weigh boat.
 4.  Remove the weigh boat with your sorbitol from the balance, gently bend the ends together and pour the contents into a beaker. Tap the back of the weigh boat to loosen any powder that is stuck. The weigh boat can be discarded in the trash since sorbitol is not dangerous.
 5.  Clean the balance with a brush. Clean the area around the balance with a wet paper towel.
@@ -180,7 +184,7 @@ Feynman
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-CO2 tank
+CO{{< sub "2" >}} tank
 {{< tdclose >}}
 {{< tdopen >}}
 Darwin
@@ -275,13 +279,13 @@ The information and exercises provided here are intended to refresh your memory 
 
 This is the numerical language of science. Base units that you will most often use in this class are meters, grams, liters, and moles. These units will be appended with prefixes to modify the unit by a power of ten.
 
-103   =  1000  = 1000/1    = 103/1            kilo (k-)
+10{{< sup "3" >}}   =  1000  = 1000/1    = 10{{< sup "3" >}}/1            kilo (k-)
 
-100   =  1       = 1/1          = 100/1            base unit (-g, -l, -mole…)
+10{{< sup "0" >}}   =  1       = 1/1          = 10{{< sup "0" >}}/1            base unit (-g, -l, -mole…)
 
-10\-3  =  0.001   = 1/1000   = 1/103           milli (m-)
+10{{< sup "\\-3 " >}} =  0.001   = 1/1000   = 1/10{{< sup "3" >}}           milli (m-)
 
-10\-6  =  0.000001  = 1/1000000  = 1/106  micro (μ-)
+10{{< sup "\\-6" >}}  =  0.000001  = 1/1000000  = 1/10{{< sup "6" >}}  micro (μ-)
 
 **Practice problems:**
 

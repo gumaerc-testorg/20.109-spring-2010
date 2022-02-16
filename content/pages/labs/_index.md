@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 ---
@@ -112,7 +115,7 @@ Public domain image. (Prepared using RNA Folding (mfold) at the [mFold Web Serve
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 {{< anchor "MODUle_1:_RNA_Engineering" >}}{{< /anchor >}}MODUle 1: RNA Engineering
 {{< thclose >}}
 
@@ -239,7 +242,7 @@ See the [Assignments]({{< baseurl >}}/pages/assignments) page for descriptions o
 
 **Instructors**: Alan Jasanoff and Agi Stachowiak
 
-In this experiment, you will modify a protein called inverse pericam (developed by [Nagai, et al](http://www.ncbi.nlm.nih.gov/pubmed/11248055).) in order to affect its functions as a sensor. Inverse pericam (IPC) comprises a permuted fluorescent protein linked to a calcium sensor. The "inverse" in the name refers to the fact that this protein shines brightly in the absence of calcium, but dimly once calcium is added. The dissociation constant _KD_ of wild-type IPC with respect to calcium is reported to be 0.2 μM (see also figure below). Your goal will be to shift this titration curve or change its steepness by altering one of the calcium binding sites in IPC's calcium sensor portion. You will modify inverse pericam at the gene level using a process called site-directed mutagenesis, express the resultant protein in a bacterial host, and finally purify your mutant protein and assay its calcium-binding activity via fluorescence. In the course of this module, we will consider the benefits and drawbacks of different approaches to protein design, and the types of scientific investigations and applications enabled by fluorescently tagged biological molecules.
+In this experiment, you will modify a protein called inverse pericam (developed by [Nagai, et al](http://www.ncbi.nlm.nih.gov/pubmed/11248055).) in order to affect its functions as a sensor. Inverse pericam (IPC) comprises a permuted fluorescent protein linked to a calcium sensor. The "inverse" in the name refers to the fact that this protein shines brightly in the absence of calcium, but dimly once calcium is added. The dissociation constant _K{{< sub "D" >}}_ of wild-type IPC with respect to calcium is reported to be 0.2 μM (see also figure below). Your goal will be to shift this titration curve or change its steepness by altering one of the calcium binding sites in IPC's calcium sensor portion. You will modify inverse pericam at the gene level using a process called site-directed mutagenesis, express the resultant protein in a bacterial host, and finally purify your mutant protein and assay its calcium-binding activity via fluorescence. In the course of this module, we will consider the benefits and drawbacks of different approaches to protein design, and the types of scientific investigations and applications enabled by fluorescently tagged biological molecules.
 
 **Reference**: Nagai, T., et al. "[Circularly Permuted Green Fluorescent Proteins Engineered to Sense Ca2+](http://dx.doi.org/10.1073/pnas.051636098)." _PNAS_ 98, no. 6 (March 6, 2001): 3197-3202. \[Open Access\]
 
@@ -256,7 +259,7 @@ Fitted titration curve for IPC. A more sophisticated analysis using curve-fittin
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 {{< anchor "Module_2:_Protein_Engineering" >}}{{< /anchor >}}Module 2: Protein Engineering
 {{< thclose >}}
 
@@ -394,7 +397,7 @@ Morphology of primary bovine chondrocytes grown under two different culture cond
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 {{< anchor "Module_3:_Cell-Biomaterial_Engineering" >}}{{< /anchor >}}Module 3: Cell-Biomaterial Engineering
 {{< thclose >}}
 

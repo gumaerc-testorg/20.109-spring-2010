@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 4: Prepare Expression System'
 uid: ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) >
 
 Introduction
 ------------
@@ -32,8 +36,8 @@ Protocols
 
 ### Part 1: Prepare Competent BL21(DE3) Cells
 
-1.  Pick up one 5 mL tube of BL21(DE3) cells. These cells should be in or close to the mid-log phase of growth, which is indicated by an OD600 value of 04.-06.
-2.  Measure the OD600 value of a 1:10 dilution of your cells (use a total volume of 600 μL). If the cells are not yet dense enough, return them to the rotary shaker in the incubator. Remember to balance with another tube! As a rule, your cells should double every 20-30 min.
+1.  Pick up one 5 mL tube of BL21(DE3) cells. These cells should be in or close to the mid-log phase of growth, which is indicated by an OD{{< sub "600" >}} value of 04.-06.
+2.  Measure the OD{{< sub "600" >}} value of a 1:10 dilution of your cells (use a total volume of 600 μL). If the cells are not yet dense enough, return them to the rotary shaker in the incubator. Remember to balance with another tube! As a rule, your cells should double every 20-30 min.
     
 
 ![Diagram showing how to aspirate the supernatant, with a pellet at the bottom of an eppendorf tube.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-4-prepare-expression-system/m2d4_fig3.jpg)
@@ -42,9 +46,9 @@ Aspirate the supernatant, as shown, removing as few cells as possible. (Figure b
 
 5.  Once your cells have reached the appropriate growth phase, pour them into eppendorf tubes. Spin down 3 tubes of ~ 1.5 mL each for 1 min at max speed (~16,000 rcf/13,000 rpm), aspirate the supernatants, and resuspend in an equal volume of ice-cold calcium chloride (100 mM). Note: you can balance these tubes in the centrifuge with three-way symmetry.
     *   If you are nervous about pouring the liquid, you can use your P1000 to pipet 750 μL into each eppendorf twice. Either way, the eppendorf should be quite full when you try to close the cap. You can wear gloves to keep the bacteria from splashing your skin or you can wash your hands after closing all the caps.
-    *   You may find it easiest to resuspend the cells in a small volume first (say, 200 μL), then add the remaining volume of CaCl2 (e.g., in two steps of 650 μL) and invert the tubes to mix.
+    *   You may find it easiest to resuspend the cells in a small volume first (say, 200 μL), then add the remaining volume of CaCl{{< sub "2" >}} (e.g., in two steps of 650 μL) and invert the tubes to mix.
 6.  Spin again for 1 min. The resultant pellets should occur as streaks down the side of the eppendorf tube, so be very careful not to disturb the cells when aspirating.
-7.  This time, resuspend each pellet in 100 μL of CaCl2, then pool the cells together in one tube.
+7.  This time, resuspend each pellet in 100 μL of CaCl{{< sub "2" >}}, then pool the cells together in one tube.
 8.  Incubate on ice for 1 hour. (You might work on parts 2, 4, and 5 of today's protocols now, as well as assemble the materials for part 3.)
 9.  Meanwhile, label four eppendorfs and pre-chill them on ice. The labels should indicate a (-) no DNA control, a (+) M124S transformation control, and your two mutant candidate transformations (X#Z -1 and -2).
 
@@ -154,7 +158,7 @@ Enzyme
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-H2O
+H{{< sub "2" >}}O
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
 For a total volume of 25 μL

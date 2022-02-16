@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Supporting Videos for Module 3, Day 1 Lecture: Introduction to Cell-Biomaterial
+  Engineering'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Chemokinesis control
 uid: 9d05fdac-ba1d-20f0-f578-cca2858f63c3

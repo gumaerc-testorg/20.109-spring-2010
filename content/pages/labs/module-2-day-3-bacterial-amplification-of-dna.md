@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 3: Bacterial Amplification of DNA'
 uid: 080f3ca5-b66b-7f32-2240-25c3a1fd5acc
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) >
 
 Introduction
 ------------
@@ -17,7 +21,7 @@ Bacterial transformation. (Figure by MIT OpenCourseWare.)
 
 Assuming all went well, your reaction tubes from last time contain mutagenized DNA that encodes mutant inverse pericam. However, the desired DNA plasmid is likely present at a low concentration, and moreover it is nicked rather than in intact circular form. What we would like to do now is repair and further amplify only the mutagenized product. Thankfully, we have _E. coli_ bacteria to do this for us quite efficiently!
 
-Bacteria can take up foreign DNA in a process called transformation, during which a single plasmid enters a bacterium and, once inside, replicates and expresses the genes it encodes. Most bacteria do not exist in a transformation-ready state, but can be made permeable to foreign DNA by chemical treatment or other means. Cells that are capable of transformation are referred to as competent. Competent cells are extremely fragile and should be handled gently, i.e., kept cold and not vortexed. Bacterial transformation is efficient enough for most lab purposes, resulting in as many as 109 transformed cells per microgram of DNA, but even with highly competent cells only 1 DNA molecule in about 10,000 is successfully transformed. Thus we need a way to identify transformed cells, which is usually accomplished with antiobiotics. For example, the plasmid carrying inverse pericam (called pRSET) also carries a gene that leads to ampicillin-resistance. Consequently, a transformed bacterium will grow on ampicillin-containing agar medium, while untransformed cells will die before they can form a colony (see figure above right). Given the low concentration and nicked structure of your DNA to begin with, you should perform your transformations today with great care.
+Bacteria can take up foreign DNA in a process called transformation, during which a single plasmid enters a bacterium and, once inside, replicates and expresses the genes it encodes. Most bacteria do not exist in a transformation-ready state, but can be made permeable to foreign DNA by chemical treatment or other means. Cells that are capable of transformation are referred to as competent. Competent cells are extremely fragile and should be handled gently, i.e., kept cold and not vortexed. Bacterial transformation is efficient enough for most lab purposes, resulting in as many as 10{{< sup "9" >}} transformed cells per microgram of DNA, but even with highly competent cells only 1 DNA molecule in about 10,000 is successfully transformed. Thus we need a way to identify transformed cells, which is usually accomplished with antiobiotics. For example, the plasmid carrying inverse pericam (called pRSET) also carries a gene that leads to ampicillin-resistance. Consequently, a transformed bacterium will grow on ampicillin-containing agar medium, while untransformed cells will die before they can form a colony (see figure above right). Given the low concentration and nicked structure of your DNA to begin with, you should perform your transformations today with great care.
 
 Before setting up transformations, you will test your mutagenized DNA for the presence and approximate concentration of product, by running your mutagenesis reaction mixtures (both before and after _DpnI_ digestion) through an agarose gel. Because the product is several Kbp long, a standard 1% agarose gel will serve us just fine. The long mutant plasmid DNA should be separated from the short digested fragments of parental DNA and thus can be identified. However, the bands may be very faint. (Note that the parental plasmid is originally present at a concentration too low to detect on a gel.) If you do not see a band at the expected size of the mutant plasmid, you might increase the amount of DNA used during the transformation procedure at the end of lab.
 
@@ -200,7 +204,7 @@ For Next Time
 
 1.  The pRSET plasmid with inverse pericam insert, or pRSET-IPC, is 4169 basepairs long. According to the cutters list ([PDF]({{< baseurl >}}/resources/mit20_109s10_m2d1_cut12-1)) that you used on Day 1, restriction site _PvuI_ occurs at ~1685 bp, and again at ~2730 bp into pRSET-IPC. Thus, digesting this parental plasmid with the _PvuI_ enzyme should result in two linear fragments of DNA, with about 1050 and 3120 bp sizes.
     
-    A silent mutation can be introduced that results in a new _PvuI_ site at the 341st\-342nd residues of inverse pericam (ATT → ATC and TAC → GAC) , or approximately the 1020th basepair of IPC. When IPC is inserted into pRSET, its starting point is ~200bp into the pRSET plasmid. Thus, if the mutated pRSET-IPC plasmid is digested with _PvuI_, three linear fragments of DNA are the result: 470, 1050, and 2660 bp. To understand these calculations, see also the plasmid maps below. Make sure you can reproduce the numbers above before proceeding with your own samples.
+    A silent mutation can be introduced that results in a new _PvuI_ site at the 341{{< sup "st" >}}\-342{{< sup "nd" >}} residues of inverse pericam (ATT → ATC and TAC → GAC) , or approximately the 1020{{< sup "th" >}} basepair of IPC. When IPC is inserted into pRSET, its starting point is ~200bp into the pRSET plasmid. Thus, if the mutated pRSET-IPC plasmid is digested with _PvuI_, three linear fragments of DNA are the result: 470, 1050, and 2660 bp. To understand these calculations, see also the plasmid maps below. Make sure you can reproduce the numbers above before proceeding with your own samples.
     
     ![Two plasmid maps, comparing ](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig2a.jpg) ![Two plasmid maps, comparing ](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig2b.jpg)
     

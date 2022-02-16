@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 7: Wrap-Up Analysis'
 uid: 5f8e672f-9f42-ac26-3579-a568a4d379d1
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering)
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering)
 
 Introduction
 ------------
@@ -26,8 +30,8 @@ The analysis of protein concentration that you perform today will be similar to 
 3.  Average your replicate values for both standards and experimental samples.
 4.  Now calculate the average of your blank samples, then subtract this background value from each of your raw averages. (So far your column headings might look like: REP1, REP2, AVE, AVE-SUB.)
 5.  You will use your standard readings to make a calibration curve. Plot the absorbance readings for the standards (on the x-axis) vs. the known concentration of collagen added (on the y-axis). Just type in the first concentration, and divide by two down the column.
-6.  Click in the chart area, then choose menu _Chart → Add Trendline_. Click on the _Options_ Tab, and choose to display both the equation and the R2 value on the chart.
-7.  Delete data points that seem to be outside the linear range of the assay (just delete the AVE-SUB value, not the raw data!), until you get a reasonable R2 value for your line, i.e., one that is close to 1. The equation should update in real-time as you delete data.
+6.  Click in the chart area, then choose menu _Chart → Add Trendline_. Click on the _Options_ Tab, and choose to display both the equation and the R{{< sup "2" >}} value on the chart.
+7.  Delete data points that seem to be outside the linear range of the assay (just delete the AVE-SUB value, not the raw data!), until you get a reasonable R{{< sup "2" >}} value for your line, i.e., one that is close to 1. The equation should update in real-time as you delete data.
 8.  Now that you have the slope and intercept of the line, you can feed this information back into the absorbance values for your experimental samples, and calculate the actual protein concentrations. If you are unsure of how to proceed, ask your peers or instructors. The $ symbol in Excel is useful here for efficient calculations, in case you want to compare the results for multiple slope/intercept values.
 9.  Your results will most likely be closer to ng/mL than μg/mL, so go ahead and convert them.
 10.  Finally, address the following in your notebook:

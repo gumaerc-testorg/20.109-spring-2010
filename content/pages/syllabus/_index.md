@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a6ec7e7b-eb02-335c-e9f0-c5edead15c65
 ---
@@ -39,7 +41,7 @@ See the [Assignments]({{< baseurl >}}/pages/assignments) page for more details o
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 MAJOR ASSIGNMENTS
 {{< thclose >}}
 
@@ -65,10 +67,10 @@ ASSIGNMENTS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 RNA Engineering
 {{< tdclose >}}
 {{< tdopen >}}
@@ -113,10 +115,10 @@ Research article
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Cell-Biomaterial Engineering
 {{< tdclose >}}
 {{< tdopen >}}

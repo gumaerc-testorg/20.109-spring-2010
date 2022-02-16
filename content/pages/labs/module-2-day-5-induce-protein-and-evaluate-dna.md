@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 uid: c902c8ea-545c-743f-443e-440ff96d6753
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#module_2_index) >
 
 Introduction
 ------------
@@ -22,7 +26,7 @@ As evidenced by Nagai's work, wild-type inverse pericam is not toxic to BL21(DE3
 Based on its fluorescence activity, wild-type inverse pericam allows proper folding of (cp) EYFP, and based on its response to calcium, it also allows calmodulin to fold. One problem you may encounter is that your mutant proteins will no longer fold correctly. Since you made mutations in the calcium sensor part of IPC, rather than the fluorescent part, it is unlikely that your protein will destroy EYFP fluorescence. However, a common problem with misfolded proteins is the formation of insoluble aggregates, due for instance to improperly exposed hydrophobic surfaces. Proteins can be purified from these aggregates – called inclusion bodies – but the process is more labour-intensive than for soluble proteins. (The proteins must be extracted under more harsh conditions than you will use next time, then purified under denaturing conditions, before finally attempting to renature the proteins.) Inclusion bodies sometimes form simply due to very high expression of the protein of interest, causing it to pass its solubility limit. This outcome can be prevented by lowering the culture temperature or time, the amount of IPTG, or the growth phase of the bacteria.
 
 One final point to keep in mind is that not all proteins can be produced in bacteria. Eukaryotic proteins that require post-translational modifications (such as glycosylation) for activity require eukaryotic hosts (such as yeast, or the ubiquitous CHO – Chinese hamster ovary – cells). Sometimes eukaryote-derived proteins will be truncated or otherwise mistranslated by _E. coli_ due to differential codon bias (Kane, 1995); errors in translation can be prevented by providing additional tRNAs to the culture or directly to the bacteria via plasmids (McNulty, et al., 2003). Despite all this complexity, prokaryotic hosts have been plenty good enough to produce proteins for certain therapies, notably the cytokine G-CSF for patients needing to replenish their white blood cells (e.g., after chemotherapy), sold as [Neupogen](http://www.neupogen.com/
-)® by Amgen.
+){{< sup "®" >}} by Amgen.
 
 After you induce your cells with IPTG, you will let the resultant protein factories do their work for 2-3 hours. During this time, you will evaluate the DNA from your two X#Z candidates (and from the M124S mutant). First, you will run your diagnostic digests from last time out on a gel. The banding patterns will allow you to determine (or diagnose) whether either of your putative X#Z mutants actually contains the new restriction site that you introduced. Of course, there is a slim possibility that the silent mutation was incorporated but the non-silent mutation wasn't. To get more direct evidence for whether the site-directed mutagenesis worked, you will analyze data from the sequencing reactions that you set up last time.
 
@@ -237,14 +241,14 @@ Examples of IPTG-induced (left) and control (right) cell pellets. The induced pe
 1.  After ~2-3 hours, you will pour 1.5 mL from each tube (from Part 1) into a labeled eppendorf, then spin for 1 min. at maximum speed. Save the other 3 mL!
 2.  Aspirate the supernatant from each eppendorf, using a fresh yellow pipet tip on the end of the glass pipet each time.
 3.  Observe the colour of each of your pellets, and compare to the above example. If the wild-type and both mutant pellets all appear yellow-greenish to the eye, proceed as follows:
-    *   Do NOT toss the rest of the liquid cultures. First, measure their OD600 values, according to part 6 of today's protocol.
+    *   Do NOT toss the rest of the liquid cultures. First, measure their OD{{< sub "600" >}} values, according to part 6 of today's protocol.
     *   Next, pour 1.5 mL more of the relevant liquid culture on top of each pellet, spin again, and aspirate the supernatant.
     *   The last 1.5 mL of culture may be aspirated in your vacuum flask, to be later bleached and discarded.
 4.  If one or more of your pellets are white or only dimly coloured, please ask one of the teaching staff to show you the room temperature rotary shaker. You will continue to grow your bacteria overnight. Tomorrow morning, the teaching staff will collect your pellets for you and freeze them. As you can see above, the +IPTG pellets are from 3 mL of culture, while the -IPTG pellets come from 1.5 mL of culture.
 
 ### Part 6: Preparation for Next Time
 
-Next time, you will lyse your bacterial samples to release their proteins, and run these out on a protein gel. In order to compare the amount of protein in the -IPTG versus +IPTG samples, you would like to normalize by the number of cells. At this point, you may have only three samples ready (-IPTG only), or you may have all six. In either case, measure the OD600 of a 1:10 dilution of cells for each finished sample (for -IPTG you have done so already), and write this number down in your notebook. Then spin down the cells and aspirate the supernatant. Give the cell pellets to the teaching faculty; they will be stored frozen. (Be sure to make a 2X pellet for the +IPTG samples.)
+Next time, you will lyse your bacterial samples to release their proteins, and run these out on a protein gel. In order to compare the amount of protein in the -IPTG versus +IPTG samples, you would like to normalize by the number of cells. At this point, you may have only three samples ready (-IPTG only), or you may have all six. In either case, measure the OD{{< sub "600" >}} of a 1:10 dilution of cells for each finished sample (for -IPTG you have done so already), and write this number down in your notebook. Then spin down the cells and aspirate the supernatant. Give the cell pellets to the teaching faculty; they will be stored frozen. (Be sure to make a 2X pellet for the +IPTG samples.)
 
 For Next Time
 -------------

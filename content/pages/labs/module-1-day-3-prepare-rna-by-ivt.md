@@ -1,19 +1,23 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 3: Prepare RNA by IVT'
 uid: 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-2-purify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-2-purify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) >
 
 Introduction
 ------------
 
 So far you have prepared the DNA encoding both the 6-5 and the 8-12 aptamer fragments. However, it is the secondary structure of the _RNA_ that actually allows the 8-12 sequence to bind to heme. In order to make RNA from DNA, you will perform an _in vitro_ transcription (IVT) reaction.
 
-What is needed to create RNA from DNA? In PCR, you used a heat-stable DNA polymerase and dNTPs (deoxynucleotide triphosphates) to make your DNA. In an IVT, you will use an RNA polymerase and NTPs (nucleotide triphosphates) instead. The polymerase is derived from the T7 bacteriophage, and requires that the DNA to be copied contains the T7 promoter sequence, or TAA TAC GAC TCA CTA TAG GG. The buffer conditions are also somewhat different (check out the reagent lists at the end of each day), but both contain the important co-factor Mg2+. Finally, an IVT contains pyrophosphatase, because it has been empirically found to increase efficiency. Pyrophosphate is produced during the IVT, so by Le Chatelier's principle, reaction completion may be improved by removing this product.
+What is needed to create RNA from DNA? In PCR, you used a heat-stable DNA polymerase and dNTPs (deoxynucleotide triphosphates) to make your DNA. In an IVT, you will use an RNA polymerase and NTPs (nucleotide triphosphates) instead. The polymerase is derived from the T7 bacteriophage, and requires that the DNA to be copied contains the T7 promoter sequence, or TAA TAC GAC TCA CTA TAG GG. The buffer conditions are also somewhat different (check out the reagent lists at the end of each day), but both contain the important co-factor Mg{{< sup "2+" >}}. Finally, an IVT contains pyrophosphatase, because it has been empirically found to increase efficiency. Pyrophosphate is produced during the IVT, so by Le Chatelier's principle, reaction completion may be improved by removing this product.
 
 ![Schematic of the SELEX process: DNA library to RNA library to RNA pool enriched for binders, producing RT-PCR of eluant RNA.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-3-prepare-rna-by-ivt/m1d3_fig1.jpg)
 

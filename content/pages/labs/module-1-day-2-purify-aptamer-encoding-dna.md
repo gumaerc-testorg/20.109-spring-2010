@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
 uid: 52bbd0a9-989c-ea78-b8db-094bc1580980
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) >
 
 Introduction
 ------------
@@ -23,7 +27,7 @@ Although all DNA molecules travel in the same direction during gel electrophores
 
 One parameter that affects the way DNA travels through a gel is the pore size, which is in turn affected by both the weight percent of the gel and the type of agarose used. Because we are separating small DNA fragments (~ 0.1 Kbp), a high percentage (namely 3%) gel is appropriate. For bands 10-50 times this size, a 1% gel would typically be used. We will use a high-resolution (HR) agarose; its low viscosity means that high weight percent solutions are tractable to work with, and that the solidified gel remains pliable rather than brittle. HR agarose can be prepared by chemically modifying and/or partially depolymerizing natural agarose (as described in this [patent](http://www.google.com/patents?vid=USPAT5143646)).
 
-You will melt the agarose gel bands, then isolate the DNA by using a silica (SiO2) column. The column is packed with a silica resin (i.e., beads). The beads have a high ratio of surface area to volume and contain small pores, both qualities that allow them to interact with specific molecules. When nucleic acids are diluted in a high concentration of a chaotropic salt buffer, they will tend to bind to the silica. This is because chaotropic salts (such as guanidine isothiocyanate) disrupt hydrogen-bond organization between water and macromolecules, essentially dehydrating the nucleic acids and causing them to bind to the resin. Ethanol further precipitates the nucleic acids. The column-bound acids are washed with various buffers to remove salts and other contaminants before finally eluting in pure water, in which nucleic acids are highly soluble. The exact pore size and surface chemistry of the silica beads determine what sizes and kinds of nucleic acid will be bound versus washed away. In our case DNA between about 70 and 10,000 bp will be eluted.
+You will melt the agarose gel bands, then isolate the DNA by using a silica (SiO{{< sub "2" >}}) column. The column is packed with a silica resin (i.e., beads). The beads have a high ratio of surface area to volume and contain small pores, both qualities that allow them to interact with specific molecules. When nucleic acids are diluted in a high concentration of a chaotropic salt buffer, they will tend to bind to the silica. This is because chaotropic salts (such as guanidine isothiocyanate) disrupt hydrogen-bond organization between water and macromolecules, essentially dehydrating the nucleic acids and causing them to bind to the resin. Ethanol further precipitates the nucleic acids. The column-bound acids are washed with various buffers to remove salts and other contaminants before finally eluting in pure water, in which nucleic acids are highly soluble. The exact pore size and surface chemistry of the silica beads determine what sizes and kinds of nucleic acid will be bound versus washed away. In our case DNA between about 70 and 10,000 bp will be eluted.
 
 Protocols
 ---------

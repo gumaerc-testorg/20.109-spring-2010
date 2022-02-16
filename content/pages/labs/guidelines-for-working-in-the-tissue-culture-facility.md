@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: Guidelines for Working in the Tissue Culture Facility
 uid: 61a035e4-275d-81eb-212e-beb3ab2f7c87

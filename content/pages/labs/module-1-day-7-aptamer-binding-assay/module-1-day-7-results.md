@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module 1, Day 7: Aptamer Binding Assay'
+parent_type: CourseSection
 parent_uid: 6074c179-64ef-9a51-f5e9-785309daca35
 title: 'Module 1, Day 7: Results'
 uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
