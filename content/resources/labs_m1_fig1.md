@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 resourcetype: Image
 title: labs_m1_fig1.jpg
 uid: d6cf9db1-840b-790f-a496-1a103d1291e4

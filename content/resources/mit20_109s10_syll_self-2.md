@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 resourcetype: Document
 title: MIT20_109S10_syll_self.pdf
 uid: 3db4a798-e252-e816-ea92-d0d85e468a74

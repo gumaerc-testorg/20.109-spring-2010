@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
 parent_type: CourseSection
+parent_uid: 52bbd0a9-989c-ea78-b8db-094bc1580980
 resourcetype: Image
 title: m1d2_fig1.jpg
 uid: b123754b-3b2d-31f4-7767-7a2ec531c2de

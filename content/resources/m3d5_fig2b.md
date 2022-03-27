@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 3, Day 5: Transcript-Level Analysis'
 parent_type: CourseSection
+parent_uid: 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d
 resourcetype: Image
 title: m3d5_fig2b.jpg
 uid: 044d4b65-8996-d36a-9d79-7fb767b3b79a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 resourcetype: Document
 title: MIT20_109S10_labpre_m1d2.pdf
 uid: f14bd5af-7a9c-5a5a-f852-6261995ba71f

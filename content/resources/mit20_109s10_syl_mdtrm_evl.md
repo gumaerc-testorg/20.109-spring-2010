@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Module 2, Day 4: Prepare Expression System'
 parent_type: CourseSection
+parent_uid: ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f
 resourcetype: Document
 title: MIT20_109S10_syl_mdtrm_evl.pdf
 uid: e5e31a76-df54-6fed-6f79-5e22d6599bd0

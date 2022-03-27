@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 3, Day 6: Protein-Level Analysis'
 parent_type: CourseSection
+parent_uid: f82c52d5-f03d-5172-9e51-338ebfdc2fc4
 resourcetype: Image
 title: m3d6_fig1b.jpg
 uid: 53a076e2-a2d0-7c97-1b98-05379111b67c

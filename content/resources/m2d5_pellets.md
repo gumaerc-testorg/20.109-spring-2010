@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 parent_type: CourseSection
+parent_uid: c902c8ea-545c-743f-443e-440ff96d6753
 resourcetype: Image
 title: m2d5_pellets.jpg
 uid: 5a9dee82-83c1-a98d-b29e-9606a4ea08c4

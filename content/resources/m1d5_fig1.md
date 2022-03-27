@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 1, Day 5: RNA to DNA by RT-PCR'
 parent_type: CourseSection
+parent_uid: e11e968b-82aa-fefc-994a-6731a910335d
 resourcetype: Image
 title: m1d5_fig1.jpg
 uid: c08309dc-8de5-b4b9-76ae-ebeebcdb6a5d

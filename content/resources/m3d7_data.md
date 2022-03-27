@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Module 3, Day 7: Wrap-Up Analysis'
 parent_type: CourseSection
+parent_uid: 5f8e672f-9f42-ac26-3579-a568a4d379d1
 resourcetype: Other
 title: m3d7_data.zip
 uid: 594f5ac8-ea22-28c3-b0f6-2fc139c26d2b

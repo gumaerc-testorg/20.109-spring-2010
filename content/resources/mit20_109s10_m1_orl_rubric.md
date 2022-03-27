@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 resourcetype: Document
 title: MIT20_109S10_m1_orl_rubric.pdf
 uid: f131f688-8100-dcb8-8036-7ca7c0eb5f51

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 1, Day 7: Results'
 parent_type: CourseSection
+parent_uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
 resourcetype: Image
 title: wf_yellow_norm.gif
 uid: 7aff51cb-56c2-5776-256c-d9715a791586

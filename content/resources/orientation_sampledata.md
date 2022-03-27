@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Orientation
 parent_type: CourseSection
+parent_uid: 84e8174c-592f-f934-08b5-8921e05ba894
 resourcetype: Other
 title: orientation_sampledata.xlsx
 uid: 5ec9aa34-33ae-9788-7d75-dc746384eaba

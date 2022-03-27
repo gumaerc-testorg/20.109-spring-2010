@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 3, Day 4: Preparing Cells for Analysis'
 parent_type: CourseSection
+parent_uid: 9f1add66-0448-ffba-794a-48d70e4c97b2
 resourcetype: Image
 title: m3d4_fig2.jpg
 uid: 7f295fea-42de-f5e7-2240-c337580b3dd1

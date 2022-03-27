@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 resourcetype: Other
 title: MIT20_109S10_m1_anly_data.rtf
 uid: 7d17e7c5-8e69-72fa-a7b2-0ee6b7872828

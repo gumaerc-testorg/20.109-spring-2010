@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 2, Day 2: Site-Directed Mutagenesis'
 parent_type: CourseSection
+parent_uid: 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0
 resourcetype: Image
 title: m2d2_fig1.jpg
 uid: 4bf29e7a-d785-b8a5-9252-b2a97521ea8f

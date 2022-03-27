@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 parent_type: CourseSection
+parent_uid: c902c8ea-545c-743f-443e-440ff96d6753
 resourcetype: Other
 title: MIT20_109S10_m2d4_sequence.doc
 uid: 0157b734-c176-9588-be86-0c21c8a74db7

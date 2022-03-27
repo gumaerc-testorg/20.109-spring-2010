@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Module 1, Day 7: Results'
 parent_type: CourseSection
+parent_uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
 resourcetype: Image
 title: tr_orange_raw.gif
 uid: 9b89091c-60d4-f308-b50b-397cd0e649c7

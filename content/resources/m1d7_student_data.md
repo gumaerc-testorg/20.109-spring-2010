@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Module 1, Day 7: Aptamer Binding Assay'
 parent_type: CourseSection
+parent_uid: 6074c179-64ef-9a51-f5e9-785309daca35
 resourcetype: Other
 title: MIT20_109S10_lab_m1d7_data.zip
 uid: 3784557b-2bab-aba6-518a-2482c1dccac7
