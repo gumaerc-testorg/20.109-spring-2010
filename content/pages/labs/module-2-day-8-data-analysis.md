@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on protein engineering and data analysis.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 8: Data Analysis'
 uid: d9bfa075-4ac8-ea99-8914-f82c9edfb492
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering)
+\< {{% resource_link 7e3077c4-fdbc-7693-27b3-9a99e5bf2125 "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}}
 
 Introduction
 ------------
@@ -19,11 +24,11 @@ This is it, folks! The moment of truth. Time to find out how the proteins that y
 
 Let's start by considering the simple case of a receptor-ligand pair that are exclusive to each other, and in which the receptor is monovalent. The ligand (L) and receptor (R) form a complex (C), which reaction can be written.
 
-![](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_eq1.jpg)
+{{< resource "601e19ed-2a5b-0371-2a20-719fda14241c" >}}
 
 At equilibrium, the rates of the forward reaction (rate constant = _k{{< sub "f" >}}_) and reverse reaction (rate constant = _k{{< sub "r" >}}_) must be equivalent. Solving this equivalence yields an equilibrium dissociation constant _K{{< sub "D" >}}_, which may be defined either as _k{{< sub "r" >}} / k{{< sub "f" >}},_ or as \[_R_\]\[_L_\] / \[_C_\], where brackets indicate the molar concentration of a species. Meanwhile, the fraction of receptors that are bound to ligand at equilibrium, often called y or θ, is _C / R_{{< sub "_TOT_" >}}, where _R{{< sub "TOT" >}}_ indicates total (both bound and unbound) receptors. Note that the position of the equilibrium (i.e., y) depends on the starting concentrations of the reactants; however, _K{{< sub "D" >}}_ is always the same value. The total number of receptors _R{{< sub "TOT" >}}_\= _\[C\]_ (ligand-bound receptors) + _\[R\]_ (unbound receptors). Thus,
 
-![](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_eq2.jpg)
+{{< resource "2324c74b-9ce7-ddf2-d3e6-41c952685530" >}}
 
 where the right-hand equation was derived by algebraic substitution. If the ligand concentration is in excess of that of the receptor, _\[L\]_ may be approximated as a constant, L, for any given equilibrium. Let's explore the implications of this result:
 
@@ -39,7 +44,7 @@ where the right-hand equation was derived by algebraic substitution. If the liga
     
     →Then _y_ = 0.5, and the fraction of receptors that are bound to ligand is 50%. This is why you can read _K{{< sub "D" >}}_ directly off of the plots in Nagai's paper (compare Figure 3 and Table 1). When y = 0.5, the concentration of free calcium (our _\[L\]_) is equal to _K{{< sub "D" >}}_. **This is a great rule of thumb to know.**
     
-    ![Examples of a simple binding curve and set of semilog binding curves.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_fig1a.jpg) ![Examples of a simple binding curve and set of semilog binding curves.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_fig1b.jpg)
+    {{< resource "f79896d3-681a-96c8-a930-212bd34ec4e8" >}} {{< resource "601cbe3f-d4a0-0161-ec07-e8d032e2c5f5" >}}
     
 
 Left: **Simple Binding Curve**. The binding fraction y at first increases linearly as the starting ligand concentration is increased, then asymptotically approaches full saturation (y=1). The dissociation constant KD is equal to the ligand concentration \[L\] for which y = 1/2. Right: **Semilog Binding Curves**. By converting ligand concentrations to logspace, the dissociation constants are readily determined from the sigmoidal curves' inflection points. The three curves each represent different ligand species. The middle curve has a KD close to 10 nM, while the right-hand curve has a higher KD and therefore lower affinity between ligand and receptor (vice-versa for the left-hand curve).
@@ -59,7 +64,7 @@ Today you will analyze the fluorescence data that you got last time. Begin by an
 
 1.  Open an Excel file for your data analysis. Begin by making a column of the free calcium concentrations present in your twelve test solutions. Assuming a 1:1 dilution of protein with calcium, the concentrations are: 10 nM, 50 nM, 100 nM, 200 nM, 400 nM, 500 nM, 600 nM, 800 nM, 1 μM, 2.5 μM, 10 μM, 100 μM. Be sure to convert all concentrations to the same units.
 2.  Now open the text file containing your raw data as a tab-delimited file in Excel.
-    *   Samples of calcium titration data for four student lab groups; includes one optional repeat (T/R Blue group) after 24 hour settling period ([ZIP]({{< baseurl >}}/resources/m2d8_data)).
+    *   Samples of calcium titration data for four student lab groups; includes one optional repeat (T/R Blue group) after 24 hour settling period ({{% resource_link 5b22bbd0-4218-c4a9-0450-ac4a568b4cb9 "ZIP" %}}).
 3.  Convert the row-wise data to column-wise data (using _Paste Special → Transpose_), and transfer each column to your analysis file. Add column headers to indicate which protein is which, and analyze each replicate separately for now. Also include a column of your control samples that did not contain protein.
 4.  Begin by calculating the average of your blank samples, and bold this number for easy reference. It is the background fluorescence present in the calcium solutions and should be quite low. If necessary, subtract this background value from each of your raw data values. It may help to have a 6-column series called "RAW", and another called "SUBTRACTED."
 5.  Next you should normalize your data. The maximum and minimum fluorescence values for a given titration series should be defined as 100% and 0% fluorescence, respectively, and every other fluorescence value should be expressed as a percentage in between. Think about how to mathematically express these conditions.
@@ -73,7 +78,7 @@ Today you will analyze the fluorescence data that you got last time. Begin by an
 
 **Preparation**
 
-1.  Download these MATLAB files ([ZIP]({{< baseurl >}}/resources/m2d8_prep)) (This ZIP file contains: 3 .m files.). Move them to the username/Documents/MATLAB folder on your PC.
+1.  Download these MATLAB files ({{% resource_link 2fe00281-e3e2-975c-6d76-a898f2446ca0 "ZIP" %}}) (This ZIP file contains: 3 .m files.). Move them to the username/Documents/MATLAB folder on your PC.
 2.  Double-click on the MATLAB icon to start up this software.
 3.  The main window that opens is called the command window: here is where you run programs (or directly input commands) and view outputs. You can also see and access the command history, workspace, and current directory windows, but you likely won't need to today.
 4.  In the command window, type _more on_; this command allows you to scroll through multi-page output (using the spacebar), such as help files.
@@ -105,7 +110,7 @@ Today you will analyze the fluorescence data that you got last time. Begin by an
     *   Why should only the transition region be analyzed in a Hill plot?
     *   What is the relationship between slope and _K{{< sub "D" >}}_ and/or _n_, and intercept and _K{{< sub "D" >}}_ and/or _n_?
 4.  If your mutant proteins are not well-described by any of the models so far, what kind of model(s) (qualitatively speaking) do you think might be useful?
-    *   Optional: If your data might be well-described by a model with two _K{{< sub "D" >}}_'s (or if you are interesting in exploring some sample data that is), download and run these two MATLAB files ([ZIP]({{< baseurl >}}/resources/m2d8_2kd)) (This ZIP file contains: 2 .m files.)
+    *   Optional: If your data might be well-described by a model with two _K{{< sub "D" >}}_'s (or if you are interesting in exploring some sample data that is), download and run these two MATLAB files ({{% resource_link cb4e51d7-48dd-a4ff-7c94-16e8e057b27e "ZIP" %}}) (This ZIP file contains: 2 .m files.)
 
 Following are the analysis results from the four lab groups for whom raw titration data data was supplied above.
 
@@ -240,6 +245,6 @@ We used the model 2 data, since it have smaller residual values, and it best mat
 For Next Time
 -------------
 
-1.  The first draft of your [research article]({{< baseurl >}}/pages/assignments/module-2-assignment-protein-engineering-research-article) is due by 11 a.m. on your next lab day.
-2.  Your second self-assessment ([PDF]({{< baseurl >}}/resources/mit20_109s10_syll_self-1)) is due in lab on Day 1 of Module 3.
+1.  The first draft of your {{% resource_link 0e9b5740-ff56-87e3-742a-f3a2e5ce3883 "research article" %}} is due by 11 a.m. on your next lab day.
+2.  Your second self-assessment ({{% resource_link ec8c027e-bf85-0e8b-f1bd-c4547714fba3 "PDF" %}}) is due in lab on Day 1 of Module 3.
 3.  Shortly before class next time, you should read the 20.109 Guidelines for working in the tissue culture facility. We will have also a presentation from MIT's Environmental Health and Safety Office to help prepare you for doing cell cultures next week.

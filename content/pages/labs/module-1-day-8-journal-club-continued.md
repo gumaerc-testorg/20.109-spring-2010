@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Notes from a class in which students finish their student Journal Club
+  presentations.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,11 +10,15 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 8: Journal Club (Continued)'
 uid: 5dbc8036-e0e3-9c3c-1973-b5a70d1971f1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-7-aptamer-binding-assay) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering)
+\< {{% resource_link 6074c179-64ef-9a51-f5e9-785309daca35 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}}
 
-For today's class, we will finish the student Journal Club presentations. See the [Module 1 Journal Club assignment]({{< baseurl >}}/pages/assignments/module-1-assignments-journal-club) page for more information.
+For today's class, we will finish the student Journal Club presentations. See the {{% resource_link 96d78713-6ddb-e72b-2a7f-724d9ac77ed6 "Module 1 Journal Club assignment" %}} page for more information.
 
 For Next Time
 -------------

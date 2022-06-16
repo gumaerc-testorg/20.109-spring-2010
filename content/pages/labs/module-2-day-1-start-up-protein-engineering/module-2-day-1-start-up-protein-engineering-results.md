@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on protein engineering.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module 2, Day 1: Start-Up Protein Engineering'
@@ -7,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 8f241b98-5c89-b697-aa6c-acb092a600c2
 title: 'Module 2, Day 1: Start-Up Protein Engineering - Results'
 uid: 9c40b4ad-50ec-633d-6bc5-98a28fda304f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following table begins with a couple of teaching cases. Each student team is to fill in their own lab results; two samples are

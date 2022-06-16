@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on testing cell viability.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,22 +9,26 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 3: Testing Cell Viability'
 uid: a6ef5fb5-bb91-ae11-a408-6647172e10b5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-2-initiate-cell-culture) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) >
+\< {{% resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link 9f1add66-0448-ffba-794a-48d70e4c97b2 "Next lab day" %}} >
 
 Introduction
 ------------
 
 Promoting appropriate cell life and death is a key part of tissue engineering. When cells are put into contact with a biomaterial (or into any novel culture condition), their viability may be affected. Some materials are cytotoxic, i.e., deadly to cells. Often, cytotoxicity varies with the concentration of one or more of the chemical components (such as a cross-linker) comprising the biomaterial, and is more or less severe for different cell types. Cell density within a culture is another factor affecting cell livelihood, notably when the number of cells exceeds the nutrient concentrations available in the culture medium. In a 3D culture such as an alginate bead, sufficient nutrients and even oxygen may not be able to diffuse to the center of the bead prior to depletion by cells on the outer rim, even when at a high concentration in the bulk fluid. Finally, note that most cells require certain soluble and/or contact-dependent signals to remain viable. For example, immune cells called naïve T cells require the cytokine IL-7 and contact with self-MHC proteins for survival.
 
-![Two photos of LIVE/DEAD assay, comparing green+red channels and just the red channels. One bright red cell appears in the center of each photo. A group of about 15 other cells appears clearly in the green+red photo, while they are barely visible in the red only photo.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-3-testing-cell-viability/m3d3_fig1.jpg)
+{{< resource "839fcad5-9853-d6fb-c985-c4a964278a5e" >}}
 
 **LIVE/DEAD® assay example.** Cell viability was monitored using fluorescent dyes that differ in their cell permeance and nucleic acid affinity. Fluorescence emission in the green and red (left) and red alone (right) channels is shown for the same field of cells.
 
 Many assays are available to monitor the numbers of live and dead cells in a culture. The kit you will use today is made by Molecular Probes, a company (now partnered with Invitrogen) that makes a plethora of fluorescent cell stains for various purposes. The principle exploited by the LIVE/DEAD® kit is the relative permeability of cell membranes when the cell is live (intact membrane) or dead (damaged membrane). Ethidium is a nucleic acid stain that you are familiar with from running agarose gels in modules 1 and 2; the ethidium homodimer-2 variant emits red fluorescence, and cannot diffuse past intact cell membranes. The dye SYTO 10, on the other hand, is membrane-permeant, and thus enters both live and dead cells; it emits fluorescence in the green channel. SYTO 10 has lower affinity for nucleic acids than does ethidium, and thus is excluded from dead cells over time, enabling one to distinguish between live (green) and dead (red) cells. Viability can be inferred by monitoring parameters other than cell permeability. For example, some membrane-permeable dyes are only activated to a fluorescent form inside cells that have active esterase enzymes, thus indicating their metabolic activity. Assays that measure cell potentials or redox activity are also available. In general, fluorescence assays are more sensitive than colorimetric assays. Along with sensitivity, stability, toxicity, and ease of scale-up are important factors to consider when choosing an assay.
 
-![Graph of cell number vs. CFDA-SE fluorescence intensity, roughly bell-shaped curve with six peaks; annotation "6 divisions" on the first peak at lowest intensity, and "0 divisions" at the highest intensity.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-3-testing-cell-viability/m3d3_fig2.jpg)
+{{< resource "8c5b6407-2ba2-6047-e721-b9cce2296d00" >}}
 
 **Cell proliferation assay example.** Cells were stained with CFDA-SE and monitored by flow cytometry after several days.
 
@@ -84,17 +89,17 @@ When observing your cells under fluorescence excitation, you should work with th
 
 Sample results from a student group, showing clustering of cells within the bead:
 
-![Photo of a few scattered bright green dots and one red dot on a very dark green background.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-3-testing-cell-viability/m3d3_result1_new.jpg)
+{{< resource "aef2611b-2102-4a39-01af-74fab48c8cb6" >}}
 
-![Photo of a few scattered bright green dots and one red dot on a very dark green background.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-3-testing-cell-viability/m3d3_result2_new.jpg)
+{{< resource "291b9c5b-f674-14a9-48d1-b0d46689b921" >}}
 
 **LIVE/DEAD cell viability assay expresses similar viability for non-compressed cells (top) and compressed cells (bottom)**. Images were taken at 10x magnification at the core of the bead. Live cells fluoresce green and dead cells fluoresce red. There appears to be little difference between cell viability between the two samples. (Images courtesy of Ariana Chehrazi and Jacqueline Söegaard. Used with permission.)
 
 A related pair of images by Agi Stachowiak, showing cell suspensions isolated from the beads:
 
-![Photo of a few scattered bright green dots and one red dot on a very dark green background.(left) Photo showing two clusters of bright green dots (8 dots in one cluster, 3 dots in the other).(right)](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-3-testing-cell-viability/m3d3_10x_ld2_new.jpg)
+{{< resource "542a8fd0-3bec-bb80-dce3-638448bb5269" >}}
 
-![Photo of a few scattered bright green dots and one red dot on a very dark green background.(left) Photo showing two clusters of bright green dots (8 dots in one cluster, 3 dots in the other).(right)](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-3-testing-cell-viability/m3d3_40x_ld2_new.jpg)
+{{< resource "78b69874-26ad-2990-f15f-300244edb8a9" >}}
 
 **Fluorescence micrographs of chondrocyte cell suspensions isolated from alginate beads, at 10x (top) and 40x (bottom) magnification.** Cells were treated with nucleic acid stains that mark live cells green and dead cells red.
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on purifying aptamer-encoding DNA.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
 uid: 52bbd0a9-989c-ea78-b8db-094bc1580980
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) >
+\< {{% resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Next lab day" %}} >
 
 Introduction
 ------------
@@ -19,7 +24,7 @@ Today you will purify your two aptamer-encoding DNA fragments in preparation for
 
 Gel electrophoresis is a technique used to separate large molecules by size using an applied electrical field and appropriate sieving matrix. DNA fragments are typically separated in gels composed of agarose, a seaweed-derived polymer (see figure, below left). To prepare these gels, molten agarose is poured into a horizontal casting tray containing a comb. Once the agarose has solidified, the comb is removed, leaving wells into which the DNA sample can be loaded. The loaded DNA samples are then pulled through the matrix when a current is applied across it. Specifically, DNA molecules are negatively charged due to their phosphate backbones, and thus travel toward the positive charge at the far end of the gel (see figure, below right).
 
-![A photo showing mesh of filaments.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-2-purify-aptamer-encoding-dna/m1d2_fig1.jpg)![Diagram of agarose gel setup.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-2-purify-aptamer-encoding-dna/m1d2_fig2.jpg)
+{{< resource "b123754b-3b2d-31f4-7767-7a2ec531c2de" >}}{{< resource "08c7e896-8f30-cb4d-e6fc-a1f03194feeb" >}}
 
 Left: Scanning electron microscope image of agarose polymer. (© source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse)). Right: Diagram of agarose gel setup, for agarose gel electrophoresis. (Figure by MIT OpenCourseWare.)
 
@@ -145,7 +150,7 @@ BLANK
 
 _Sample Result_
 
-![Photo of electrophoresis gel with ladders of individual lines in lanes 1 and 6, and a bright single line in lanes 3, 4, 8 and 9.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-2-purify-aptamer-encoding-dna/m1d2_sample.jpg)
+{{< resource "b4eb8aaf-6af7-e49f-16de-946707ca3fcb" >}}
 
 A sample DNA gel showing two group's data from Module 1, Day 2. Lanes 1 and 6 contain DNA standards of known length ([New England BioLabs 100 bp DNA ladder](http://www.neb.com/nebecomm/products/productN3231.asp)). Lanes 3-4 and 8-9 show PCR products just above 100 bp in size, as expected. Lanes 2 and 7 show no product formation in the no template control (NTC) samples. The faint lines well below 100 bp are reaction components, not products. (Image courtesy of Ariana Chehrazi, Jacqueline Söegaard, and two anonymous MIT students.)
 
@@ -185,7 +190,7 @@ To purify your DNA from the agarose, you will use a kit from the Qiagen company.
 For Next Time
 -------------
 
-1.  You will write up the work you do in Module 1 in a formal lab report, per the [Guidelines for Writing Up Your Research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research). To help you pace your work, as well as give you feedback early on, you will be required to draft small portions of the report as homework assignments. For next time, you should write an early draft of your Materials and Methods: on PCR, gel electrophoresis, and DNA purification. Be sure to read the Methods section of the Guidelines before you begin.
+1.  You will write up the work you do in Module 1 in a formal lab report, per the {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for Writing Up Your Research" %}}. To help you pace your work, as well as give you feedback early on, you will be required to draft small portions of the report as homework assignments. For next time, you should write an early draft of your Materials and Methods: on PCR, gel electrophoresis, and DNA purification. Be sure to read the Methods section of the Guidelines before you begin.
 2.  Finish preparing for the journal article discussion we will have next time.
 
 Reagent List

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on OpenWetWare, a common space for
+  people to share information about protocols, materials, research projects, meetings
+  or anything else that might be of interest to users.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -7,6 +10,10 @@ parent_type: CourseSection
 parent_uid: a6ec7e7b-eb02-335c-e9f0-c5edead15c65
 title: 'OpenWetWare Use in 20.109 '
 uid: 5039894a-fa2c-382c-824c-e781f889cc0b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 What is OpenWetWare?

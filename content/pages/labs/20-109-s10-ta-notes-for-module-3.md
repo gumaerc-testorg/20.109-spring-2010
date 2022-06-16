@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains general preparation notes for the teaching assistants
+  supporting the Module 3 labs on cell-biomaterial engineering.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +10,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'TA Notes For Module 3: Cell-Biomaterial Engineering'
 uid: 6b1bae8b-ac67-d9ae-c31a-bac7f34d1632
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#Biomaterial_Engineering)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Biomaterial_Engineering" %}}
 
 This page contains general preparation notes for the teaching assistants supporting the Module 3 labs. Instructors interested in implementing these labs may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for additional fine-tuning information.
 
@@ -283,4 +289,4 @@ Special Materials
     *   10 mM HEPES
     *   pH to 7.4
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#Biomaterial_Engineering)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Biomaterial_Engineering" %}}

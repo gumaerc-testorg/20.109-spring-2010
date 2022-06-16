@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment  to write a protein engineering research article.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 2 Assignment: Protein Engineering Research Article'
 uid: 0e9b5740-ff56-87e3-742a-f3a2e5ce3883
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Overview
@@ -28,7 +33,7 @@ Similarly, the instructions from [Molecular Cell Biology](http://mcb.asm.org/cgi
 
 _"MCB is devoted to the advancement and dissemination of fundamental knowledge concerning the molecular biology of eukaryotic cells, of both microbial and higher organisms. In most cases, reports that emphasize methods and nucleotide sequence data alone (without experimental documentation of the functional significance of the sequence) will not be considered."_
 
-Clearly the goal of published research is not merely to catalog or describe observations but to collect the information into some coherent story that advances general understanding and provides insights that others can use. This is the critical difference between a "lab report" which primarily describes your observations and the "research article" you'll write which invites you to share the insights your data gives. Here you must frame your results to address a larger question that's of general interest to the community. Many of the format instructions that applied to a [lab report]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research) also apply to your research article, but keep in mind how the intention of the two written assignments differs.
+Clearly the goal of published research is not merely to catalog or describe observations but to collect the information into some coherent story that advances general understanding and provides insights that others can use. This is the critical difference between a "lab report" which primarily describes your observations and the "research article" you'll write which invites you to share the insights your data gives. Here you must frame your results to address a larger question that's of general interest to the community. Many of the format instructions that applied to a {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "lab report" %}} also apply to your research article, but keep in mind how the intention of the two written assignments differs.
 
 Logistics
 ---------
@@ -64,7 +69,7 @@ Concise writing is appreciated and rewarded!
 Content Guidelines
 ------------------
 
-Begin by reading the general [guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research). A few notes specific to Module 2 are below:
+Begin by reading the general {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "guidelines for writing up your research" %}}. A few notes specific to Module 2 are below:
 
 Discussion and Citations
 ------------------------
@@ -90,7 +95,7 @@ In most research endeavours, you will collect more data than you ultimately publ
 Evaluation
 ----------
 
-The full descriptive rubric for lab reports can be found on the [guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#evaluation). The weighting for Module 2, which is different than that for Module 1, is as follows:
+The full descriptive rubric for lab reports can be found on the {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "guidelines for writing up your research" "#evaluation" %}}. The weighting for Module 2, which is different than that for Module 1, is as follows:
 
 {{< tableopen >}}
 {{< theadopen >}}

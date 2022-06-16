@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f8a3f156e21c09f62d9c6a24a184b381_tr_blue_raw.gif
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f8a3f156e21c09f62d9c6a24a184b381_tr_blue_raw.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,4 +16,8 @@ parent_uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
 resourcetype: Image
 title: tr_blue_raw.gif
 uid: f8a3f156-e21c-09f6-2d9c-6a24a184b381
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

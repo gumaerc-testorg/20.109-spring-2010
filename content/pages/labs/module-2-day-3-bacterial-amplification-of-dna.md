@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on bacterial amplification of DNA.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,14 +9,18 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 3: Bacterial Amplification of DNA'
 uid: 080f3ca5-b66b-7f32-2240-25c3a1fd5acc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) >
+\< {{% resource_link 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0 "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f "Next lab day" "#module_2_index" %}} >
 
 Introduction
 ------------
 
-![Diagram showing bacterial transformation on an antibiotic medium.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig1.jpg)
+{{< resource "8efacee8-7791-7f07-a8a4-11f827c70719" >}}
 
 Bacterial transformation. (Figure by MIT OpenCourseWare.)
 
@@ -202,11 +207,11 @@ You will make your teaching faculty very happy if you contribute to their prepar
 For Next Time
 -------------
 
-1.  The pRSET plasmid with inverse pericam insert, or pRSET-IPC, is 4169 basepairs long. According to the cutters list ([PDF]({{< baseurl >}}/resources/mit20_109s10_m2d1_cut12-1)) that you used on Day 1, restriction site _PvuI_ occurs at ~1685 bp, and again at ~2730 bp into pRSET-IPC. Thus, digesting this parental plasmid with the _PvuI_ enzyme should result in two linear fragments of DNA, with about 1050 and 3120 bp sizes.
+1.  The pRSET plasmid with inverse pericam insert, or pRSET-IPC, is 4169 basepairs long. According to the cutters list ({{% resource_link 1109c22d-7068-0ba9-3809-2c4f613504ef "PDF" %}}) that you used on Day 1, restriction site _PvuI_ occurs at ~1685 bp, and again at ~2730 bp into pRSET-IPC. Thus, digesting this parental plasmid with the _PvuI_ enzyme should result in two linear fragments of DNA, with about 1050 and 3120 bp sizes.
     
     A silent mutation can be introduced that results in a new _PvuI_ site at the 341{{< sup "st" >}}\-342{{< sup "nd" >}} residues of inverse pericam (ATT → ATC and TAC → GAC) , or approximately the 1020{{< sup "th" >}} basepair of IPC. When IPC is inserted into pRSET, its starting point is ~200bp into the pRSET plasmid. Thus, if the mutated pRSET-IPC plasmid is digested with _PvuI_, three linear fragments of DNA are the result: 470, 1050, and 2660 bp. To understand these calculations, see also the plasmid maps below. Make sure you can reproduce the numbers above before proceeding with your own samples.
     
-    ![Two plasmid maps, comparing ](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig2a.jpg) ![Two plasmid maps, comparing ](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig2b.jpg)
+    {{< resource "e65674e0-92f1-0b19-829c-2e05d05bd599" >}} {{< resource "5155fe6a-4848-10c1-124e-e315331b6d68" >}}
     
     Left: IPC plasmid map (Q1). Right: Mutant plasmid map (Q1)
     

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/7aff51cb56c25776256cd9715a791586_wf_yellow_norm.gif
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/7aff51cb56c25776256cd9715a791586_wf_yellow_norm.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,4 +16,8 @@ parent_uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
 resourcetype: Image
 title: wf_yellow_norm.gif
 uid: 7aff51cb-56c2-5776-256c-d9715a791586
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

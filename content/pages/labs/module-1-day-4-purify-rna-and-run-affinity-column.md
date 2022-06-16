@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on purifying RNA and affinity chromatography.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 4: Purify RNA and Run Affinity Column'
 uid: 6bee5b41-a34d-cb2b-7923-c9303daa44b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-5-rna-to-dna-by-rt-pcr) >
+\< {{% resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link e11e968b-82aa-fefc-994a-6731a910335d "Next lab day" %}} >
 
 Introduction
 ------------
@@ -86,7 +91,7 @@ Before starting today, make sure to clean your bench area, pipettes, and centrif
 
 During the one hour incubation, you may write in your notebook, leave lab for a snack break, prepare for Part 4 below, or otherwise spend the time as you see fit.
 
-![Photo of a lab bench with apparatus.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-4-purify-rna-and-run-affinity-column/m1d4_fig1.jpg)
+{{< resource "73f27b15-1f57-3bc0-f29c-6fe555434fa8" >}}
 
 SELEX column set-up
 

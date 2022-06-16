@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment on RNA computational analysis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 1 Assignment: RNA Computational Analysis'
 uid: 719527d1-5fa3-3e74-09a6-6598e496c6a1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Contents

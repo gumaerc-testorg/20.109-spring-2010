@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on protein engineering.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 1: Start-Up Protein Engineering'
 uid: 8f241b98-5c89-b697-aa6c-acb092a600c2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-[Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis) >
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0 "Next lab day" %}} >
 
 Introduction
 ------------
@@ -42,11 +47,11 @@ To help you manage your time today, recommended times for the parts below are: P
 
 Perhaps nothing is so conducive to a feeling of intimate familiarity with a protein as studying it at the amino acid level (primary structure). For the first part of lab today, you will examine a two-dimensional representation of inverse pericam.
 
-![Schematic diagram of protein structures and sequences.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-1-start-up-protein-engineering/m2d1_fig1.jpg)
+{{< resource "5e2eed7f-4a53-ba1e-9152-1adb617f10fb" >}}
 
 Schematic structures and sequences of pericams for expression in bacteria and mammalian cells. Sequences of linkers and amino acid substitutions are shown below and above the bars, respectively. His-6, the polyhistidine tag; kz, Kozak consensus sequence; nls, nuclear localization signal; coxIV, cytochrome c oxidase subunit IV targeting signal. (Courtesy of National Academy of Sciences, U. S. A. Used with permission. Source: Nagai, T., et al. "Circularly permuted green fluorescent proteins engineered to sense Ca2+." _PNAS_ 98, no. 6 (March 6, 2001): 3197-3202. Copyright (c) 2001 National Academy of Sciences, U.S.A.)
 
-1.  Begin by downloading this document ([PDF]({{< baseurl >}}/resources/mit20_109s10_m2d1_ipc)), which contains the amino acid and DNA sequences of inverse pericam (IPC). You can compare the annotated sequence file to Figure 1 of the paper by Nagai, et al., which depicts the inverse pericam construct in schematic form. In the sequence file, the M13 peptide is highlighted in magenta, the EYFP sequence in yellow, and calmodulin (CaM) in green. Linker sequences connecting these three parts are shown in blue lettering.
+1.  Begin by downloading this document ({{% resource_link b12e7838-ffad-a692-d1b6-eb06fbf1f3ac "PDF" %}}), which contains the amino acid and DNA sequences of inverse pericam (IPC). You can compare the annotated sequence file to Figure 1 of the paper by Nagai, et al., which depicts the inverse pericam construct in schematic form. In the sequence file, the M13 peptide is highlighted in magenta, the EYFP sequence in yellow, and calmodulin (CaM) in green. Linker sequences connecting these three parts are shown in blue lettering.
 2.  To help you locate the binding sites for calcium (in the calmodulin portion of IPC), read the following portions of the Zhang paper, along with skimming whatever you find useful: abstract, first two paragraphs, "Linker and loop flexibility" section.
 3.  In your IPC sequence document, mark the amino acid residues that make up the calcium-binding loops in CaM in boldface. To keep yourself oriented, use the fact that the CaM within inverse pericam is an E104Q mutant, that is, the 104th residue of calmodulin is Q.
 4.  Do the four calcium binding loops share any common features? You might imagine that negating or enhancing such features could decrease or increase calcium affinity, respectively.
@@ -91,7 +96,7 @@ Note that throughout this module, you will perform most experiments not just wit
 
 ### Part 4: Primer Design for Mutagenesis
 
-![Schematic of primer design for traditional PCR and for mutagenesis.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-1-start-up-protein-engineering/m2d1_fig2.jpg)  
+{{< resource "bb26f46c-5253-2b79-8f7f-4a57a59ff7be" >}}  
  
 
 **Schematic of primer design for traditional PCR and for mutagenesis**. PCR amplification (A) and site-directed mutagenesis (B) are depicted. Arrows represent primers. Solid lines are template DNA, with the coding strand on top. Dashed lines indicate copies of the template. (A) Primers for PCR amplification are perfectly complementary to the template. (Note: the complexity of the first few rounds of PCR is not shown.) (B) Mutagenic primers differ from the template at X. (Note: for circular DNA, the entire template will ultimately be copied.)
@@ -154,13 +159,13 @@ One goal of this module is to interrogate DNA sequences in multiple ways. To set
 
 One category of useful DNA tags are called restriction sites. These sequences, usually short and palindromic, are recognized by enzymes that cut the sites in unique and specific ways, as we will discuss further next time. For now, all you need to know is that you would like to create a new restriction site in your DNA, ideally one that exists in only one or two (or zero) other places in the entire inverse pericam plasmid. All these requirements are getting pretty complicated, and you can imagine that they become quite time-consuming to satisfy by hand! We will use some freely available computer programs to help us.
 
-![Screenshot of WatCut silent mutation analysis screen.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-1-start-up-protein-engineering/m2d1_fig3.jpg)
+{{< resource "94909ca0-8a36-4d5c-426f-bdb4fa528572" >}}
 
 **WatCut Analysis screenshot for S101L primer**. (Courtesy of Michael Palmer. Used with permission.)
 
 1.  At the [WatCut Web site](http://watcut.uwaterloo.ca/watcut/watcut/template.php?act=silent_new&cid=2e3c48d2f8162bb09fe6543c1c47a571), created by Michael Palmer at Waterloo University, click on _Silent_ _Mutation Analysis_ and input the primer you designed in part 4. After choosing the appropriate reading frame (i.e., make sure the amino acids are correct!), what you receive back will be a list of restriction sites that result from making specific point mutations, which themselves are highlighted in red lettering. For example, for the S101L primer shown above, about 55 choices come up (see screenshot figure).
     *   Start out by looking at the results for 0 to 1 mutations. Some of you may have the lucky result that your original (non-silent) mutation creates a new restriction site, and you would miss this if you did not look at the 0 mutation results.
-2.  Print out the results page for your mutation (and for S101L ([PDF]({{< baseurl >}}/resources/mit20_109s10_m2d1_watcut)) if you want to practice (S101L file courtesy of Michael Palmer, used with permission). You should also use the New England Biolabs [NEBcutter](http://tools.neb.com/NEBcutter2/) tool to produce a list of  restriction sites that occur 1-2 times in the inverse pericam plasmid, and those that cut 0 times.
+2.  Print out the results page for your mutation (and for S101L ({{% resource_link fce7f13b-c2a8-16e0-c781-fd434735b5a5 "PDF" %}}) if you want to practice (S101L file courtesy of Michael Palmer, used with permission). You should also use the New England Biolabs [NEBcutter](http://tools.neb.com/NEBcutter2/) tool to produce a list of  restriction sites that occur 1-2 times in the inverse pericam plasmid, and those that cut 0 times.
 3.  On your results page, cross off any choices that do not occur on _either_ of the restriction site lists. For any choice that is on one of the lists, write a "2" or "1" or "0" next to it, depending on how many times it is present in the plasmid. This should leave very few choices indeed! For example, for the S101L primer, only two choices is left: _BsgI_ and _FspI_, both double-cutters.
     *   If you have more than one choice left, you can take other considerations into account. For example, ideally the silent mutation should be close to the middle of the primer, just like your non-silent one, but mutations farther away often work as well. This criterion does not distinguish between our S101L choices.
     *   For a double-cutter, another consideration is how far apart the two sites are. For _BsgI_, they are at ~400 and 700 base-pairs, or only 300 bp apart. For _FspI_, the sites are at ~1700 and 2900, or 1200 bp apart. A larger spacing is generally advantageous for later analysis.
@@ -191,9 +196,9 @@ The point mutation in bold creates the new restriction site FspI, TGCGCA, which 
 
 {{< tableclose >}}
 
-Finally, input your primers in today's [results table]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering/module-2-day-1-start-up-protein-engineering-results). This primer and its reverse complement will be ordered for you in time for the next class.
+Finally, input your primers in today's {{% resource_link 9c40b4ad-50ec-633d-6bc5-98a28fda304f "results table" %}}. This primer and its reverse complement will be ordered for you in time for the next class.
 
 For Next Time
 -------------
 
-1.  Look ahead to Part 3 (Journal Article discussion) of our [next lab class]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis), and begin reading the two papers we will discuss in class next time. Because you had a lot of work due today, you will also have some in-class time on Day 2 (~45 min, say) to finish your close reading of the article. There is no need to hand in written answers to any of the questions - they are simply meant to guide your reading.
+1.  Look ahead to Part 3 (Journal Article discussion) of our {{% resource_link 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0 "next lab class" %}}, and begin reading the two papers we will discuss in class next time. Because you had a lot of work due today, you will also have some in-class time on Day 2 (~45 min, say) to finish your close reading of the article. There is no need to hand in written answers to any of the questions - they are simply meant to guide your reading.

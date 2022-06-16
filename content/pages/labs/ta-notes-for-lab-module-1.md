@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains general preparation notes for the teaching assistants
+  supporting Module 1 labs on RNA engineering.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +10,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'TA notes for Lab Module 1: RNA Engineering'
 uid: d6824c94-8959-a4ec-b5b3-a6ce9cdcde6d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#RNA_Engineering)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" %}}
 
 This page contains general preparation notes for the teaching assistants supporting Module 1 labs. Instructors interested in implementing these labs may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for additional fine-tuning information.
 
@@ -215,7 +221,7 @@ Day 7: Aptamer Binding Assay
 *   Part 2  
     *   6 μM heme stock, 1.2 mL per group
     *   From ~ 1 M stock solution in DMSO
-    *   Dab a bit of solid into the solvent, then measure at 405 nm (extinction coefficient is 180 mM{{< sup "\\-1" >}} cm{{< sup "\\-1" >}})
+    *   Dab a bit of solid into the solvent, then measure at 405 nm (extinction coefficient is 180 mM{{< sup "\-1" >}} cm{{< sup "\-1" >}})
     *   2x SB, 1.7 mL per group
 
 ### Day of Lab (T/W)
@@ -230,4 +236,4 @@ Day 8: Journal Club
 
 *   None - strictly a journal club day.
 
- « Back to [Labs]({{< baseurl >}}/pages/labs#RNA_Engineering)
+ « Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" %}}

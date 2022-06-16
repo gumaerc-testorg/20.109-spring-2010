@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the major assignments for the course along with
+  information on daily coursework.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Overview
@@ -46,7 +52,7 @@ DESCRIPTIONS
 1
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[RNA Engineering]({{< baseurl >}}/pages/labs#RNA_Engineering)
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "RNA Engineering" "#RNA_Engineering" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Laboratory report
@@ -57,9 +63,9 @@ Laboratory report
 {{< tdopen >}}
 
 
-[Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-engineering-laboratory-report)
+{{% resource_link b51163eb-3d06-d776-ae5a-b5f8349c22d4 "Assignment description and evaluation rubric" %}}
 
-[Guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research)
+{{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for writing up your research" %}}
 
 
 {{< tdclose >}}
@@ -75,9 +81,9 @@ Computational analysis
 {{< tdopen >}}
 
 
-[Assignment description]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-computational-analysis)
+{{% resource_link 719527d1-5fa3-3e74-09a6-6598e496c6a1 "Assignment description" %}}
 
-Data ([RTF]({{< baseurl >}}/resources/mit20_109s10_m1_anly_data))
+Data ({{% resource_link 7d17e7c5-8e69-72fa-a7b2-0ee6b7872828 "RTF" %}})
 
 
 {{< tdclose >}}
@@ -93,11 +99,11 @@ Journal club presentation
 {{< tdopen >}}
 
 
-[Sign-up for articles]({{< baseurl >}}/pages/assignments/module-1-assignments-journal-club) 
+{{% resource_link 96d78713-6ddb-e72b-2a7f-724d9ac77ed6 "Sign-up for articles" %}} 
 
-[Guidelines for oral presentations]({{< baseurl >}}/pages/assignments/guidelines-for-oral-presentations)
+{{% resource_link c054e983-55c4-7571-51ab-8f1efea6beb0 "Guidelines for oral presentations" %}}
 
-Evaluation rubric ([PDF]({{< baseurl >}}/resources/mit20_109s10_m1_orl_rubric))
+Evaluation rubric ({{% resource_link f131f688-8100-dcb8-8036-7ca7c0eb5f51 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -108,7 +114,7 @@ Evaluation rubric ([PDF]({{< baseurl >}}/resources/mit20_109s10_m1_orl_rubric))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Protein Engineering]({{< baseurl >}}/pages/labs#Protein_Engineering)
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Protein Engineering" "#Protein_Engineering" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Research article
@@ -119,9 +125,9 @@ Research article
 {{< tdopen >}}
 
 
-[Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-2-assignment-protein-engineering-research-article)
+{{% resource_link 0e9b5740-ff56-87e3-742a-f3a2e5ce3883 "Assignment description and evaluation rubric" %}}
 
-[Guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research)
+{{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for writing up your research" %}}
 
 
 {{< tdclose >}}
@@ -132,7 +138,7 @@ Research article
 3
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Cell-Biomaterial Engineering]({{< baseurl >}}/pages/labs#Biomaterial_Engineering)
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Cell-Biomaterial Engineering" "#Biomaterial_Engineering" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Research idea presentation
@@ -143,9 +149,9 @@ Research idea presentation
 {{< tdopen >}}
 
 
-[Assignment description]({{< baseurl >}}/pages/assignments/module-3-assignment-oral-presentations)
+{{% resource_link 0c4ba1fe-4327-9c5a-ab2b-c5f956ef140f "Assignment description" %}}
 
-Evaluation rubric ([PDF]({{< baseurl >}}/resources/mit20_109s10_m3_orl_rubric))
+Evaluation rubric ({{% resource_link c61bab7a-949e-a844-5f7c-c9fe2d95584e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -159,7 +165,7 @@ Data summary
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-3-assignment-cell-biomaterial-engineering-report) 
+{{% resource_link 911e8ec9-83fa-d6c8-629d-d3cbfe9b87ec "Assignment description and evaluation rubric" %}} 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +184,7 @@ In addition to the module assignments listed above, there are several other form
     *   These will vary considerably in content and points associated with each assignment. You may be asked to perform a calculation, draw a conclusion, and/or make a figure using the data you have collected. The homeworks can be found in the "for next time" section of each lab day. You can work with your lab partner, friends and teaching assistants on these assignments but you will hand in individual assignments unless otherwise specified.
 
 *   **Laboratory Notebooks** (5% of final grade)
-    *   You will record your data on the white pages of a bound notebook. The yellow, duplicate pages will be collected and evaluated by the teaching assistants. Notebooks will be evaluated according to these [guidelines]({{< baseurl >}}/pages/labs/guidelines-for-maintaining-your-lab-notebook).
+    *   You will record your data on the white pages of a bound notebook. The yellow, duplicate pages will be collected and evaluated by the teaching assistants. Notebooks will be evaluated according to these {{% resource_link 3b6c19a7-06ec-ef2a-ad75-041f80286fd6 "guidelines" %}}.
 
 *   **Participation** (2% of final grade)
-    *   As a student in 20.109, you are expected to be an active participant in a scientific community. Your student colleagues, the teaching faculty, and especially your lab partner, are all your collaborators. They rely on you for timely posting of your data, and for your unique and thoughtful contributions during class. Your participation grade will ultimately be reviewed by all the teaching faculty, but as a starting point, you should fill out the self-assessment rubric once per module. ([PDF]({{< baseurl >}}/resources/mit20_109s10_syll_self-2))
+    *   As a student in 20.109, you are expected to be an active participant in a scientific community. Your student colleagues, the teaching faculty, and especially your lab partner, are all your collaborators. They rely on you for timely posting of your data, and for your unique and thoughtful contributions during class. Your participation grade will ultimately be reviewed by all the teaching faculty, but as a starting point, you should fill out the self-assessment rubric once per module. ({{% resource_link 3db4a798-e252-e816-ea92-d0d85e468a74 "PDF" %}})

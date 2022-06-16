@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides general lab policies for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: General Lab Policies, Do's and Don'ts
 uid: 714642be-45a1-d5f4-6345-5094456059c8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« Back to [Lab Basics]({{< baseurl >}}/pages/labs#Basics)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Lab Basics" "#Basics" %}}
 
 Lab Attendance
 --------------

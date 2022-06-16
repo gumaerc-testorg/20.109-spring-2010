@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on preparing an expression system.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,22 +9,26 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 4: Prepare Expression System'
 uid: ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) >
+\< {{% resource_link 080f3ca5-b66b-7f32-2240-25c3a1fd5acc "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link c902c8ea-545c-743f-443e-440ff96d6753 "Next lab day" "#module_2_index" %}} >
 
 Introduction
 ------------
 
 Now that we have prepared DNA encoding your mutant inverse pericams, we would like to actually produce the proteins. Last time you were here, you transformed competent bacteria (called XL1-Blue) with mutagenized DNA prepared from a template plasmid. Successfully transformed bacteria grew into colonies on amipicillin-containing plates, and yesterday your oh-so devoted teaching staff picked two colonies per mutant to grow in liquid culture. The XL1-Blue cell line, although it now carries the inverse pericam DNA, cannot produce the inverse pericam protein. Today you will extract DNA from the XL1-Blue cells, prepare it for analysis, and transform your IPC mutant plasmids into a new bacterial system that can produce the protein directly.
 
-![Map of feature highlights for pRSET vector.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-4-prepare-expression-system/m2d4_fig1.jpg)
+{{< resource "9044d227-6549-60c6-3b54-0823f2978a7e" >}}
 
 Map of pRSET A, B, & C. (Figure by MIT OpenCourseWare.) (Courtesy of Life Technologies, Carlsbad, CA. Used with permission.)
 
 The bacterial expression vector we are using ([Invitrogen pRSET A, B, & C](http://products.invitrogen.com/ivgn/product/V35120)) contains the bacteriophage T7 promoter. This promoter is active only in the presence of T7 RNA polymerase (T7RNAP), an enzyme that therefore must be expressed by the bacterial strain used to make the protein of interest. We will use the BL21(DE3)pLysS strain, which has the following genotype: F-, _omp_T _hsd_SB (rB- mB-) _gal dcm_ (DE3) pLysS (CamR). In BL21(DE3), T7RNAP is associated with a _lac_ construct, and its expression is under the control of the _lac_UV5 promoter. Due to the action of the _lac_ repressor (_lac_I gene), the polymerase will not be produced except in the presence of lactose or a small-molecule lactose analogue such as IPTG (isopropyl β-D-thiogalactoside). To further reduce 'leaky' expression of the protein of interest (in our case, inverse pericam), the pLysS version of BL21(DE3) contains T7 lysozyme, which also inhibits basal transcription of T7RNAP. This gene is retained by Chloramphenicol selection, while the pRSET plasmid itself (and thus inverse pericam) is retained by Ampicillin selection - as you learned last time.
 
-![Schematic of production process for mutant IPC protein.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-4-prepare-expression-system/m2d4_fig2_1.gif)
+{{< resource "322807db-1708-fc22-5670-30235d912b3b" >}}
 
 **Production of mutant IPC protein**. The mutant DNA and protein are indicated by a green colour. Blue arrows/text indicate steps performed during class time; black arrows indicate steps performed by the teaching staff.
 
@@ -40,7 +45,7 @@ Protocols
 2.  Measure the OD{{< sub "600" >}} value of a 1:10 dilution of your cells (use a total volume of 600 μL). If the cells are not yet dense enough, return them to the rotary shaker in the incubator. Remember to balance with another tube! As a rule, your cells should double every 20-30 min.
     
 
-![Diagram showing how to aspirate the supernatant, with a pellet at the bottom of an eppendorf tube.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-4-prepare-expression-system/m2d4_fig3.jpg)
+{{< resource "992d076d-3e95-2b81-a73b-c5fe6fb72fc4" >}}
 
 Aspirate the supernatant, as shown, removing as few cells as possible. (Figure by MIT OpenCourseWare.)
 
@@ -176,7 +181,7 @@ For a total volume of 25 μL
 
 **Sequencing Reactions**
 
-As we will discuss in lab today, sequencing reactions require a primer for initiation. Legible readout of the gene typically begins about 40-50 bp downstream of the primer site, and continues for ~1000 bp at most. Thus, multiple primers must be used to fully view genes > 1 Kbp in size. How many basepairs long is inverse pericam? (Try doing a Word Count on this sequence document ([DOC]({{< baseurl >}}/resources/mit20_109s10_m2d4_sequence)) Luckily, we only care about the back end of IPC, i.e., the part containing calmodulin. To be more precise, if the mutation you incorporated occurs later than the 20th residue of calmodulin, set up your reactions with only the "reverse" primer. If your mutation is upstream of CaM-20, you should set up one reaction with the reverse primer and one with the forward, per each candidate. As for M124S, everyone will be given the same sequencing data to analyze, because you are all working with DNA from the same candidate.
+As we will discuss in lab today, sequencing reactions require a primer for initiation. Legible readout of the gene typically begins about 40-50 bp downstream of the primer site, and continues for ~1000 bp at most. Thus, multiple primers must be used to fully view genes > 1 Kbp in size. How many basepairs long is inverse pericam? (Try doing a Word Count on this sequence document ({{% resource_link d0abb223-8a9d-029e-d3cd-b9e0145cf12f "DOC" %}}) Luckily, we only care about the back end of IPC, i.e., the part containing calmodulin. To be more precise, if the mutation you incorporated occurs later than the 20th residue of calmodulin, set up your reactions with only the "reverse" primer. If your mutation is upstream of CaM-20, you should set up one reaction with the reverse primer and one with the forward, per each candidate. As for M124S, everyone will be given the same sequencing data to analyze, because you are all working with DNA from the same candidate.
 
 The recommended composition of sequencing reactions is 200-500 ng of plasmid DNA and 3.2 pmoles of sequencing primer in a final volume of 12 μL. The miniprep'd plasmid should have ~1 μg of nucleic acid/μL but that will be a mixture of RNA and DNA, so we will guess at the amount of plasmid DNA appropriate for our reactions. If you are setting up reactions with both the forward-reading and the reverse primers, do not mix the two primers together in one tube!
 
@@ -275,7 +280,7 @@ For Next Time
 -------------
 
 1.  The vector [pRSET](http://products.invitrogen.com/ivgn/product/V35120) has several properties that make it useful for protein expression and production in bacteria. Some of these were described in today's Introduction. Name 2 other features contained in the pRSET vector and what purposes they serve. (Use your own words to describe the purposes, don't just quote the catalogue.)
-2.  BL21(DE3) _E. coli_ are often used for protein expression. In contrast, XL1-Blue _E. coli_ are 'workhorse' cells useful for plasmid propagation. What are the two modified genes in XL1-Blue that make them ideal for this task? It may help you to refer to the cell manual (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.neb.com/products/c2527-bl21de3-competent-e-coli#Protocols,%20Manuals%20&%20Usage)).
+2.  BL21(DE3) _E. coli_ are often used for protein expression. In contrast, XL1-Blue _E. coli_ are 'workhorse' cells useful for plasmid propagation. What are the two modified genes in XL1-Blue that make them ideal for this task? It may help you to refer to the cell manual ([PDF](https://www.neb.com/products/c2527-bl21de3-competent-e-coli#Protocols,%20Manuals%20&%20Usage)).
 3.  The major assessment for this module will be a research article describing your protein design work. For this assignment, you will write a draft of the introduction to your report. The introduction provides a framework for the story you are about to tell (_The Amazing Adventures of a Mutant Calcium Sensor_), and thus serves two main purposes. For one, you must provide sufficient background information for a reader to understand the forthcoming results. Just as importantly, you must motivate the audience to keep reading! How? Reveal the significance of the work through connections to both prior scientific accomplishments and future applications. You are welcome to use your own creativity and judgement as to what a good introduction should look like; however, you may find the suggested structure and content below useful.
     
     *   **Paragraph 1: most general, "big picture" paragraph****.** Here you should introduce the reader to the broader context of your experiment and motivate why your research is important. You might address questions such as those below, but you won't necessarily touch on all of them equally or even at all. Be sure to tell a coherent story, not a dense but unconnected list of facts.
@@ -293,7 +298,7 @@ For Next Time
         *   Your expectations for how these mutations will affect protein function
         *   A brief summary of how you intend to assess whether your experiment worked
         *   (Later you will add a brief overview of your results and conclusions)
-4.  Please complete the midsemester evaluation form ([PDF]({{< baseurl >}}/resources/mit20_109s10_syl_mdtrm_evl)). Complete the questionnaire and then print it out **without including your name** to turn in. If there is something you'd like to see done differently for the rest of the course, this is your chance to lobby for that change. Similarly, if there is something you think the class has to keep doing, let us know that too.
+4.  Please complete the midsemester evaluation form ({{% resource_link e5e31a76-df54-6fed-6f79-5e22d6599bd0 "PDF" %}}). Complete the questionnaire and then print it out **without including your name** to turn in. If there is something you'd like to see done differently for the rest of the course, this is your chance to lobby for that change. Similarly, if there is something you think the class has to keep doing, let us know that too.
 
 Reagent List
 ------------

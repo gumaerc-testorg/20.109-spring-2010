@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines for working in the tissue culture facility.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: Guidelines for Working in the Tissue Culture Facility
 uid: 61a035e4-275d-81eb-212e-beb3ab2f7c87
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« Back to [Lab Basics]({{< baseurl >}}/pages/labs#Basics)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Lab Basics" "#Basics" %}}
 
 Good cell culture technique will simultaneously protect you from anything dangerous that might be living with the cells and protect the cells from contamination by you. You will be working with an established cell line unlikely to carry any agents that could harm you. Consequently, the guidelines here emphasize techniques for maintaining healthy and uncontaminated cells. Some points are particular to the 20.109 cell culture facility but most are common practice and will be good habits for any tissue culture work you do.
 
@@ -86,4 +91,4 @@ Every lab that works with cultured cells has a freezer stock of each cell line t
     *   These hoods operate best with the blowers _**on**_ 24/7.
     *   Do not turn the UV light on - to increase its lifetime, the lamp is used only sporadically.
 
-« Back to [Lab Basics]({{< baseurl >}}/pages/labs#Basics)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Lab Basics" "#Basics" %}}

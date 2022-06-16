@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on preparing RNA by IVT.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 3: Prepare RNA by IVT'
 uid: 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-2-purify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) >
+\< {{% resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link 6bee5b41-a34d-cb2b-7923-c9303daa44b8 "Next lab day" %}} >
 
 Introduction
 ------------
@@ -19,7 +24,7 @@ So far you have prepared the DNA encoding both the 6-5 and the 8-12 aptamer frag
 
 What is needed to create RNA from DNA? In PCR, you used a heat-stable DNA polymerase and dNTPs (deoxynucleotide triphosphates) to make your DNA. In an IVT, you will use an RNA polymerase and NTPs (nucleotide triphosphates) instead. The polymerase is derived from the T7 bacteriophage, and requires that the DNA to be copied contains the T7 promoter sequence, or TAA TAC GAC TCA CTA TAG GG. The buffer conditions are also somewhat different (check out the reagent lists at the end of each day), but both contain the important co-factor Mg{{< sup "2+" >}}. Finally, an IVT contains pyrophosphatase, because it has been empirically found to increase efficiency. Pyrophosphate is produced during the IVT, so by Le Chatelier's principle, reaction completion may be improved by removing this product.
 
-![Schematic of the SELEX process: DNA library to RNA library to RNA pool enriched for binders, producing RT-PCR of eluant RNA.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-3-prepare-rna-by-ivt/m1d3_fig1.jpg)
+{{< resource "695edab6-25d2-9f93-ed6a-747bad3d5b58" >}}
 
 Overview of SELEX.
 
@@ -345,10 +350,10 @@ Note that multiple pathways for blood clotting exist. An **APTT assay** measures
 
 **Writing**
 
-As you read the paper by Rusconi, et al., consider not only its scientific content, but also the authors' writing style (perhaps not all on one read!). Refer to our [Guidelines for Writing Up Your Research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research) Sketch out answers to the questions below (right on the paper if you wish). Your answers will not be collected, but you may be called on in discussion to share your ideas.
+As you read the paper by Rusconi, et al., consider not only its scientific content, but also the authors' writing style (perhaps not all on one read!). Refer to our {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for Writing Up Your Research" %}} Sketch out answers to the questions below (right on the paper if you wish). Your answers will not be collected, but you may be called on in discussion to share your ideas.
 
 *   Which part of the text corresponds with an Introduction section? What is the topic and/or function of each paragraph? What purpose(s) do the citations serve?
-*   Which part of the text corresponds with a Results section? Can you find one or more examples of paragraphs with effective introductory and concluding sentences, according to our [Guidelines for results]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Results)? Are there any parts in the Results that you think belong in the Discussion instead, according to our [Guidelines for discussions]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Discussion) and [results vs. discussions]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Results_vs._Discussion)?
+*   Which part of the text corresponds with a Results section? Can you find one or more examples of paragraphs with effective introductory and concluding sentences, according to our {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for results" "#Results" %}}? Are there any parts in the Results that you think belong in the Discussion instead, according to our {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for discussions" "#Discussion" %}} and {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "results vs. discussions" "#Results_vs._Discussion" %}}?
 *   Which part of the text corresponds with a Discussion section? What is the topic and/or function of each paragraph? What purpose(s) do the citations serve?
 
 **Content**
@@ -383,7 +388,7 @@ When you arrive in lab today, each group will be assigned one of the following t
 For Next Time
 -------------
 
-1.  [Day 4]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) of this module is poised to run long, so you should read the entire protocol and perhaps prepare some of your lab notebook in advance. In addition, to save time later you should prepare an automated worksheet (e.g., in Excel) that will perform the required calculations for that day. Your worksheet should do the following, and a copy must be handed in using the mock numbers provided:
+1.  {{% resource_link 6bee5b41-a34d-cb2b-7923-c9303daa44b8 "Day 4" %}} of this module is poised to run long, so you should read the entire protocol and perhaps prepare some of your lab notebook in advance. In addition, to save time later you should prepare an automated worksheet (e.g., in Excel) that will perform the required calculations for that day. Your worksheet should do the following, and a copy must be handed in using the mock numbers provided:
     *   The worksheet should accept 260 nm and 280 nm absorbance readings for RNA samples.
         *   Mock numbers: 0.524, 0.255 for sample 1; 0.427, 0.212 for sample 2.
     *   The first calculation should be the 260:280 ratio.

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on transcript-level analysis.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 5: Transcript-Level Analysis'
 uid: 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) >
+\< {{% resource_link 9f1add66-0448-ffba-794a-48d70e4c97b2 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link f82c52d5-f03d-5172-9e51-338ebfdc2fc4 "Next lab day" %}} >
 
 Introduction
 ------------
@@ -21,7 +26,7 @@ A great way to identify proteins is to exploit antibodies – also called immuno
 
 Antibody proteins comprise constant (C) and variable (V) regions, on both their heavy and light chains. The C regions determine antibody effector functions, such as antibody-dependent killing of infected cells. The three hypervariable portions of the V region together make up the antigen-recognition site. Only a small portion of an antigen, called an epitope, is recognized by its cognate antibody. This ~10 amino acid region may be linear, or it may be made up of linearly distant regions and thus recognized only when the antigen is in its native conformation. For example, conformation-dependent antibodies are useful for distinguishing different collagen types.
 
-![Diagram of the steps for Indirect ELISA and Sandwich ELISA.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-5-transcript-level-analysis/m3d5_fig1.jpg)
+{{< resource "b6f2c166-4679-fb46-0e1d-1e9cd71fac56" >}}
 
 Schematics of indirect and sandwich ELISA. Triangles indicate the protein of interest, and \* indicates a conjugated enzyme for later detection. (Blocking step not shown.)
 
@@ -335,7 +340,7 @@ Today you will use an image analysis program called [ImageJ](http://rsbweb.nih.g
     *   The samples from left to right are: (ladder), CN I chondrocyte, CN I stem cell, CN II chondrocyte, CN II stem cell.
     *   In each case, the lower band is the GAPDH internal control.
 
-![Two agarose gel images.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-5-transcript-level-analysis/m3d5_fig2a.jpg) ![Two agarose gel images.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-5-transcript-level-analysis/m3d5_fig2b.jpg)
+{{< resource "ca5f7099-0885-8d4f-225b-27d8f66f87c8" >}} {{< resource "044d4b65-8996-d36a-9d79-7fb767b3b79a" >}}
 
 Teaching faculty data for freshly isolated chondrocytes and mesenchymal stem cells.
 
@@ -371,7 +376,7 @@ Your goal for this section will be to compare the effort required for, and the r
 
 Once you have cell counts (whether automated or manual) that you are happy with, you can practice doing some basic statistical analysis.
 
-1.  Begin by this Excel file ([XLS]({{< baseurl >}}/resources/mit20_109s10_m3d5_stats)) as a framework to carry out the basic statistical manipulations we discussed in Lecture 3. The file is modified from original by Bevin Engelward. Used with permission.
+1.  Begin by this Excel file ({{% resource_link 873cebab-d6c2-499a-c4a0-a47cd76f85f8 "XLS" %}}) as a framework to carry out the basic statistical manipulations we discussed in Lecture 3. The file is modified from original by Bevin Engelward. Used with permission.
 2.  Find and plot 95% confidence intervals for the live cell counts and/or live cell percentage for each of your two samples.
     *   What are the advantages and disadvantages of looking at counts versus percentages? In what situations would looking at counts be misleading?
 3.  Compare the means (count and/or percentage) of your two samples. At what confidence level (if any) are they different?
@@ -379,7 +384,7 @@ Once you have cell counts (whether automated or manual) that you are happy with,
 For Next Time
 -------------
 
-The final draft of your [Module 2 research article]({{< baseurl >}}/pages/assignments/module-2-assignment-protein-engineering-research-article) is due at the start of the next class lecture period.
+The final draft of your {{% resource_link 0e9b5740-ff56-87e3-742a-f3a2e5ce3883 "Module 2 research article" %}} is due at the start of the next class lecture period.
 
 Reagent List
 ------------

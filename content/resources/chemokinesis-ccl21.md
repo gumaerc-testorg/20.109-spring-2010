@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Supporting Videos for Module 3, Day 1 Lecture: Introduction to Cell-Biomaterial

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on characterizing protein expression.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 6: Characterize Protein Expression'
 uid: 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) >
+\< {{% resource_link c902c8ea-545c-743f-443e-440ff96d6753 "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link 7e3077c4-fdbc-7693-27b3-9a99e5bf2125 "Next lab day" "#module_2_index" %}} >
 
 Introduction
 ------------
@@ -19,13 +24,13 @@ Last time you used the lactose-analogue IPTG to induce expression of inverse per
 
 We can take several measures to ensure that a high quantity of plasmid-encoded protein is produced by our bacteria, such as using a high-copy plasmid. However, the bacteria in which we grow the protein clearly need to produce other proteins merely to survive. The bacterial expression vector we are using ([pRSET](http://products.invitrogen.com/ivgn/product/V35120)) contains six Histidine residues downstream of a bacterial promoter and in-frame with a start codon. Our resultant protein is therefore marked by the presence of these residues, or His-tagged. Histidine has several interesting properties, notably its near-neutral pKa, and His-rich peptides are promiscuous binders, particularly to metals. (For example, histidine side chains help coordinate iron molecules in hemoglobin.)
 
-![Process schematic diagram for affinity separation, showing four steps: coat agarose beads with Ni2+; add protein mixture; wash away non-His proteins; and elute His-tagged protein.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-6-characterize-protein-expression/m2d6_fig1.jpg)
+{{< resource "9f6b75dc-8a6f-b36f-0d69-9c65d94407b5" >}}
 
 **Affinity separation process**. Green represents Nickel, blue the (His-tagged) protein of interest, and orange the other proteins in the cell extract.
 
 Today we will use a Nickel-agarose resin to separate our protein of interest from the other proteins present in the bacteria. The His-tagged protein will preferentially bind to the Nickel-coated beads, while irrelevant proteins can be washed away. Finally, a high concentration of imidazole (which is the side chain of histidine) can be used to elute the His-tagged inverse pericam by competition. Due to the inherent fragility of IPC, we will add several components to our protein extraction and purification reagents: bovine serum albumin (BSA), which is a protein stabilizer, and a cocktail of protease inhibitors.
 
-![Chemical diagrams for histidine and imidazole.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-6-characterize-protein-expression/m2d6_fig2a.jpg)![Chemical diagrams for histidine and imidazole.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-6-characterize-protein-expression/m2d6_fig2b.jpg)
+{{< resource "c5a36638-249b-327d-9b0e-e32a64ba9f9c" >}}{{< resource "43986848-68b8-8677-53aa-48a6165fa8b4" >}}
 
 Histidine and its side chain imidazole. (Images: public domain.)
 
@@ -268,7 +273,7 @@ Unstained ladder
 
 _{{< anchor "m2d6_sample_gel" >}}{{< /anchor >}}Sample gel result_
 
-![Photo of a blue-stained electrophoresis gel.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-6-characterize-protein-expression/m2d6_result.jpg)
+{{< resource "459ddce7-0eda-067e-b43f-1674e27766b8" >}}
 
 **Sample gel result: IPC and mutant protein expression**. Cells were treated with (+) or without (-) IPTG to induce IPC expression in (+) samples, and then run on and SDS-PAGE. **Lane 1:** Kaleidoscope stained marker. **Lanes 2 and 5:** Wild type IPC (-) (+). **Lanes 3 and 6:** M124S (-) (+). **Lane 4 and 7:** E84G (-) (+). **Lane 8:** Unstained marker. Both wildtype and mutant proteins were expected to be 50.7 kD. All samples showed a dark band around 70 kD, mostly likely the BSA added to the cell lysis cocktail. (Photo and caption courtesy of anonymous MIT student. Used with permission.)
 

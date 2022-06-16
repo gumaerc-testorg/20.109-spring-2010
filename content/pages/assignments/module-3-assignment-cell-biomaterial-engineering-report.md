@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment to write a cell-biomaterial engineering report.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 3 Assignment: Cell-Biomaterial Engineering Report'
 uid: 911e8ec9-83fa-d6c8-629d-d3cbfe9b87ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Data Summary

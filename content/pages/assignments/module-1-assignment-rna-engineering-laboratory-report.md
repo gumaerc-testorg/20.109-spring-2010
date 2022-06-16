@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment to create an RNA engineering laboratory report.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 1 Assignment: RNA Engineering Laboratory Report'
 uid: b51163eb-3d06-d776-ae5a-b5f8349c22d4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Contents
@@ -59,7 +64,7 @@ Though somewhat variable, typical section lengths might be:
 {{< anchor "Content_Guidelines" >}}{{< /anchor >}}Content Guidelines
 --------------------------------------------------------------------
 
-Begin by reading the general [guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research), which describe the expectations for every section of the report, from Abstract to References. A few notes specific to Module 1 are as follows.
+Begin by reading the general {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "guidelines for writing up your research" %}}, which describe the expectations for every section of the report, from Abstract to References. A few notes specific to Module 1 are as follows.
 
 ### Introduction
 
@@ -98,7 +103,7 @@ You are not expected to do a thorough survey of the relevant primary literature 
 {{< anchor "Evaluation" >}}{{< /anchor >}}Evaluation
 ----------------------------------------------------
 
-The full descriptive rubric for lab reports can be found on the [guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Evaluation). The weighting for Module 1 is as follows:
+The full descriptive rubric for lab reports can be found on the {{% resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "guidelines for writing up your research" "#Evaluation" %}}. The weighting for Module 1 is as follows:
 
 {{< tableopen >}}
 {{< theadopen >}}

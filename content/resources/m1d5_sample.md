@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/fafb8d0a137de94f466eaac840a7377e_m1d5_sample.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/fafb8d0a137de94f466eaac840a7377e_m1d5_sample.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,8 @@ parent_uid: e11e968b-82aa-fefc-994a-6731a910335d
 resourcetype: Image
 title: m1d5_sample.jpg
 uid: fafb8d0a-137d-e94f-466e-aac840a7377e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

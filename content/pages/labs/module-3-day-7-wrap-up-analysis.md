@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on biomaterials engineering and analysis.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 7: Wrap-Up Analysis'
 uid: 5f8e672f-9f42-ac26-3579-a568a4d379d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering)
+\< {{% resource_link f82c52d5-f03d-5172-9e51-338ebfdc2fc4 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}}
 
 Introduction
 ------------
@@ -25,7 +30,7 @@ Protocols
 The analysis of protein concentration that you perform today will be similar to the titration curve analysis that you did in Module 1.
 
 1.  Open the text file containing your raw data in Excel, and save it as an Excel file.
-    *   Example data (Collagen II ELISA and Collagen I ELISA) for four student lab groups ([ZIP]({{< baseurl >}}/resources/m3d7_data))
+    *   Example data (Collagen II ELISA and Collagen I ELISA) for four student lab groups ({{% resource_link 594f5ac8-ea22-28c3-b0f6-2fc139c26d2b "ZIP" %}})
 2.  Label the columns to reflect your samples. It may be easiest to visually separate samples (in the first few rows of the sheet) and standards (in the next few rows), since they will undergo partly different manipulations. You may also want to work on two separate worksheets, one for each collagen type.
 3.  Average your replicate values for both standards and experimental samples.
 4.  Now calculate the average of your blank samples, then subtract this background value from each of your raw averages. (So far your column headings might look like: REP1, REP2, AVE, AVE-SUB.)

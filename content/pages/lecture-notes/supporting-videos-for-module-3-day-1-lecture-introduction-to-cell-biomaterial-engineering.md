@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides videos with an introduction to cell-biomaterial
+  engineering
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,6 +11,10 @@ parent_uid: 46b1af53-76fc-7292-a586-d10a6a87cfac
 title: 'Supporting Videos for Module 3, Day 1 Lecture: Introduction to Cell-Biomaterial
   Engineering'
 uid: 27d1bbb4-5349-ca1d-a4cd-455a6e01c674
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Slide 6: Cytokines promote cell functions

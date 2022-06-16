@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines on maintaining a lab notebook for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: Guidelines for Maintaining Your Lab Notebook
 uid: 3b6c19a7-06ec-ef2a-ad75-041f80286fd6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Lab notebooks are kept to document and organize your experimental plans and data. Every lab requires each researcher to keep one. Yet no two scientists organize their lab notebooks identically, and there isn't one "right" way for you to keep yours. There are some common elements that all lab notebooks share and some important habits you should develop in keeping your notebook for this class. All lab notebooks should be...

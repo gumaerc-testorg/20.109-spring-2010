@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines for writing up research for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: Guidelines For Writing Up Your Research
 uid: 4475e656-793c-6dff-b84a-59b0ac66adb2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Contents
