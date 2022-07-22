@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Two photos showing clusters of mostly green and a few red dots.
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection

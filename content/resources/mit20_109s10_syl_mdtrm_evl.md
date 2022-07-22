@@ -4,6 +4,7 @@ description: ''
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/e5e31a76df546fed6f795e22d6599bd0_MIT20_109S10_syl_mdtrm_evl.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Module 2, Day 4: Prepare Expression System'
 parent_type: CourseSection

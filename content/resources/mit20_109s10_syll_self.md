@@ -4,6 +4,7 @@ description: ''
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/147be60692a6eb58a17ef77c7ef27e8b_MIT20_109S10_syll_self.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Module 1, Day 7: Aptamer Binding Assay'
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information about the promises and expectations, day‐to‐day workflow and annotating protocols.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Graph of four curves, showing shifting peak from 396 to 405 nm, and
     peak magnitude growing from 0.27 to 0.38. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Module 1, Day 5: RNA to DNA by RT-PCR'
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Graph showing the shift of Soret peak caused by heme-binding aptamers.
-

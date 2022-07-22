@@ -4,6 +4,7 @@ description: ''
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/cb4e51d748dda4ff7c9416e8e057b27e_m2d8_2kd.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Module 2, Day 8: Data Analysis'
 parent_type: CourseSection
