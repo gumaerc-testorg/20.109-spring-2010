@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section provides an introduction to the lab and its ten stations.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: Lab Orientation
 uid: 84e8174c-592f-f934-08b5-8921e05ba894
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#Orientation)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" %}}
 
 Contents
 --------
@@ -53,7 +62,7 @@ No matter how fine its lens, a light microscope cannot distinguish objects close
 
 Today you will be shown how to use each of the microscopes in the main lab and you will practice visualizing and photographing a sample. You will be asked to focus a sample during the lab practical next time.
 
-![Photos of a conventional microscope and a fluorescent microscope in the lab.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_1.jpg) ![Photos of a conventional microscope and a fluorescent microscope in the lab.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_1b.jpg)
+{{< resource "a73311aa-1907-1a93-cca9-bbe2842fbda5" >}} {{< resource "c5c3bd1f-40da-1ebc-50a8-ccbf742f2ab4" >}}
 
 left: Conventional microscope and Right:Fluorescent microscope
 
@@ -63,12 +72,12 @@ Today you will make 100 ml of a 0.5M sorbitol solution and measure its pH. Makin
 
 **Part 1: At the Balance**
 
-**![Photo of a laboratory balance.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_2.jpg)**
+**{{< resource "ac183c65-c1f4-f519-5e8b-9235bb508e4a" >}}**
 
 Balance
 
 1.  Put on gloves and eye protection to weigh out solids. This protects you from the chemicals and the chemicals from getting contaminated with anything foreign on your hands. Sorbitol is not a dangerous chemical.
-2.  Zero the balance with a medium size weigh boat on it. Weigh boats are kept in the drawer under the balance. The marked button marked -> O/T <- will zero ("tare") the balance and the display should read 0.0000 after taring. Be sure to close the balance doors when taring the balance.
+2.  Zero the balance with a medium size weigh boat on it. Weigh boats are kept in the drawer under the balance. The marked button marked -> O/T \<- will zero ("tare") the balance and the display should read 0.0000 after taring. Be sure to close the balance doors when taring the balance.
 3.  Use a spatula to measure 9.1 grams of sorbitol. To measure this, open the balance doors and hold the spatula and chemical over the weigh boat. Begin by adding only a small amount of the powder to the weigh boat. Once you determine how much that weighs, you can add correspondingly more. If you have weighed out too much, you can put some back as long as you have used a clean spatula and a clean weigh boat.
 4.  Remove the weigh boat with your sorbitol from the balance, gently bend the ends together and pour the contents into a beaker. Tap the back of the weigh boat to loosen any powder that is stuck. The weigh boat can be discarded in the trash since sorbitol is not dangerous.
 5.  Clean the balance with a brush. Clean the area around the balance with a wet paper towel.
@@ -85,7 +94,7 @@ Balance
 
 ### {{< anchor "Station_4" >}}{{< /anchor >}}Station 4: Introduction to pH (Self-Guided)
 
-![Photo of a pH meter and electrode.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_3.jpg)
+{{< resource "5ca8d173-fd8f-7244-601e-59641b8733c5" >}}
 
 pH meter and electrode
 
@@ -100,7 +109,7 @@ pH meter and electrode
 
 Color is created when a white light strikes a molecule that then reflects light of a certain wavelength and absorbs all the others. A spectrophotometer is an instrument that measures the amount of light absorbed by a sample. It does this by shining light of a particular wavelength into a sample and measuring how much light comes all the way through. Samples are held in cuvettes between the light source and the detector.
 
-![Diagram of spectrophotometry process to measure absorbance.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_4.jpg)
+{{< resource "51f20a82-7240-b89b-54f6-dfb2ed84726a" >}}
 
 Measuring absorbance (Figure by MIT OpenCourseWare.)
 
@@ -110,7 +119,7 @@ In this assay you will investigate the calibration of your pipets by measuring t
 
 **Part 1: Using the DU 640 ("old") Spectrophotometer**
 
- **![Photos of the DU 640 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_5.jpg) ![Photos of the DU 640 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_5b.jpg)** 
+ **{{< resource "8b1544b4-b02d-06e7-eec1-cb43f22abec8" >}} {{< resource "fdc2e2c0-37ba-d4a7-348b-197fff25b182" >}}** 
 
 Left: Old spectrophotometer and Right: cuvette holder
 
@@ -124,7 +133,7 @@ Left: Old spectrophotometer and Right: cuvette holder
 
 **Part 2: Using the DU 730 ("new") Spectrophotometer**
 
- **![Photo of the DU 730 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_6.jpg) ![Photo of the DU 730 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_6b.jpg)** 
+ **{{< resource "07674fc0-cdf1-5630-6e57-1f444f1c0c9b" >}} {{< resource "82893694-e914-a2f7-71a8-81a170f1a525" >}}** 
 
 Left: New spectrophotometer and Right: Wavelength scan for XC solution
 
@@ -142,7 +151,7 @@ This term we will use a gel documentation station to photograph agarose gels ill
 
 After you have put on gloves, try the following:
 
-![Photo of the gel documentation station, consisting of lower cabinet with a UV transilluminator, and upper unit with keypad.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_7.jpg)
+{{< resource "48817b11-e3c3-74a1-e96c-e9877b3d48c8" >}}
 
 Gel documentation station.
 
@@ -180,7 +189,7 @@ Feynman
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-CO2 tank
+CO{{< sub "2" >}} tank
 {{< tdclose >}}
 {{< tdopen >}}
 Darwin
@@ -258,12 +267,12 @@ Locate the following essential safety items in or near the lab, and write down w
 
 ### {{< anchor "Station_9" >}}{{< /anchor >}}Station 9: Graphing your Data (Self-Guided)
 
-*   Use Excel to prepare a graph of absorbance versus volume of 0.01% XC. If you haven't visited this station you can use this sample data ([XLS]({{< baseurl >}}/resources/orientation_sampledata)) Some sample graphs are reproduced below and you should generate similar ones with your data. Be sure to include a trendline, displaying its equation as well as the r-squared value on the graph. The r-squared value reflects how well the data points fit the equation. A perfect fit will give an r-squared value of 1. If you are uncertain how to make such a graph using Excel, be sure to ask for help. We will use Excel a lot this semester.
+*   Use Excel to prepare a graph of absorbance versus volume of 0.01% XC. If you haven't visited this station you can use this sample data ({{% resource_link 5ec9aa34-33ae-9788-7d75-dc746384eaba "XLS" %}}) Some sample graphs are reproduced below and you should generate similar ones with your data. Be sure to include a trendline, displaying its equation as well as the r-squared value on the graph. The r-squared value reflects how well the data points fit the equation. A perfect fit will give an r-squared value of 1. If you are uncertain how to make such a graph using Excel, be sure to ask for help. We will use Excel a lot this semester.
 *   If the pipets were well calibrated and the measurements were done carefully, then the points should fall close to a straight line, and the r-squared will be close to 1. If one point seems way off, you can re-test that pipetman. If the repeat data still does not look linear, we can clean the inner workings of your pipetman. Note that the highest XC concentration may not fall in the linear range of the experiment.
 *   There should also be good agreement between the 20 ul measurements made with the P20 and the P200 as well as the 100 ul measurements made with the P200 and P1000. Is there?
 *   Confirm that your data can print from your laptops to one of the two printers in the lab (_revolver_, but not _yellow-submarine_, can do duplex printing).
 
-![Three of Abs600 vs. volume 0.01% XC (µL). Each has three data points, roughly straight-line with increasing slope; P20 has great](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_8.jpg)
+{{< resource "a5f3b053-d1d9-abbe-e8a9-dd0ce15b481f" >}}
 
 Calibration curves for P20, P200, and P1000.
 
@@ -275,13 +284,13 @@ The information and exercises provided here are intended to refresh your memory 
 
 This is the numerical language of science. Base units that you will most often use in this class are meters, grams, liters, and moles. These units will be appended with prefixes to modify the unit by a power of ten.
 
-103   =  1000  = 1000/1    = 103/1            kilo (k-)
+10{{< sup "3" >}}   =  1000  = 1000/1    = 10{{< sup "3" >}}/1            kilo (k-)
 
-100   =  1       = 1/1          = 100/1            base unit (-g, -l, -mole…)
+10{{< sup "0" >}}   =  1       = 1/1          = 10{{< sup "0" >}}/1            base unit (-g, -l, -mole…)
 
-10\-3  =  0.001   = 1/1000   = 1/103           milli (m-)
+10{{< sup "\-3 " >}} =  0.001   = 1/1000   = 1/10{{< sup "3" >}}           milli (m-)
 
-10\-6  =  0.000001  = 1/1000000  = 1/106  micro (μ-)
+10{{< sup "\-6" >}}  =  0.000001  = 1/1000000  = 1/10{{< sup "6" >}}  micro (μ-)
 
 **Practice problems:**
 
@@ -350,6 +359,6 @@ When solutions must be diluted several orders of magnitude, then serial dilution
 3.  Register for an account on [OpenWetWare](http://openwetware.org/wiki/Main_Page) by filling out the "[join OWW](http://openwetware.org/wiki/Join)" form. Once you get an account:
     *   familiarize yourself with using the wiki by reading the "[OpenWetWare Basics](http://openwetware.org/wiki/20.109%28S10%29:OWW_basics)" page.
     *   add the 20.109 home page to your "watch" list and update your preferences so you'll be notified by email when an announcement is made.
-    *   Prepare for the first day of Module 1 by reading the [Module 1 Overview]({{< baseurl >}}/pages/labs#RNA_Engineering) and [Day 1]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna) introduction.
+    *   Prepare for the first day of Module 1 by reading the {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 Overview" "#RNA_Engineering" %}} and {{% resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Day 1" %}} introduction.
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#Orientation)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" %}}

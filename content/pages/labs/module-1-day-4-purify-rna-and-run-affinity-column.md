@@ -1,19 +1,28 @@
 ---
 content_type: page
+description: Lab module on purifying RNA and affinity chromatography.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 4: Purify RNA and Run Affinity Column'
 uid: 6bee5b41-a34d-cb2b-7923-c9303daa44b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-5-rna-to-dna-by-rt-pcr) >
+\< {{% resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link e11e968b-82aa-fefc-994a-6731a910335d "Next lab day" %}} >
 
 Introduction
 ------------
 
 Today will be a busy day! Last time you prepared the 6-5 and 8-12 aptamers by an _in vitro_ transcription reaction. Now you must purify the RNA before enriching the heme-binding aptamer on an affinity column.
 
-To isolate RNA and change buffers, you will again do a column purification. However, this time the matrix will be a polyacrylamide gel rather than a silica resin. This size exclusion matrix retains nucleic acids shorter than 20 bases. After purification, you will quantify your RNA by spectrophotometry. Nucleic acids (both RNA and DNA) have an absorbance peak at 260 nm. Beer's law may be used to quantify the amount of RNA from this peak: Abs = ε l c, where Abs is the measured absorbance, l is the path length (1 cm for most specs), c is concentration, and ε is the extinction coefficient. For RNA, ε is 0.025 (μg/mL cm)-1, so 1 absorbance unit corresponds to 40 μg/mL of RNA. The absorbance at 280 nm gives some indication of RNA purity, as proteins have their absorbance peaks at that value (primarily due to the aromatic peptides tryptophan and tyrosine). An Abs260:Abs280 ratio of ~2:1 is desired. As a final preparation before column selection, the appropriate amount of RNA must be denatured at 70 °C and re-natured at room temperature in order to ensure that it has the right secondary structure. Otherwise the 8-12 aptamer might not bind to heme.
+To isolate RNA and change buffers, you will again do a column purification. However, this time the matrix will be a polyacrylamide gel rather than a silica resin. This size exclusion matrix retains nucleic acids shorter than 20 bases. After purification, you will quantify your RNA by spectrophotometry. Nucleic acids (both RNA and DNA) have an absorbance peak at 260 nm. Beer's law may be used to quantify the amount of RNA from this peak: Abs = ε l c, where Abs is the measured absorbance, l is the path length (1 cm for most specs), c is concentration, and ε is the extinction coefficient. For RNA, ε is 0.025 (μg/mL cm)-1, so 1 absorbance unit corresponds to 40 μg/mL of RNA. The absorbance at 280 nm gives some indication of RNA purity, as proteins have their absorbance peaks at that value (primarily due to the aromatic peptides tryptophan and tyrosine). An Abs{{< sub "260" >}}:Abs{{< sub "280" >}} ratio of ~2:1 is desired. As a final preparation before column selection, the appropriate amount of RNA must be denatured at 70 °C and re-natured at room temperature in order to ensure that it has the right secondary structure. Otherwise the 8-12 aptamer might not bind to heme.
 
 By now you should have signed up for your experimental conditions for column protocols.\*\* You and your partner will use the same ratio of aptamers, but a different number of column washes. The affinity column you will use consists of agarose beads with bound heme. Thus, when you add your aptamers to the column, 8-12 should bind but 6-5 should not. Of course, some 6-5 will non-specifically bind to the column. To remove it you will add aliquots of selection buffer to the column and let the 6-5 wash away. If you wash too vigorously, you may lose some 8-12 as well. Part of today's experiment is to hone in on the ideal wash conditions, that is, conditions that retain 8-12 well on the column relative to 6-5. Finally, to collect aptamer that remains bound to the column, you will add a concentrated heme solution. The free heme will compete with the bound heme for aptamer binding, and the aptamers should be readily eluted after a brief incubation step. One additional complication is that nucleic acids bind non-specifically to agarose. Thus, we will use tRNA in our buffer to compete with the aptamers for these non-specific sites. Overall, 8-12 aptamer should be enriched compared to 6-5 by the end of this process.
 
@@ -63,7 +72,7 @@ Before starting today, make sure to clean your bench area, pipettes, and centrif
 ### Part 3: Prepare RNA for Selection
 
 1.  Dilute 75 μL of each RNA sample in selection buffer to a concentration of 8 μM.
-    *   Note that 85-90 μL of RNA is usually recovered after column elution. If you have <75 μL, let the teaching faculty know.
+    *   Note that 85-90 μL of RNA is usually recovered after column elution. If you have \<75 μL, let the teaching faculty know.
     *   The respective molecular weights of the aptamers are 31,344 g/mol and 33, 824 g/mol for 6-5 and 8-12.
     *   Most likely your final volume will be 0.5-1.5 mL; check with the teaching faculty if not.
 2.  Before continuing on, make sure you have enough of each aptamer to follow through on your experimental plan. If not, talk to the teaching faculty.
@@ -82,7 +91,7 @@ Before starting today, make sure to clean your bench area, pipettes, and centrif
 
 During the one hour incubation, you may write in your notebook, leave lab for a snack break, prepare for Part 4 below, or otherwise spend the time as you see fit.
 
-![Photo of a lab bench with apparatus.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-4-purify-rna-and-run-affinity-column/m1d4_fig1.jpg)
+{{< resource "73f27b15-1f57-3bc0-f29c-6fe555434fa8" >}}
 
 SELEX column set-up
 

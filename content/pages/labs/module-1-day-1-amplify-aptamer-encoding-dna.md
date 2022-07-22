@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: Lab module on amplifying aptamer-encoding DNA.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 1: Amplify Aptamer-Encoding DNA'
 uid: a4698e5d-1f6b-3e32-71de-c8f8829f224f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-[Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-2-purify-aptamer-encoding-dna) >
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Next lab day" %}} >
 
 Introduction
 ------------
@@ -15,7 +24,7 @@ Back when he was a postdoctoral fellow, Professor Niles screened a random librar
 
 Today you will be given two archival plasmids containing the 6-5 and 8-12 sequences, respectively. RNA is not very stable compared to DNA; thus, RNA aptamers are copied into their associated DNA sequences for long-term storage. Ligating the DNA fragment into a plasmid that can be carried in bacteria provides further amplification and storage capabilities. We will make use of these capabilities more extensively in Module 2.
 
-![Diagram shows 5](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-1-amplify-aptamer-encoding-dna/m1d1_fig1.jpg)
+{{< resource "61889242-e6f7-5d69-47c2-be06a35917d7" >}}
 
 **PCR schematic.** Depicted are two complementary strands of DNA, with a desired target fragment shown in green. Primers that can select the target sequence are shown as short arrows, with the dotted lines indicating the extension step of PCR. Note that in the first couple rounds of PCR, products longer than the desired target will be made (dotted lines keep extending). However, these early products themselves become templates that produce the correct product in abundance.
 
@@ -23,7 +32,7 @@ In order to select and amplify just the short DNA fragment that encodes for the 
 
 Once the PCR is running, you will begin to explore some computational tools for RNA analysis. During this module, you will ultimately use three different programs to explore both sequence similarities among RNA candidate aptamers and higher-order structures that arise from the primary sequences. For today, you will look at degrees of sequence similarity among a list of aptamers, some of which bind to heme and some that don't.
 
-![Photo of Kary Mullis](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-1-amplify-aptamer-encoding-dna/kary_mullins.jpg)
+{{< resource "7781a25f-6ee2-113f-7cb1-77cbae7e755f" >}}
 
 (Photo by Mark Robert Halper. Courtesy of Kary Mullis. Used with permission.)
 
@@ -174,7 +183,7 @@ indefinite
 Part 3: Introduction to Computational Analysis
 ----------------------------------------------
 
-Your understanding of this module will in part be evaluated by the [RNA Computational Analysis assignment]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-computational-analysis). Although you will not be prepared to understand the entire assignment today - until you have a better grasp of what SELEX entails - you should be able to get a good start on the first section.
+Your understanding of this module will in part be evaluated by the {{% resource_link 719527d1-5fa3-3e74-09a6-6598e496c6a1 "RNA Computational Analysis assignment" %}}. Although you will not be prepared to understand the entire assignment today - until you have a better grasp of what SELEX entails - you should be able to get a good start on the first section.
 
 1.  Begin by reading the assignment overview and background information. (It's fine if the latter doesn't make perfect sense yet.)
 2.  Download the associated data file and read the background. Again, the introductory text may make more sense in a week or two.
@@ -203,7 +212,7 @@ For Next Time
 1.  Continue to familiarize yourself with the workings of OpenWetWare. Specifically, you should:
     *   Add your user page to the class's People page..
     *   Complete the student registration/questionnaire to turn in next time..
-2.  The major assessment for this module will be the [RNA Engineering Report]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-engineering-laboratory-report). Start to familiarize yourself with its expected structure and content.
+2.  The major assessment for this module will be the {{% resource_link b51163eb-3d06-d776-ae5a-b5f8349c22d4 "RNA Engineering Report" %}}. Start to familiarize yourself with its expected structure and content.
 3.  One week from today in the Module 1 Day 3 session, we will have an in-class discussion about an article from the primary scientific literature. You might begin reading and thinking about the paper now, rather than trying to do so only in the two days between Day 2 and Day 3.
 
 Reagent List

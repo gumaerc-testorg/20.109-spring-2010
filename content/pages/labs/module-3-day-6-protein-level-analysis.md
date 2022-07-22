@@ -1,19 +1,28 @@
 ---
 content_type: page
+description: Lab module on protein-level analysis.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 6: Protein-Level Analysis'
 uid: f82c52d5-f03d-5172-9e51-338ebfdc2fc4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-7-wrap-up-analysis) >
+\< {{% resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link 5f8e672f-9f42-ac26-3579-a568a4d379d1 "Next lab day" %}} >
 
 Introduction
 ------------
 
 As you have seen in 20.109 and in the scientific literature, imaging technologies can provide valuable insight into biological systems. Each different imaging method has a particular set of associated advantages and drawbacks. For example, fluorescence microscopy can provide high-resolution images, but the penetration depth at which samples can be viewed is limited (though improved by recent developments such as multiphoton microscopy). Magnetic resonance imaging (MRI) has just the opposite characteristics, and its potential for large-area and deep tissue imaging makes it quite useful in medicine.
 
-![Photo of several live cells, and an outline drawing showing the locations and numbers of cells in the photo.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-6-protein-level-analysis/m3d6_fig1a.jpg) ![Photo of several live cells, and an outline drawing showing the locations and numbers of cells in the photo.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-6-protein-level-analysis/m3d6_fig1b.jpg)
+{{< resource "66c1f2a1-0ba1-a1ee-366d-136814944288" >}} {{< resource "53a076e2-a2d0-7c97-1b98-05379111b67c" >}}
 
 Left: Sample image of live cells for analysis. Right: Sample cell counting result for the image.
 
@@ -64,7 +73,7 @@ In your notebook, you should comment on your live/dead and transcript results if
 For Next Time
 -------------
 
-1.  Your [Module 3 report]({{< baseurl >}}/pages/assignments/module-3-assignment-cell-biomaterial-engineering-report) will be due before you leave lab next time. Continue working on it.
+1.  Your {{% resource_link 911e8ec9-83fa-d6c8-629d-d3cbfe9b87ec "Module 3 report" %}} will be due before you leave lab next time. Continue working on it.
 2.  Based on the feedback that you got from your peers and/or the teaching faculty today, continue to define your research proposal and update your wiki page with your partner. You do not need to hand anything in, but keep in mind that your talk is one week from today.
 
 Reagent List

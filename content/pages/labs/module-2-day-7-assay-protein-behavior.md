@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: Lab module on assaying protein behavior.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 7: Assay Protein Behavior'
 uid: 7e3077c4-fdbc-7693-27b3-9a99e5bf2125
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-8-data-analysis#module_2_index) >
+\< {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link d9bfa075-4ac8-ea99-8914-f82c9edfb492 "Next lab day" "#module_2_index" %}} >
 
 Introduction
 ------------
@@ -15,7 +24,7 @@ Today you will obtain titration curves against calcium for your wild-type and mu
 
 In order to further benefit from this high-throughput testing format, you will make friends with the multichannel pipet, a purely mechanical rather than digital aid for repetitive experiments. This tool allows you to suck up and expel equivalent volumes of multiple identical samples (usually 8-12 at a time) with just one stroke. You will use this type of pipet to fill each row of a microtiter plate with one type of protein sample, and each column with a different concentration of calcium. Although a multichannel pipet can be sufficient for a typical research lab, in pharmaceutical companies that may be assaying thousands of samples a day, yet more steps of automation and scaling up are required, such as robotic pipet arms that obviate the need for manual pipetting at all. The degree of automation commercially available, or developed 'in-house' in a certain lab or corporation, depends in part on the frequency with which a certain assay is used. Assays used by many different labs and companies (such as fluorescence or absorbance spectrophotometry) are likely to breed commercially available high-throughput machines.
 
-![Two abstracted plots representing signal:noise data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-7-assay-protein-behavior/m2d7_fig1.jpg)
+{{< resource "3b487a1b-61d7-d1b6-c443-13bf3174f429" >}}
 
 **Signal:noise in arbitrary data collection**. Background measurements (open circles), sample measurements (closed circles), and average values (short horizontal lines) are shown. The short line without any data points represents the reduction in average signal when background is subtracted. All measurements are with respect to an arbitrary vertical axis; the long horizontal line represents a measurement of zero.
 
@@ -30,7 +39,7 @@ Only 2-3 groups at a time will work in lab today. Last time you should have sign
 
 ### Part 1: Protein Gel Observation
 
-If you would like to, take a look at your Coomassie-stained gel from the [previous lab]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#m2d6_sample_gel).
+If you would like to, take a look at your Coomassie-stained gel from the {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "previous lab" "#m2d6_sample_gel" %}}.
 
 **Tips for Success**
 
@@ -38,7 +47,7 @@ Take great care today to limit the introduction of bubbles in your samples. When
 
 **Protocol**
 
-**![Schematic diagram of a titration sample.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-7-assay-protein-behavior/m2d7_fig2.jpg)**
+**{{< resource "5800824c-0ac2-4f11-ef4c-e42b6ded9e22" >}}**
 
 Titration sample preparation.
 

@@ -1,19 +1,28 @@
 ---
 content_type: page
+description: Lab module on preparing cells for analysis.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 4: Preparing Cells for Analysis'
 uid: 9f1add66-0448-ffba-794a-48d70e4c97b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) >
+\< {{% resource_link a6ef5fb5-bb91-ae11-a408-6647172e10b5 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Next lab day" %}} >
 
 Introduction
 ------------
 
 Today you will start collecting the key data for your chondrocyte or stem cell phenotype experiment. Recall that chondrocytes may de-differentiate to fibroblasts if not kept in the appropriate environment. So, how do we tell chondrocytic and non-chondrocytic cell types apart?
 
-![Schematic diagram of cartilage tissue.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-4-preparing-cells-for-analysis/m3d4_fig1.jpg)
+{{< resource "fdb852cb-6cf2-1949-89e2-73cea049f8b8" >}}
 
 **Schematic of cartilage tissue.** Collagen fibers are shown in black, chondrocytes in light blue. Collagen fiber thickness and orientatiom, along with chondrocyte density and morphology, vary with the tissue depth. Adapted from: V. C. Mow, A. Ratcliffe, and S. L. Y. Woo, eds. _Biomechanics of Diarthrodial Joints_. Vol. 1, Chapter 8. New York, NY: Springer-Verlag, 1990. ISBN: 9780387973784.
 
@@ -21,7 +30,7 @@ Folks trying to engineer cartilage tissue have been in interested in this and si
 
 Extracellular matrix (ECM) proteins such as the collagens must be synthesized by cells. Chondrocytes readily synthesize collagen II, while fibroblasts and mesenchymal stem cells primarily synthesize collagen I. Thus, the expression and production of different collagens is one way to distinguish these cells types. To study collagen at the gene transcript level, you will break open and homogenize your cells using a lysis reagent and column (QIAshredder) and then isolate RNA using an RNeasy kit from Qiagen. The RNeasy kit includes silica gel columns, similar to the ones you used to purify DNA in Module 1, that selectively bind RNA (but not DNA) that is >200 bp long under appropriate buffer conditions. Due to size exclusion, the resultant RNA is somewhat enriched in mRNAs relative to rRNA and tRNA. To further purify for mRNA, one could use a polyT affinity column to capture the polyA tail of this RNA type, but we will not do this today.
 
-![Schematic diagram of primer design for RT-PCR.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-4-preparing-cells-for-analysis/m3d4_fig2.jpg)
+{{< resource "7f295fea-42de-f5e7-2240-c337580b3dd1" >}}
 
 **Schematic of primer design for RT-PCR.** Boxes and lines represent exons and introns, respectively. Arrows represent primers. (A) Each primer anneals to a sequence from only one exon. (B) The top primer spans two exons, thus reducing or eliminating product contamination by genomic DNA. (The dashed line indicates that the surrounding solid lines constitutes one continuous primer.)
 
@@ -46,7 +55,7 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
     *   Let the teaching faculty know if you have difficulty focusing within a bead.
 2.  Aspirate the culture medium from each of your samples. Be careful not to suck up the beads, while using a serological pipet just as you did when washing your freshly synthesized beads. A 10 mL pipet size should work well for most beads, while for very delicate beads, you should use a 2 mL serological pipet or even a P1000.
 3.  About half of your beads will be used to measure protein content: move these to an eppendorf tube. The goal is about 10-15 (2-3 mm) beads per tube.
-    *   For large beads (4-5 mm), you might use only 5-10 beads, and for very small beads (<1 mm), you might use 20 or more.
+    *   For large beads (4-5 mm), you might use only 5-10 beads, and for very small beads (\<1 mm), you might use 20 or more.
 4.  The other half will be used to isolate RNA. Using a sterile spatula, transfer the beads into a fresh well of your 6-well plate. This transfer step is to exclude any cells that are growing on the bottom of the plate (as opposed to actually in the beads) from analysis.
 
 **Samples for RNA**
@@ -71,7 +80,7 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
 ### Part 2: RNA Isolation and Measurement
 
 1.  Pellet the cells for RNA isolation back in the main lab (10 min at 500 g).
-    *   Before pelleting your cells, clean your microfuge. You can finish setting up your RNA work area while the cells spin down. See [Module 1 Day 3]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) if you need a refresher.
+    *   Before pelleting your cells, clean your microfuge. You can finish setting up your RNA work area while the cells spin down. See {{% resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Module 1 Day 3" %}} if you need a refresher.
 2.  Remove the supernatant from your cell pellets using pipet tips from an RNase free tip box. (Discard this and other supernatants in a conical waste tube.)
 3.  Now, in the fume hood, add 350 μL RLT with β-mercaptoethanol to each cell sample – vortex or pipet to mix.
     *   If you have more than 5 million cells, you will need to double the amount of RLT used - talk to the teaching faculty.
@@ -97,7 +106,7 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
 SAMPLE
 {{< thclose >}}
 {{< thopen >}}
-A260
+A{{< sub "260" >}}
 {{< thclose >}}
 {{< thopen >}}
 RNA CONC. μg/mL)

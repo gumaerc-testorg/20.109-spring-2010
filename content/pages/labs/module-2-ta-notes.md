@@ -1,12 +1,22 @@
 ---
 content_type: page
+description: This page contains general preparation notes for the teaching assistants
+  supporting Module 2 labs on protein engineering.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'TA Notes for Lab Module 2: Protein Engineering'
 uid: 8e1e3a8e-c2e0-ebd7-45be-789770a7c53b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#Protein_Engineering)
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Protein_Engineering" %}}
 
 This page contains general preparation notes for the teaching assistants supporting Module 2 labs. Instructors interested in implementing these labs may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for additional fine-tuning information.
 
@@ -242,5 +252,4 @@ How it went
 *   M124S a much better parallel sample than S101L (run in S09). The change in affinity and cooperativity was dramatic and consistent across the class.
 *   The only strange issue is that at very low calcium concentrations the data is noisy rather than simply being a high plateau, or even somewhat consistently starts a little low, then has the high plateau, then proceeds as expected.
 
-« Back to [Labs  
-]({{< baseurl >}}/pages/labs#Protein_Engineering)
+« Back to {{% resource_link "c810141c-0282-3f29-da2a-83f1fe93dcb1" "Labs   " "#Protein_Engineering" %}}

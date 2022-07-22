@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: This section provides a statement on collaboration and integrity policies
+  for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: a6ec7e7b-eb02-335c-e9f0-c5edead15c65
 title: Statement on Collaboration and Integrity
 uid: 02782790-19cc-d222-7cb2-c2e7106d46b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 All documentation of your experiments must be written entirely by you. Thus, while we encourage you to discuss your results with your lab partner and other classmates, you may not share text or figures. Please do not plagiarize (accidentally or otherwise) the class wiki, or any other writing/images available online or elsewhere. Note that plagiarism is often unintentional, and take the responsibility now to learn the difference between appropriate paraphrasing and academic dishonesty. The following links may help you in this endeavor:

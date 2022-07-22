@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: Lab module on biomaterials engineering.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 1: Start-Up Biomaterials Engineering'
 uid: 5eaf324b-de14-6e78-7a5e-edddab8e6498
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-[Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-2-initiate-cell-culture) >
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Next lab day" %}} >
 
 Introduction
 ------------
@@ -40,7 +49,7 @@ Half the class today will start in the cell culture facility and half will start
 
 **Background**
 
-![Photos of normal and transformed mouse fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-1-start-up-biomaterials-engineering/m3d1_fig1a.jpg) ![Photos of normal and transformed mouse fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-1-start-up-biomaterials-engineering/m3d1_fig1b.jpg)
+{{< resource "47290f4f-1088-2d76-bdea-4fc38d316115" >}} {{< resource "5f1fde71-4258-404f-f61b-4840f3d09fd1" >}}
 
 Normal and transformed mouse fibroblasts. (Courtesy of G. Steven Martin. Used with permission.)
 
@@ -75,7 +84,7 @@ Each of you will have a 35 mm dish of mouse embryonic stem (MES) cells that you 
     *   This slide has an etched grid of nine large squares. The square in the center is further etched into 25 squares each with a volume of 0.1 ul and 16 tiny chambers (4x4 pattern). The concentration of cells in a sample can be determined by counting the cells that fall within the 4x4 pattern and then multiplying by 10,000 to determine the number of cells/ml.
     *   You should count the cells in the four corner squares of the 25 square grid, then average the numbers to determine the concentration of cells in your suspension. Save your raw data for the Day 2 FNT assignment!
 
-![Diagram pointing out the corner location of the hemocytometer slide.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-1-start-up-biomaterials-engineering/m3d1_fig2.jpg)
+{{< resource "2554c010-b662-b542-3355-d0e9d77a9be4" >}}
 
 Counting cells using a hemocytometer
 
@@ -216,5 +225,5 @@ Collagen I and II gels are also available upon request. Keep in mind that using 
 For Next Time
 -------------
 
-1.  Familiarize yourself with the cell culture portion of [Day 2]({{< baseurl >}}/pages/labs/module-3-day-2-initiate-cell-culture) of this module. The better prepared we all are, the less likely it is that the day will run long. The hoods will be set up for you when you come in.
+1.  Familiarize yourself with the cell culture portion of {{% resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Day 2" %}} of this module. The better prepared we all are, the less likely it is that the day will run long. The hoods will be set up for you when you come in.
 2.  By the end of class on Day 2, write a two or three sentence description of your design plan and expected assay results, and post it for the rest of the class. (Assay result expectations should be stated in a relative fashion: e.g., "we think \[3D sample 1\] will maintain a chondrocyte-like phenotype better than \[3D sample 2\], because..." You might also comment on cell viability, if you expect it to vary among your samples.) This posting will count for homework credit.

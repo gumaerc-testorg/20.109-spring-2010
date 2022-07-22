@@ -1,19 +1,28 @@
 ---
 content_type: page
+description: Lab module on inducing protein and evaluating DNA.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 uid: c902c8ea-545c-743f-443e-440ff96d6753
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#module_2_index) >
+\< {{% resource_link ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Next lab day" "#module_2_index" %}} >
 
 Introduction
 ------------
 
 Last time you transformed your mutant DNA into BL21(DE3) cells. The colonies that arose were moved to liquid cultures, and today you will add IPTG to these cultures to induce protein expression by the bacteria. Next time you will purify the resultant protein. I won't shy away from telling you that there are many things that can go wrong at this stage! However, each one is certainly a learning experience.
 
-![Chemical diagrams for IPTG and Lactose,](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig1a.jpg) ![Chemical diagrams for IPTG and Lactose,](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig1b.jpg)
+{{< resource "2aa5bfa1-032a-475c-1f31-e4814fc66e7f" >}} {{< resource "a12bea1a-a036-52f5-cb08-c053b5f31d5b" >}}
 
 IPTG and Lactose. (Images: public domain.)
 
@@ -22,11 +31,11 @@ As evidenced by Nagai's work, wild-type inverse pericam is not toxic to BL21(DE3
 Based on its fluorescence activity, wild-type inverse pericam allows proper folding of (cp) EYFP, and based on its response to calcium, it also allows calmodulin to fold. One problem you may encounter is that your mutant proteins will no longer fold correctly. Since you made mutations in the calcium sensor part of IPC, rather than the fluorescent part, it is unlikely that your protein will destroy EYFP fluorescence. However, a common problem with misfolded proteins is the formation of insoluble aggregates, due for instance to improperly exposed hydrophobic surfaces. Proteins can be purified from these aggregates – called inclusion bodies – but the process is more labour-intensive than for soluble proteins. (The proteins must be extracted under more harsh conditions than you will use next time, then purified under denaturing conditions, before finally attempting to renature the proteins.) Inclusion bodies sometimes form simply due to very high expression of the protein of interest, causing it to pass its solubility limit. This outcome can be prevented by lowering the culture temperature or time, the amount of IPTG, or the growth phase of the bacteria.
 
 One final point to keep in mind is that not all proteins can be produced in bacteria. Eukaryotic proteins that require post-translational modifications (such as glycosylation) for activity require eukaryotic hosts (such as yeast, or the ubiquitous CHO – Chinese hamster ovary – cells). Sometimes eukaryote-derived proteins will be truncated or otherwise mistranslated by _E. coli_ due to differential codon bias (Kane, 1995); errors in translation can be prevented by providing additional tRNAs to the culture or directly to the bacteria via plasmids (McNulty, et al., 2003). Despite all this complexity, prokaryotic hosts have been plenty good enough to produce proteins for certain therapies, notably the cytokine G-CSF for patients needing to replenish their white blood cells (e.g., after chemotherapy), sold as [Neupogen](http://www.neupogen.com/
-)® by Amgen.
+){{< sup "®" >}} by Amgen.
 
 After you induce your cells with IPTG, you will let the resultant protein factories do their work for 2-3 hours. During this time, you will evaluate the DNA from your two X#Z candidates (and from the M124S mutant). First, you will run your diagnostic digests from last time out on a gel. The banding patterns will allow you to determine (or diagnose) whether either of your putative X#Z mutants actually contains the new restriction site that you introduced. Of course, there is a slim possibility that the silent mutation was incorporated but the non-silent mutation wasn't. To get more direct evidence for whether the site-directed mutagenesis worked, you will analyze data from the sequencing reactions that you set up last time.
 
-![Set of three images. Left: chemical diagrams comparing normal base (3'-OH required for chain elongation) and chain-terminating base (No 3'-OH). Center: photo of a sequencing gel, showing the columns for G, A, T, and C. Right: An example of sequencing trace data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig2a.jpg) ![Set of three images. Left: chemical diagrams comparing normal base (3'-OH required for chain elongation) and chain-terminating base (No 3'-OH). Center: photo of a sequencing gel, showing the columns for G, A, T, and C. Right: An example of sequencing trace data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig2b.jpg)![Set of three images. Left: chemical diagrams comparing normal base (3'-OH required for chain elongation) and chain-terminating base (No 3'-OH). Center: photo of a sequencing gel, showing the columns for G, A, T, and C. Right: An example of sequencing trace data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig2c.jpg)
+{{< resource "8ea9cf0e-2b42-0abf-e08a-5e0d6cdd50d0" >}} {{< resource "ed0729f4-b3a9-57b7-5713-a91bb9d1b8fb" >}}{{< resource "0f30a660-7742-8573-a75c-1225f2ad0360" >}}
 
 Left: Normal bases versus chain-terminating bases. Center: Sequencing gel example. Right: Sequence trace data example.
 
@@ -197,13 +206,13 @@ uncut
 
 Once all the samples are loaded, the power will be applied (100 V for 45 minutes) and the gel will be photographed. When the gel is ready, you will compare the band sizes in the photograph with the expected band sizes that you previously calculated. In the meantime, you can analyze your sequence data.
 
-![Photo of an electrophoresis gel with several ladders of bright lines.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_result.jpg)
+{{< resource "6b5de2d0-4c14-47ef-9ba2-13c4e2d7d937" >}}
 
 **Sample gel result: Diagnostic digest testing for silent mutation on M124S, E84G, and IPC plasmids.** A 1% agarose gel shows the products of a digest with _AccI_ and _BseRI_ on M124S, E84G, and wild-type IPC plasmid. **Lane 1:** IPC plasmid without restriction enzymes. **Lane 2:** IPC cut with _AccI_ shows one band with linear DNA expected at 4169 bp. **Lane 3:** M124S cut with _AccI_ shows two bands approximately 3331 bp and 838 bp. **Lane 4:** 1 kpb DNA ladder (New England BioLabs). **Lane 5:** IPC cut with _BseRI_ shows linear DNA at 4169 bp. **Lanes 6 and 7:** E84G isolated from colony 1 and 2 respectively and cut with _BseRI_ show two bands expected at 3515 bp and 654 bp. **Lane 8:** 100 bp ladder (New England BioLabs). **Lanes 9 and 10:** Undigested E84G, from colony 1 and 2 respectively, shows three bands. (Photo and caption courtesy of anonymous MIT student. Used with permission.)
 
 ### Part 3: Analyze Sequence Data
 
-Your goal today is to analyze the sequencing data for three samples - two independent colonies from your X#Z mutant, and one M124S clone for practice - and then decide which colony to proceed with for the X#Z mutant. You will want to have this Day 4 sequence document handy ([DOC]({{< baseurl >}}/resources/mit20_109s10_m2d4_sequence-1)), and to mark the expected location of your mutation with bold text before proceeding. (Just compare to your annotation of the Day 1 IPC sequence document ([DOC]({{< baseurl >}}/resources/mit20_109s10_m2d1_ipc-1)) using Word Count or the Find tool.) The new file contains the inverse pericam sequence as before, but also the flanking sequences (from the pRSET vector) before and after IPC, which are separated from IPC by a blank line. The second page of the document contains the reverse complement of IPC/pRSET, which was generated using this website tool "[Reverse and/or complement DNA sequences.](http://arep.med.harvard.edu/labgc/adnan/projects/Utilities/revcomp.html)" Be sure to bold your mutant codon in the reverse complement sequence as well.
+Your goal today is to analyze the sequencing data for three samples - two independent colonies from your X#Z mutant, and one M124S clone for practice - and then decide which colony to proceed with for the X#Z mutant. You will want to have this Day 4 sequence document handy ({{% resource_link 0157b734-c176-9588-be86-0c21c8a74db7 "DOC" %}}), and to mark the expected location of your mutation with bold text before proceeding. (Just compare to your annotation of the Day 1 IPC sequence document ({{% resource_link 7acf0d4e-bb71-72a3-8be4-3d2826417320 "DOC" %}}) using Word Count or the Find tool.) The new file contains the inverse pericam sequence as before, but also the flanking sequences (from the pRSET vector) before and after IPC, which are separated from IPC by a blank line. The second page of the document contains the reverse complement of IPC/pRSET, which was generated using this website tool "[Reverse and/or complement DNA sequences.](http://arep.med.harvard.edu/labgc/adnan/projects/Utilities/revcomp.html)" Be sure to bold your mutant codon in the reverse complement sequence as well.
 
 Next we will use some data from the [MIT Biopolymers Facility](http://web.mit.edu/biopolymers/Website_2011/index.html). \[_Only available to enrolled students in the class, not accessible for OCW users._\] From this link, we can see sequencing traces and sequence text.
 
@@ -230,21 +239,21 @@ Last time you transformed BL21(DE3) cells with three different plasmids (two can
 Part 5: Cell Observation and Collection
 ---------------------------------------
 
-![Close-up photo of two small plastic Eppendorf tubes, each with a pellet in some liquid at the botton of the tube.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_pellets.jpg)
+{{< resource "5a9dee82-83c1-a98d-b29e-9606a4ea08c4" >}}
 
 Examples of IPTG-induced (left) and control (right) cell pellets. The induced pellet has a yellow-green tint, in contrast to the plain white control pellet.
 
 1.  After ~2-3 hours, you will pour 1.5 mL from each tube (from Part 1) into a labeled eppendorf, then spin for 1 min. at maximum speed. Save the other 3 mL!
 2.  Aspirate the supernatant from each eppendorf, using a fresh yellow pipet tip on the end of the glass pipet each time.
 3.  Observe the colour of each of your pellets, and compare to the above example. If the wild-type and both mutant pellets all appear yellow-greenish to the eye, proceed as follows:
-    *   Do NOT toss the rest of the liquid cultures. First, measure their OD600 values, according to part 6 of today's protocol.
+    *   Do NOT toss the rest of the liquid cultures. First, measure their OD{{< sub "600" >}} values, according to part 6 of today's protocol.
     *   Next, pour 1.5 mL more of the relevant liquid culture on top of each pellet, spin again, and aspirate the supernatant.
     *   The last 1.5 mL of culture may be aspirated in your vacuum flask, to be later bleached and discarded.
 4.  If one or more of your pellets are white or only dimly coloured, please ask one of the teaching staff to show you the room temperature rotary shaker. You will continue to grow your bacteria overnight. Tomorrow morning, the teaching staff will collect your pellets for you and freeze them. As you can see above, the +IPTG pellets are from 3 mL of culture, while the -IPTG pellets come from 1.5 mL of culture.
 
 ### Part 6: Preparation for Next Time
 
-Next time, you will lyse your bacterial samples to release their proteins, and run these out on a protein gel. In order to compare the amount of protein in the -IPTG versus +IPTG samples, you would like to normalize by the number of cells. At this point, you may have only three samples ready (-IPTG only), or you may have all six. In either case, measure the OD600 of a 1:10 dilution of cells for each finished sample (for -IPTG you have done so already), and write this number down in your notebook. Then spin down the cells and aspirate the supernatant. Give the cell pellets to the teaching faculty; they will be stored frozen. (Be sure to make a 2X pellet for the +IPTG samples.)
+Next time, you will lyse your bacterial samples to release their proteins, and run these out on a protein gel. In order to compare the amount of protein in the -IPTG versus +IPTG samples, you would like to normalize by the number of cells. At this point, you may have only three samples ready (-IPTG only), or you may have all six. In either case, measure the OD{{< sub "600" >}} of a 1:10 dilution of cells for each finished sample (for -IPTG you have done so already), and write this number down in your notebook. Then spin down the cells and aspirate the supernatant. Give the cell pellets to the teaching faculty; they will be stored frozen. (Be sure to make a 2X pellet for the +IPTG samples.)
 
 For Next Time
 -------------
