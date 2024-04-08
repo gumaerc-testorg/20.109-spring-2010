@@ -22,7 +22,7 @@ Introduction
 
 Last time you used the lactose-analogue IPTG to induce expression of inverse pericam in BL21(DE3) bacteria. Today you will isolate IPC from the bacteria, and you will begin characterizing your wild-type and mutant proteins.
 
-We can take several measures to ensure that a high quantity of plasmid-encoded protein is produced by our bacteria, such as using a high-copy plasmid. However, the bacteria in which we grow the protein clearly need to produce other proteins merely to survive. The bacterial expression vector we are using ([pRSET](http://products.invitrogen.com/ivgn/product/V35120)) contains six Histidine residues downstream of a bacterial promoter and in-frame with a start codon. Our resultant protein is therefore marked by the presence of these residues, or His-tagged. Histidine has several interesting properties, notably its near-neutral pKa, and His-rich peptides are promiscuous binders, particularly to metals. (For example, histidine side chains help coordinate iron molecules in hemoglobin.)
+We can take several measures to ensure that a high quantity of plasmid-encoded protein is produced by our bacteria, such as using a high-copy plasmid. However, the bacteria in which we grow the protein clearly need to produce other proteins merely to survive. The bacterial expression vector we are using ({{% resource_link "e6838674-2e77-4aab-99df-0f3eea2d7638" "pRSET" %}}) contains six Histidine residues downstream of a bacterial promoter and in-frame with a start codon. Our resultant protein is therefore marked by the presence of these residues, or His-tagged. Histidine has several interesting properties, notably its near-neutral pKa, and His-rich peptides are promiscuous binders, particularly to metals. (For example, histidine side chains help coordinate iron molecules in hemoglobin.)
 
 {{< resource "9f6b75dc-8a6f-b36f-0d69-9c65d94407b5" >}}
 
@@ -40,9 +40,9 @@ After purifying inverse pericam from your bacterial lysates, you will measure th
 
 ### References
 
-Bradford, M. M. "[A Rapid and Sensitive Method for the Quantitation of Microgram Quantities of Protein Utilizing the Principle of Protein-Dye Binding](http://dx.doi.org/10.1016/0003-2697(76)90527-3)." _Anal Biochem_ 72, no. 1-2 (May 7, 1976): 248-54.
+Bradford, M. M. "{{% resource_link "bb6641d4-5f60-47f2-92ba-a9e772c8697b" "A Rapid and Sensitive Method for the Quantitation of Microgram Quantities of Protein Utilizing the Principle of Protein-Dye Binding" %}}." _Anal Biochem_ 72, no. 1-2 (May 7, 1976): 248-54.
 
-Compton, S. J., and C. G. Jones. "[Mechanism of Dye Response and Interference in the Bradford Protein Assay](http://dx.doi.org/10.1016/0003-2697(85)90190-3)." _Anal Biochem_ 151, no. 2 (December, 1985)
+Compton, S. J., and C. G. Jones. "{{% resource_link "3a0797b5-2120-4697-8d45-28e867204196" "Mechanism of Dye Response and Interference in the Bradford Protein Assay" %}}." _Anal Biochem_ 151, no. 2 (December, 1985)
 
 Protocols
 ---------
@@ -445,7 +445,7 @@ Reagent List
     
     *   4-15% Polyacrylamide Gels in Tris-HCl
     *   TGS Buffer (25 mM Tris, 192 mM glycine, 0.1% (w/v) SDS, pH 8.3)
-    *   Kaleidoscope and Unstained markers, [Precision Plus](http://www.bio-rad.com/prd/en/US/adirect/biorad?cmd=BRCatgProductDetail&productID=241601)
+    *   Kaleidoscope and Unstained markers, {{% resource_link "be9504ee-eeae-423b-9a0b-27360eeb8531" "Precision Plus" %}}
     *   Laemmli Sample buffer from Bio-Rad
     
     *   2% SDS, 25% glycerol, 0.01% Bromophenol Blue in 62.5 mM Tris-HCl pH 6.8, + 5% β-mercaptoethanol just before use

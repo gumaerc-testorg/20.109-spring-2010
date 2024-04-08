@@ -19,8 +19,8 @@ For many of you this will be the first time in a research lab and for others it 
 
 ## Prerequisites
 
-- Biology [GIR](http://www.mitadmissions.org/topics/learning/general_institute_requirements/index.shtml) (One of [7.012](/courses/7-012-introduction-to-biology-fall-2004), [7.013](/courses/7-013-introductory-biology-spring-2013), or [7.014](/courses/7-014-introductory-biology-spring-2005))
-- Chemistry [GIR](http://www.mitadmissions.org/topics/learning/general_institute_requirements/index.shtml) (One of [3.091](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010), [5.111](/courses/5-111-principles-of-chemical-science-fall-2008), or [5.112](/courses/5-112-principles-of-chemical-science-fall-2005));
+- Biology {{% resource_link "d4d3786d-ddc1-414b-abc3-9616afe95302" "GIR" %}} (One of [7.012](/courses/7-012-introduction-to-biology-fall-2004), [7.013](/courses/7-013-introductory-biology-spring-2013), or [7.014](/courses/7-014-introductory-biology-spring-2005))
+- Chemistry {{% resource_link "d4d3786d-ddc1-414b-abc3-9616afe95302" "GIR" %}} (One of [3.091](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010), [5.111](/courses/5-111-principles-of-chemical-science-fall-2008), or [5.112](/courses/5-112-principles-of-chemical-science-fall-2005));
 - [6.00 Introduction to Computer Science and Programming](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008)
 - [18.03 Differential Equations](/courses/18-03-differential-equations-spring-2010)
 - [20.110J Thermodynamics of Biomolecular Systems](/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005) or 20.111J Physical Chemistry of Biomolecular Systems
@@ -98,7 +98,7 @@ In addition to the module major assignments listed above, there are several othe
 
 ### OpenWetWare Wiki
 
-Since 20.109 is a lab class, we think the students, TAs and instructors would benefit from having a shared space in which to discuss experimental protocols and results. By putting all the course materials on an [OpenWetWare](http://openwetware.org/wiki/Main_Page) wiki, they can be updated and improved instantly by everyone (not just the instructors).
+Since 20.109 is a lab class, we think the students, TAs and instructors would benefit from having a shared space in which to discuss experimental protocols and results. By putting all the course materials on an {{% resource_link "117d3a13-6ec8-4af2-beb3-ab4cb96d9503" "OpenWetWare" %}} wiki, they can be updated and improved instantly by everyone (not just the instructors).
 
 More about [OpenWetWare use in 20.109](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/Syllabus/openwetware-use-in-20.109)
 

@@ -75,19 +75,19 @@ The teaching faculty will exchange the culture medium as necessary.
 
 ### Part 2: Primers for RT-PCR
 
-Did you know that NCBI has a Web site devoted to all things cow? [NCBI Bovine Genome Resources](http://www.ncbi.nlm.nih.gov/projects/genome/guide/cow/)
+Did you know that NCBI has a Web site devoted to all things cow? {{% resource_link "b8b3eeaa-ac88-4168-94da-09ae2832f042" "NCBI Bovine Genome Resources" %}}
 
 It's true! And today you will use this site to find the primers you need to perform RT-PCR on Day 4 of this module. Try searching for collagen types I and II (the alpha chain of each is fine) in the **Map Viewer** (upper right of page). What chromosome is each collagen chain located on? See if you can make your way to the UniSTS entries for collagen, which list recommended primers for RT-PCR. How long are the expected PCR products if these primers are used?
 
-Another option for finding primer suggestions is looking in the literature. Of course, this can be a risky proposition, but if you verify the primers against information in the NCBI database, it can be faster than making your own from scratch, and provide a feeling of security (someone, somewhere has succesfully amplified the sequence in question!). The paper by [Ikenooue, et al](http://www.ncbi.nlm.nih.gov/pubmed/12507587). lists primers recommended for collagen type II. What species are the primers for? If it's not bovine, you cannot use the primers directly. However, you can BLAST the primers against the bovine genome, similar to what you did in Module 2 to verify your mutagenized plasmids against the original, or Module 1 to search for homology in your RNA aptamers.
+Another option for finding primer suggestions is looking in the literature. Of course, this can be a risky proposition, but if you verify the primers against information in the NCBI database, it can be faster than making your own from scratch, and provide a feeling of security (someone, somewhere has succesfully amplified the sequence in question!). The paper by {{% resource_link "d9e30c3a-c682-48a6-b9a6-5be762672a3d" "Ikenooue, et al" %}}. lists primers recommended for collagen type II. What species are the primers for? If it's not bovine, you cannot use the primers directly. However, you can BLAST the primers against the bovine genome, similar to what you did in Module 2 to verify your mutagenized plasmids against the original, or Module 1 to search for homology in your RNA aptamers.
 
-Go to the [BLAST](http://www.ncbi.nlm.nih.gov/blast/Blast.cgi) Web site and select the _bos taurus_ genome. Type in the primers from the journal article one at a time, then perform the BLAST as follows: select BLASTN, change the "Expect" value to 0.1, and turn off the low complexity filter. How many nucleotides changed between the human and cow for each primer?
+Go to the {{% resource_link "0d83ae07-d530-45cc-8c67-213f0974f962" "BLAST" %}} Web site and select the _bos taurus_ genome. Type in the primers from the journal article one at a time, then perform the BLAST as follows: select BLASTN, change the "Expect" value to 0.1, and turn off the low complexity filter. How many nucleotides changed between the human and cow for each primer?
 
 Why must you use cDNA rather than complete genes (introns+exons) when making primers for RT-PCR?
 
 References:
 
-*   Ikenoue, T., et al. "[Mechanoregulation of Human Articular Chondrocyte Aggrecan and Type II Collagen Expression by Intermittent Hydrostatic Pressure _in vitro_](https://onlinelibrary.wiley.com/doi/abs/10.1016/S0736-0266%2802%2900091-8)." _J Orthop Res_ 21, no. 1 (Janurary, 2003): 110-6.
+*   Ikenoue, T., et al. "{{% resource_link "067b2468-6b46-495c-910f-032dd5cbfcba" "Mechanoregulation of Human Articular Chondrocyte Aggrecan and Type II Collagen Expression by Intermittent Hydrostatic Pressure _in vitro_" %}}." _J Orthop Res_ 21, no. 1 (Janurary, 2003): 110-6.
 
 Design Plan and Expected Assay Results
 --------------------------------------
