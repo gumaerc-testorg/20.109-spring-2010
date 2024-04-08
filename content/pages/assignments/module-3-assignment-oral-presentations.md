@@ -35,7 +35,7 @@ A few ground rules that are 20.109 specific:
 *   you should not propose any research question that has been the subject of your UROP or research experience outside of 20.109. This proposal must be original.
 *   you should keep in mind that this proposal will be presented to the class, so try to limit your scope to an idea that can be convincingly presented in a ten minute oral presentation.
 
-Once you and your partner have decided on a suitable research problem, it's time to become an expert on the topic. This will mean searching the literature, talking with people, generating some ideas and critically evaluating them. To keep track of your efforts, you should start a wiki catalog on your OpenWetWare user page. How you format the page is up to you, but check out the [yeast rebuild](http://openwetware.org/wiki/Yeast_rebuild) or the [T7.2](http://openwetware.org/wiki/T7.2) wiki pages on OpenWetWare for examples of research ideas in process.
+Once you and your partner have decided on a suitable research problem, it's time to become an expert on the topic. This will mean searching the literature, talking with people, generating some ideas and critically evaluating them. To keep track of your efforts, you should start a wiki catalog on your OpenWetWare user page. How you format the page is up to you, but check out the {{% resource_link "56e3552c-d0f2-4f73-a72c-7cd35490f214" "yeast rebuild" %}} or the {{% resource_link "29d8862a-2051-48d6-9017-5893a836076e" "T7.2" %}} wiki pages on OpenWetWare for examples of research ideas in process.
 
 As you become more expert on your research topic, you'll read a lot about it and you may feel
 

@@ -15,7 +15,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-\< {{% resource_link "ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f" "|" "#module_2_index" %}} {{% resource_link "c810141c-0282-3f29-da2a-83f1fe93dcb1" "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link "9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee" "Next lab day" "#module_2_index" %}} >
+\< {{% resource_link "c810141c-0282-3f29-da2a-83f1fe93dcb1" "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link "9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee" "Next lab day" "#module_2_index" %}} >
 
 ## Introduction
 
@@ -30,7 +30,7 @@ As evidenced by Nagai's work, wild-type inverse pericam is not toxic to BL21(DE3
 
 Based on its fluorescence activity, wild-type inverse pericam allows proper folding of (cp) EYFP, and based on its response to calcium, it also allows calmodulin to fold. One problem you may encounter is that your mutant proteins will no longer fold correctly. Since you made mutations in the calcium sensor part of IPC, rather than the fluorescent part, it is unlikely that your protein will destroy EYFP fluorescence. However, a common problem with misfolded proteins is the formation of insoluble aggregates, due for instance to improperly exposed hydrophobic surfaces. Proteins can be purified from these aggregates – called inclusion bodies – but the process is more labour-intensive than for soluble proteins. (The proteins must be extracted under more harsh conditions than you will use next time, then purified under denaturing conditions, before finally attempting to renature the proteins.) Inclusion bodies sometimes form simply due to very high expression of the protein of interest, causing it to pass its solubility limit. This outcome can be prevented by lowering the culture temperature or time, the amount of IPTG, or the growth phase of the bacteria.
 
-One final point to keep in mind is that not all proteins can be produced in bacteria. Eukaryotic proteins that require post-translational modifications (such as glycosylation) for activity require eukaryotic hosts (such as yeast, or the ubiquitous CHO – Chinese hamster ovary – cells). Sometimes eukaryote-derived proteins will be truncated or otherwise mistranslated by *E. coli* due to differential codon bias (Kane, 1995); errors in translation can be prevented by providing additional tRNAs to the culture or directly to the bacteria via plasmids (McNulty, et al., 2003). Despite all this complexity, prokaryotic hosts have been plenty good enough to produce proteins for certain therapies, notably the cytokine G-CSF for patients needing to replenish their white blood cells (e.g., after chemotherapy), sold as \[Neupogen\]([http://www.neupogen.com/](http://www.neupogen.com/)  
+One final point to keep in mind is that not all proteins can be produced in bacteria. Eukaryotic proteins that require post-translational modifications (such as glycosylation) for activity require eukaryotic hosts (such as yeast, or the ubiquitous CHO – Chinese hamster ovary – cells). Sometimes eukaryote-derived proteins will be truncated or otherwise mistranslated by *E. coli* due to differential codon bias (Kane, 1995); errors in translation can be prevented by providing additional tRNAs to the culture or directly to the bacteria via plasmids (McNulty, et al., 2003). Despite all this complexity, prokaryotic hosts have been plenty good enough to produce proteins for certain therapies, notably the cytokine G-CSF for patients needing to replenish their white blood cells (e.g., after chemotherapy), sold as \[Neupogen\]({{% resource_link "b657d696-66ec-44a7-b2f4-9c2c7abca607" "http://www.neupogen.com/" %}}   
 ){{< sup "®" >}} by Amgen.
 
 After you induce your cells with IPTG, you will let the resultant protein factories do their work for 2-3 hours. During this time, you will evaluate the DNA from your two X#Z candidates (and from the M124S mutant). First, you will run your diagnostic digests from last time out on a gel. The banding patterns will allow you to determine (or diagnose) whether either of your putative X#Z mutants actually contains the new restriction site that you introduced. Of course, there is a slim possibility that the silent mutation was incorporated but the non-silent mutation wasn't. To get more direct evidence for whether the site-directed mutagenesis worked, you will analyze data from the sequencing reactions that you set up last time.
@@ -43,15 +43,15 @@ Left: Normal bases versus chain-terminating bases. Center: Sequencing gel exampl
 
 The invention of automated sequencing machines has made sequence determination a relatively fast and inexpensive endeavor. The method for sequencing DNA is not new but automation of the process is recent, developed in conjunction with the massive genome sequencing efforts of the 1990s. At the heart of sequencing reactions is chemistry worked out by Fred Sanger in the 1970s which uses dideoxynucleotides (see schematic above left). These chain-terminating bases can be added to a growing chain of DNA but cannot be further extended. Performing four reactions, each with a different chain-terminating base, generates fragments of different lengths ending at G, A, T, or C. The fragments, once separated by size, reflect the DNA's sequence. In the "old days" (all of 10 years ago!) radioactive material was incorporated into the elongating DNA fragments so they could be visualized on X-ray film (image above center). More recently fluorescent dyes, one color linked to each dideoxy-base, have been used instead. The four colored fragments can be passed through capillaries to a computer that can read the output and trace the color intensities detected (image above right). Your sample was sequenced in this way on an ABI 3730 DNA Analyzer.
 
-Analysis of sequence data is no small task. "Sequence gazing" can swallow hours of time with little or no results. There are also many web-based programs to decipher patterns. The nucleotide or its translated protein can be examined in this way. Thanks to the genome sequence information that is now available, a new verb, "to BLAST," has been coined to describe the comparison of your own sequence to sequences from other organisms. BLAST is an acronym for Basic Local Alignment Search Tool, and can be accessed through the [National Center for Biotechnology Information (NCBI) home page.](http://www.ncbi.nlm.nih.gov/)
+Analysis of sequence data is no small task. "Sequence gazing" can swallow hours of time with little or no results. There are also many web-based programs to decipher patterns. The nucleotide or its translated protein can be examined in this way. Thanks to the genome sequence information that is now available, a new verb, "to BLAST," has been coined to describe the comparison of your own sequence to sequences from other organisms. BLAST is an acronym for Basic Local Alignment Search Tool, and can be accessed through the {{% resource_link "f6b605aa-3388-43d6-9290-c0b01caf462d" "National Center for Biotechnology Information (NCBI) home page." %}}
 
 You might be wondering why you would ever go through the trouble of designing and performing diagnostic digests, when sequencing is relatively simple and yields more information. Here, the idea of scale becomes important. Sequencing costs $8 per reaction, which can add up if you need to examine, say, 10 or more candidates. Agarose gel electrophoresis, by comparison, costs perhaps $1 per candidate. Since both methods require DNA isolation, one is not dramatically more labour intensive than the other. (A method called colony PCR avoids this labour. Can you guess what it might entail?) Finally, banding patterns can give a quick readout of many candidate colonies compared to the time it takes for the individual sequencing analyses you will perform today. Of course, there's no reason one couldn't automate the analysis process with a bit of (computer, not DNA) code!
 
 ### References
 
-Kane, J. F. "[Effects of Rare Codon Clusters on High-Level Expression of Heterologous Proteins in *Escherichia coli*](http://dx.doi.org/10.1016/0958-1669(95)80082-4)." *Curr Opin Biotechnol* 6, no. 5 (October, 1995): 494-500.
+Kane, J. F. "{{% resource_link "06568032-c0d7-49b6-8c89-237f82c4dd42" "Effects of Rare Codon Clusters on High-Level Expression of Heterologous Proteins in *Escherichia coli*" %}}." *Curr Opin Biotechnol* 6, no. 5 (October, 1995): 494-500.
 
-McNulty, D. E., et al. "[Mistranslational Errors Associated With the Rare Arginine Codon CGG in *Escherichia coli*](http://dx.doi.org/10.1016/S1046-5928(02)00610-1)." *Protein Expr Purif*. 27, no. 2 (Febraury, 2003): 365-74.
+McNulty, D. E., et al. "{{% resource_link "67614462-033d-4f00-a739-ba27024e2983" "Mistranslational Errors Associated With the Rare Arginine Codon CGG in *Escherichia coli*" %}}." *Protein Expr Purif*. 27, no. 2 (Febraury, 2003): 365-74.
 
 ## Protocols
 
@@ -93,7 +93,7 @@ D1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-[1 Kb marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Product%20Information)
+{{% resource_link "e0d64717-40f0-46ea-87ee-9818f0840193" "1 Kb marker" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -117,7 +117,7 @@ D2
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-[100 bp marker](http://www.neb.com/nebecomm/products/productN3231.asp)
+{{% resource_link "fb7c03c1-645f-4ff8-abab-bc237b5056fd" "100 bp marker" %}}
 {{< tdclose >}}{{< tdopen >}}
 (if relevant for your band sizes)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -142,15 +142,15 @@ Once all the samples are loaded, the power will be applied (100 V for 45 minutes
 
 ### Part 3: Analyze Sequence Data
 
-Your goal today is to analyze the sequencing data for three samples - two independent colonies from your X#Z mutant, and one M124S clone for practice - and then decide which colony to proceed with for the X#Z mutant. You will want to have this Day 4 sequence document handy ({{% resource_link "0157b734-c176-9588-be86-0c21c8a74db7" "DOC" %}}), and to mark the expected location of your mutation with bold text before proceeding. (Just compare to your annotation of the Day 1 IPC sequence document ({{% resource_link "7acf0d4e-bb71-72a3-8be4-3d2826417320" "DOC" %}}) using Word Count or the Find tool.) The new file contains the inverse pericam sequence as before, but also the flanking sequences (from the pRSET vector) before and after IPC, which are separated from IPC by a blank line. The second page of the document contains the reverse complement of IPC/pRSET, which was generated using this website tool "[Reverse and/or complement DNA sequences.](http://arep.med.harvard.edu/labgc/adnan/projects/Utilities/revcomp.html)" Be sure to bold your mutant codon in the reverse complement sequence as well.
+Your goal today is to analyze the sequencing data for three samples - two independent colonies from your X#Z mutant, and one M124S clone for practice - and then decide which colony to proceed with for the X#Z mutant. You will want to have this Day 4 sequence document handy ({{% resource_link "0157b734-c176-9588-be86-0c21c8a74db7" "DOC" %}}), and to mark the expected location of your mutation with bold text before proceeding. (Just compare to your annotation of the Day 1 IPC sequence document ({{% resource_link "7acf0d4e-bb71-72a3-8be4-3d2826417320" "DOC" %}}) using Word Count or the Find tool.) The new file contains the inverse pericam sequence as before, but also the flanking sequences (from the pRSET vector) before and after IPC, which are separated from IPC by a blank line. The second page of the document contains the reverse complement of IPC/pRSET, which was generated using this website tool "{{% resource_link "94dcd192-3688-4f69-9b26-76c217377d00" "Reverse and/or complement DNA sequences." %}}" Be sure to bold your mutant codon in the reverse complement sequence as well.
 
-Next we will use some data from the [MIT Biopolymers Facility](https://ki-sbc.mit.edu/biopolymers-proteomics). \[\_Only available to enrolled students in the class, not accessible for OCW users.\_\] From this link, we can see sequencing traces and sequence text.
+Next we will use some data from the {{% resource_link "68bd275b-a665-4e8b-b286-0bec410fb3ba" "MIT Biopolymers Facility" %}}. \[\_Only available to enrolled students in the class, not accessible for OCW users.\_\] From this link, we can see sequencing traces and sequence text.
 
 Rather than look through the sequence to magically find the relevant portion, you can align the data you just got with the standard inverse pericam sequence and the differences will be quickly identified. There are several web-based programs for aligning sequences and still more programs that can be purchased. The steps for using one web-based tool are sketched below.
 
-**Align with "bl2seq" from** [**NCBI**](http://www.ncbi.nlm.nih.gov/)
+**Align with "bl2seq" from** {{% resource_link "f6b605aa-3388-43d6-9290-c0b01caf462d" "**NCBI**" %}}
 
-1. The alignment program can be accessed through the [NCBI BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) page or directly from this [link](http://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&PROG_DEF=blastn&BLAST_PROG_DEF=megaBlast&BLAST_SPEC=blast2seq).
+1. The alignment program can be accessed through the {{% resource_link "6f0595b4-081d-4cce-bac5-7cb703ceada1" "NCBI BLAST" %}} page or directly from this {{% resource_link "e9813246-a70b-451d-8ab4-5295b652a6a7" "link" %}}.
 2. To allow for gaps in the sequence alignment, uncheck the "filter" box. All the other default settings should be fine.
 3. Paste the sequence text from your sequencing run into the "Sequence 1" box. This will now be the "query." If there were ambiguous areas of your sequencing results, these will be listed as "N" rather than "A" "T" "G" or "C" and it's fine to include Ns in the query.
 4. Paste the inverse pericam sequence into the "Sequence 2" box. For samples probed with the forward primer, use the regular IPC sequence; for those using a reverse primer, you should put in the reverse complement. Which alignment will be more useful depends on the location of your mutation.
@@ -159,7 +159,7 @@ Rather than look through the sequence to magically find the relevant portion, yo
 
 If both colonies for your mutant have the correct sequence, flip a coin and proceed with one or the other; ditto if both are inconclusive. If one appears right and the other doesn't, of course proceed with the former. Finally, if both are clearly wrong, talk to a member of the teaching faculty.
 
-For your reference, another popular sequence alignment program is "[CLUSTAL-W](http://www.ebi.ac.uk/Tools/clustalw2/index.html)" from [EMBL-EBI.](http://www.ebi.ac.uk/)
+For your reference, another popular sequence alignment program is "{{% resource_link "91bf89c8-7a07-475d-b2ae-6d05dcde3649" "CLUSTAL-W" %}}" from {{% resource_link "853f5af7-ad86-439b-9040-f6b8e76224a9" "EMBL-EBI." %}}
 
 ## Part 4: Observe Mutant Colonies
 
