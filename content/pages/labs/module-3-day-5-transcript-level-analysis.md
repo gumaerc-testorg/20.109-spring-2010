@@ -331,7 +331,7 @@ Sample 2
 
 ### Part 3: Begin ImageJ Analysis
 
-Today you will use an image analysis program called [ImageJ](http://rsbweb.nih.gov/ij/). This is offered free of charge by the NIH (National Institutes of Health). Your goal is to determine the relative amounts of collagen II and collagen I, based on the intensity of the bands normalized by co-amplified GAPDH. This assay provides one piece of evidence for the overall question posed by this module, namely, what factors affect chondrocyte phenotype maintenance (vs. de-differentiation to fibroblasts) or stem cell chondrogenesis, and to what extent? If you finish the transcript-level analysis, you can move on to quantifying your live/dead data.
+Today you will use an image analysis program called {{% resource_link "f55b9f98-1130-49b9-a7cf-7a3f006f4dfd" "ImageJ" %}}. This is offered free of charge by the NIH (National Institutes of Health). Your goal is to determine the relative amounts of collagen II and collagen I, based on the intensity of the bands normalized by co-amplified GAPDH. This assay provides one piece of evidence for the overall question posed by this module, namely, what factors affect chondrocyte phenotype maintenance (vs. de-differentiation to fibroblasts) or stem cell chondrogenesis, and to what extent? If you finish the transcript-level analysis, you can move on to quantifying your live/dead data.
 
 **Transcript intensity**
 

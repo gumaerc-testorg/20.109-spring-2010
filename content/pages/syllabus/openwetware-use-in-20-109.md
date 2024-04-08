@@ -21,7 +21,7 @@ What is OpenWetWare?
 
 OpenWetWare is a wiki (an application designed to make it easy to create, edit and organize Web pages) for biological science and engineering. It basically provides a common space for people to share information about protocols, materials, research projects, meetings or anything else that might be of interest to users.
 
-Also see [OpenWetWare: About](http://openwetware.org/wiki/OpenWetWare:About).
+Also see {{% resource_link "3573fffe-bc95-464c-97c1-b215e6850df9" "OpenWetWare: About" %}}.
 
 Why are we using OpenWetWare in 20.109?
 ---------------------------------------
@@ -30,12 +30,12 @@ Since 20.109 is a lab class, we think the students, TAs and instructors would be
 
 For instance, one problem often encountered when teaching people new lab techniques is that the "experts" who are writing up the instructions might forget to include certain steps or neglect to explain certain things because they think they are obvious or just don't think to include that information. Then often, the person learning a new technique might get tripped up by this lack of detail. We're hoping that by putting all the 20.109 material online and allowing everyone to edit it, the course material will grow to be more comprehensive and ultimately more useful.
 
-Also see [Why join OpenWetWare?](https://openwetware.org/wiki/OWW.101:OpenWetWare#Why_are_we_using_OpenWetWare_in_this_course.3F).
+Also see {{% resource_link "69b9e159-5512-4565-8385-72c9e76161ce" "Why join OpenWetWare?" %}}.
 
 How do I get an account?
 ------------------------
 
-Fill out the form at [how to join](http://openwetware.org/wiki/OpenWetWare:How_to_join) to register for an account on OpenWetWare. You will be sent an email with your account information. Once you have an account, you can login from any webbrowser by clicking the login link at the top right corner of the browser window.
+Fill out the form at {{% resource_link "d674de31-911c-490a-993e-964b3279e7cb" "how to join" %}} to register for an account on OpenWetWare. You will be sent an email with your account information. Once you have an account, you can login from any webbrowser by clicking the login link at the top right corner of the browser window.
 
 What should I contribute?
 -------------------------
@@ -53,12 +53,12 @@ Basically use OpenWetWare however it might be useful to you. If you think OpenWe
 How do I contribute?
 --------------------
 
-Once you have an account, the best way to learn how to edit the wiki is to look at existing pages. Click the "edit" tab at the top of a page to view the "source code" for the page. If you want to play around to see how things appear, you can do that in the [Sandbox](http://openwetware.org/wiki/Sandbox) or even on your own user page.
+Once you have an account, the best way to learn how to edit the wiki is to look at existing pages. Click the "edit" tab at the top of a page to view the "source code" for the page. If you want to play around to see how things appear, you can do that in the {{% resource_link "d41cbfd3-ebaa-4a60-ae11-bd038614ca7a" "Sandbox" %}} or even on your own user page.
 
-If you have a question about how encode something in wiki markup language, try googling. There are lots of reference sources out there since OpenWetWare is based on the same software as [Wikipedia](http://en.wikipedia.org/wiki/Main_Page). Other reference pages include
+If you have a question about how encode something in wiki markup language, try googling. There are lots of reference sources out there since OpenWetWare is based on the same software as {{% resource_link "bff04238-6929-4344-aaa9-f0d9b58922a3" "Wikipedia" %}}. Other reference pages include
 
-*   The [help page](http://openwetware.org/wiki/Help:Contents) which shows up in the sidebar of every page.
-*   In particular, see [Simple wiki editing examples](http://openwetware.org/wiki/Simple_wiki_editing_examples) for a quick how-to on wiki editing.
+*   The {{% resource_link "00293dbb-3169-41e5-add8-adfe03e27a58" "help page" %}} which shows up in the sidebar of every page.
+*   In particular, see {{% resource_link "8669eb32-fbe9-46b4-8dab-9a57fe8af6c1" "Simple wiki editing examples" %}} for a quick how-to on wiki editing.
 
 Why should I contribute?
 ------------------------

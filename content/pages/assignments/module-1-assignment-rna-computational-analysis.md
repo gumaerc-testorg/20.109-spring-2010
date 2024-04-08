@@ -80,7 +80,7 @@ CLUSTAL is a program that finds strings of homology among primary sequences of n
 
 ### Exercise
 
-1.  Go to the [CLUSTAL Web site](http://www.ebi.ac.uk/Tools/clustalw2/index.html).
+1.  Go to the {{% resource_link "91bf89c8-7a07-475d-b2ae-6d05dcde3649" "CLUSTAL Web site" %}}.
 2.  Copy and paste the sequences from the attached data file into the text box labeled: "Enter or paste a set of sequences in any supported format:"
     *   Note: Be sure that all the ">" characters are included. This is FASTA formatted data, which is a common way for inputting data into many of the bioinformatics software packages used today. You can read more about this data format at the CLUSTAL Web site.
 3.  Using the default settings, click the RUN button to begin your analysis.
@@ -102,14 +102,14 @@ Capture a screenshot of the phylogram tree and give it an informative title.
 {{< anchor "Part_II:_" >}}{{< /anchor >}}Part II: MEME Analysis
 ---------------------------------------------------------------
 
-MEME is a program that identifies "statistically significant" contiguous sequences that are common to a group of DNA or protein sequences. You can learn at the [MEME Overview](http://meme.sdsc.edu/meme/intro.html) page and associated links.
+MEME is a program that identifies "statistically significant" contiguous sequences that are common to a group of DNA or protein sequences. You can learn at the {{% resource_link "5be8f894-eb0c-4540-8d2c-cba47e9ad3e4" "MEME Overview" %}} page and associated links.
 
 ### Exercise
 
 In this part of your assignment, you will be analyzing your sequence data to determine if there are any motifs that are enriched in your selected library pool. Using the sequence data derived from the variable region of your putative aptamers, perform a MEME analysis.
 
 1.  Create a .txt file containing the variable region sequences derived from only your unique clones in FASTA format. Alternatively, you can paste these in as before.
-2.  Go to the [MEME Web site](http://meme.sdsc.edu/meme/intro.html). Choose the MEME option, and follow the directions for entering your sequences. You will need to enter a valid email address to receive a link to your data for easy future access.
+2.  Go to the {{% resource_link "5be8f894-eb0c-4540-8d2c-cba47e9ad3e4" "MEME Web site" %}}. Choose the MEME option, and follow the directions for entering your sequences. You will need to enter a valid email address to receive a link to your data for easy future access.
 3.  Use the following settings for your analysis:
     *   Motif Frequency (how many occurrences of the motif you expect per sequence) = Zero or one
     *   Motif width (the number of contiguous bases you expect your recovered motif will contain): Minimum = 8 and Maximum = 15
@@ -129,14 +129,14 @@ When viewing the MEME output (HTML option), look to the left of each motif image
 {{< anchor "Part_III:_" >}}{{< /anchor >}}Part III: Mfold Analysis
 ------------------------------------------------------------------
 
-Mfold is a program that predicts nucleic acid secondary structures by computing free energies for the potential structure-space of a given sequence. You can learn more on the [Mfold homepage](http://mfold.rna.albany.edu/?q=mfold/download-mfold) and in the cited literature at the bottom of that page.
+Mfold is a program that predicts nucleic acid secondary structures by computing free energies for the potential structure-space of a given sequence. You can learn more on the {{% resource_link "a444ee29-a9d8-45b1-9ca3-1c98aa10b6e0" "Mfold homepage" %}} and in the cited literature at the bottom of that page.
 
 ### Exercise
 
 Here, you will predict the secondary structures for 6-5 and 8-12 using the full-length (constant + variable region) RNA sequence expected after transcription.
 
 1.  Follow the directions provided in your data file (read all the background and notes carefully) to come up with the required RNA sequences.
-2.  Go to the [Mfold Web site](http://mfold.rna.albany.edu/?q=mfold/download-mfold).
+2.  Go to the {{% resource_link "a444ee29-a9d8-45b1-9ca3-1c98aa10b6e0" "Mfold Web site" %}}.
 3.  Obtain folded structures for the 6-5 and 8-12 RNA sequences. Since you have a small number of sequences enter each individually, and perform your analyses sequentially.
     *   Use the default options, but please enter the following information:
         *   A name for your sequence
