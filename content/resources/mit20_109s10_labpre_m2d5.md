@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to genetic control elements.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/9da00fbd694a0173a6961b9868938b75_MIT20_109S10_labpre_m2d5.pdf
+file_size: 315337
 file_type: application/pdf
 learning_resource_types:
 - Labs

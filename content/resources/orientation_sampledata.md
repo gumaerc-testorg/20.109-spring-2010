@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/5ec9aa3433ae97887d75dc746384eaba_orientation_sampledata.xlsx
+file_size: 13562
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

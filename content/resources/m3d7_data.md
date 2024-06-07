@@ -3,6 +3,7 @@ content_type: resource
 description: 'Module 3 day 7: ZIP file containing raw data for four lab teams, formatted
   as tab-delimited .txt files.'
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/594f5ac8ea2228c3b0f62fc139c26d2b_m3d7_data.zip
+file_size: 4311
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,6 +7,7 @@ description: Depicted are two complementary strands of DNA, with a desired targe
   be made (dotted lines keep extending). However, these early products themselves
   become templates that produce the correct product in abundance.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/61889242e6f75d6947c2be06a35917d7_m1d1_fig1.jpg
+file_size: 34410
 file_type: image/jpeg
 image_metadata:
   caption: ''
