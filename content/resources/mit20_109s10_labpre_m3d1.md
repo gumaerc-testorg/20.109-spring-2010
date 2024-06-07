@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to tissue engineering.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/a28729ba6bde8f6b5f542870adcf37c7_MIT20_109S10_labpre_m3d1.pdf
+file_size: 231982
 file_type: application/pdf
 learning_resource_types:
 - Labs

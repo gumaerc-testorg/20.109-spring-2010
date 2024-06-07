@@ -18,7 +18,7 @@ video_metadata:
 
 « Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Biomaterial_Engineering" %}}
 
-This page contains general preparation notes for the teaching assistants supporting the Module 3 labs. Instructors interested in implementing these labs may contact {{% resource_link "4d31b27d-7664-4a83-be25-49dbdf52a7cd" "Agi Stachowiak" %}} for additional fine-tuning information.
+This page contains general preparation notes for the teaching assistants supporting the Module 3 labs. Instructors interested in implementing these labs may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for additional fine-tuning information.
 
 General Notes
 -------------
@@ -29,7 +29,7 @@ Scheme: Each pair of students will make two cultures, with various modifications
 
 Cell derivation from bovine knee joints (from Research 87, Inc.)
 
-*   For full derivation protocols, you may contact {{% resource_link "4d31b27d-7664-4a83-be25-49dbdf52a7cd" "Agi Stachowiak" %}}
+*   For full derivation protocols, you may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak)
 *   Chondrocytes
 *   2-day process (1 afternoon and 1 morning), then can be frozen away
 
@@ -43,7 +43,7 @@ Lots of media to prepare. Some components go bad quickly (proline and ascorbate)
 
 ### Note to Instructors Interested in Implementing this Lab
 
-Several changes are being piloted in the summer of 2010 to make the lab more technically robust.  Please contact {{% resource_link "4d31b27d-7664-4a83-be25-49dbdf52a7cd" "Agi Stachowiak" %}} for details.
+Several changes are being piloted in the summer of 2010 to make the lab more technically robust.  Please contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for details.
 
 *   Improve ELISA signal
     *   completed
