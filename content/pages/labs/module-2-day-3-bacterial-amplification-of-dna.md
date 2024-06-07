@@ -160,7 +160,7 @@ Group 4, U
 7
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "f4ecc3a8-d013-4d13-8e63-32f7d19b35f3" "DNA Ladder" %}}
+[DNA Ladder](https://www.neb.com/products/n3232-1-kb-dna-ladder#Product%20Information)
 {{< tdclose >}}
 {{< tdopen >}}
 14
@@ -180,7 +180,7 @@ Be sure to pre-chill your 14 mL tubes on ice for at least a few min before addin
 ### Part 2: Gel Analysis
 
 1.  The teaching faculty will photograph and post a digital image of the gel.
-2.  In the following analysis, you will need the information for the {{% resource_link "f4ecc3a8-d013-4d13-8e63-32f7d19b35f3" "1 Kbp DNA ladder" %}} you used.
+2.  In the following analysis, you will need the information for the [1 Kbp DNA ladder](https://www.neb.com/products/n3232-1-kb-dna-ladder#Product%20Information) you used.
 3.  First, see if you got a band at the expected size of the pRSET plasmid with an inverse pericam insert, or ~ 4 Kbp.
 4.  If you did not get a band, you should use 2-3x the usual recommended DNA amount in your mutant transformation.
 5.  If you did get a band, estimate the approximate amount of DNA in that lane in ng (by comparing to the ladder standards), then the concentration in ng/μL (based on the sample volume that you loaded). Write this information in your notebook.
@@ -217,7 +217,7 @@ For Next Time
     
     For this assignment, you should plan restriction enzyme digests that allow you to distinguish parental and mutant pRSET-IPC for M124S and for your X#Z mutation. You are probably best off doing a single enzyme digest for this particular experiment. However, in other kinds of experiments (notably cloning) using two enzymes per digest can give more information. Note: the M124S primer information is now on the Day 2 Talk page.
     
-    (A) Use NEB's {{% resource_link "26455f12-efc2-44c2-9118-57a4fb87de4e" "NEBuffer Activity Chart for Restriction Enzymes" %}} to determine the appropriate buffer and temperature for your reactions.
+    (A) Use NEB's [NEBuffer Activity Chart for Restriction Enzymes](https://www.neb.com/tools-and-resources/usage-guidelines/nebuffer-performance-chart-with-restriction-enzymes) to determine the appropriate buffer and temperature for your reactions.
     
     (B) In addition to giving the reaction conditions for each digest, you should explicitly show how the digest distinguishes between parent and mutant. In other words, what are the expected band sizes for each upon digestion?
     

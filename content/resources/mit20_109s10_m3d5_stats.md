@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/873cebabd6c2499ac4a0a47cd76f85f8_MIT20_109S10_m3d5_stats.xls
+file_size: 25600
 file_type: application/vnd.ms-excel
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

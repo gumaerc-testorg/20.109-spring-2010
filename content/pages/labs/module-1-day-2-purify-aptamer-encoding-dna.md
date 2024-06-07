@@ -30,7 +30,7 @@ Left: Scanning electron microscope image of agarose polymer. (© source unknown.
 
 Although all DNA molecules travel in the same direction during gel electrophoresis, they do so at different rates: larger molecules get entwined in the matrix and retarded, while smaller molecules wind through the matrix more quickly and thus travel further from the well. Ultimately, fragments of similar length accumulate into "bands" in the gel. Bands of DNA are usually visualized by adding the fluorescent dye ethidium bromide to agarose gels. This dye intercalates between the bases of DNA, allowing DNA fragments to be located in the gel under UV light and photographed. The intensity of the band reflects the concentration of molecules that size, although there are upper and lower limits to the sensitivity of dyes. Because of its interaction with DNA, **ethidium bromide is a powerful mutagen** and will interact with the DNA in your body just as it does with any DNA on a gel. ***You should always handle all gels and gel equipment with nitrile gloves***. Agarose gels with ethidium bromide must be disposed of as hazardous waste.
 
-One parameter that affects the way DNA travels through a gel is the pore size, which is in turn affected by both the weight percent of the gel and the type of agarose used. Because we are separating small DNA fragments (~ 0.1 Kbp), a high percentage (namely 3%) gel is appropriate. For bands 10-50 times this size, a 1% gel would typically be used. We will use a high-resolution (HR) agarose; its low viscosity means that high weight percent solutions are tractable to work with, and that the solidified gel remains pliable rather than brittle. HR agarose can be prepared by chemically modifying and/or partially depolymerizing natural agarose (as described in this {{% resource_link "d7dc5148-a712-4177-aa01-b9d679ee3b9f" "patent" %}}).
+One parameter that affects the way DNA travels through a gel is the pore size, which is in turn affected by both the weight percent of the gel and the type of agarose used. Because we are separating small DNA fragments (~ 0.1 Kbp), a high percentage (namely 3%) gel is appropriate. For bands 10-50 times this size, a 1% gel would typically be used. We will use a high-resolution (HR) agarose; its low viscosity means that high weight percent solutions are tractable to work with, and that the solidified gel remains pliable rather than brittle. HR agarose can be prepared by chemically modifying and/or partially depolymerizing natural agarose (as described in this [patent](http://www.google.com/patents?vid=USPAT5143646)).
 
 You will melt the agarose gel bands, then isolate the DNA by using a silica (SiO{{< sub "2" >}}) column. The column is packed with a silica resin (i.e., beads). The beads have a high ratio of surface area to volume and contain small pores, both qualities that allow them to interact with specific molecules. When nucleic acids are diluted in a high concentration of a chaotropic salt buffer, they will tend to bind to the silica. This is because chaotropic salts (such as guanidine isothiocyanate) disrupt hydrogen-bond organization between water and macromolecules, essentially dehydrating the nucleic acids and causing them to bind to the resin. Ethanol further precipitates the nucleic acids. The column-bound acids are washed with various buffers to remove salts and other contaminants before finally eluting in pure water, in which nucleic acids are highly soluble. The exact pore size and surface chemistry of the silica beads determine what sizes and kinds of nucleic acid will be bound versus washed away. In our case DNA between about 70 and 10,000 bp will be eluted.
 
@@ -38,7 +38,7 @@ You will melt the agarose gel bands, then isolate the DNA by using a silica (SiO
 
 ### Part 1: Run PCR Products on Gel
 
-You will use a 3% agarose gel to run your three PCRs from last time, as well as a reference lane of molecular weight markers (also called a {{% resource_link "e2a904c7-f6b0-4d41-b606-e6432097c460" "DNA ladder" %}}).
+You will use a 3% agarose gel to run your three PCRs from last time, as well as a reference lane of molecular weight markers (also called a [DNA ladder](https://www.neb.com/products/markers-and-ladders/dna-markers-and-ladders/dna-markers-and-ladders)).
 
 1. Put 40 μL of each reaction from last time (6-5, 8-12, and no template control) into a separate eppendorf tube.
     - If a reaction has less than 40 μL due to evaporation, take the maximum amount you can and write it down.
@@ -48,7 +48,7 @@ You will use a 3% agarose gel to run your three PCRs from last time, as well as 
     - To quick-spin, hold down the "short" button on your centrifuge for 3-5 seconds, then release.
 4. Load the gel according to the table below. Up to 4 groups will share each gel: 2 groups per lane. o To load your samples, draw 40 μL into the tip of your P200. Lower the tip below the surface of the buffer and directly over the well. You risk puncturing the bottom of the well if you lower the tip too far into the well itself (puncturing well = bad!). Expel your sample into the well. Do not release the pipet plunger until after you have removed the tip from the gel box (or you'll draw your sample back into the tip!).
 5. Once all the samples have been loaded, we will attach the gel box to the power supply and run at 100 V for 60 minutes.
-6. Later you will be shown how to photograph your gel and excise the relevant bands of DNA. Begin by anticipating where you expect to see your sample band relative to the bands of the {{% resource_link "e2a904c7-f6b0-4d41-b606-e6432097c460" "DNA Ladder" %}}.
+6. Later you will be shown how to photograph your gel and excise the relevant bands of DNA. Begin by anticipating where you expect to see your sample band relative to the bands of the [DNA Ladder](https://www.neb.com/products/markers-and-ladders/dna-markers-and-ladders/dna-markers-and-ladders).
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LANE
@@ -104,7 +104,7 @@ BLANK
 
 {{< resource uuid="b4eb8aaf-6af7-e49f-16de-946707ca3fcb" >}}
 
-A sample DNA gel showing two group's data from Module 1, Day 2. Lanes 1 and 6 contain DNA standards of known length ({{% resource_link "fb7c03c1-645f-4ff8-abab-bc237b5056fd" "New England BioLabs 100 bp DNA ladder" %}}). Lanes 3-4 and 8-9 show PCR products just above 100 bp in size, as expected. Lanes 2 and 7 show no product formation in the no template control (NTC) samples. The faint lines well below 100 bp are reaction components, not products. (Image courtesy of Ariana Chehrazi, Jacqueline Söegaard, and two anonymous MIT students.)
+A sample DNA gel showing two group's data from Module 1, Day 2. Lanes 1 and 6 contain DNA standards of known length ([New England BioLabs 100 bp DNA ladder](https://www.neb.com/en-us/products/n3231-100-bp-dna-ladder#Product%20Information)). Lanes 3-4 and 8-9 show PCR products just above 100 bp in size, as expected. Lanes 2 and 7 show no product formation in the no template control (NTC) samples. The faint lines well below 100 bp are reaction components, not products. (Image courtesy of Ariana Chehrazi, Jacqueline Söegaard, and two anonymous MIT students.)
 
 ### Part 2: Writing Across the Curriculum Session
 
@@ -112,9 +112,9 @@ While the gels run, you will have an introductory session with our writing facul
 
 Matthews, Janice R., John M. Bowen, and Robert W. Matthews. *Successful Scientific Writing.* 2nd ed. Cambridge, UK: Cambridge UP, 2005. ISBN: 9780521789622.
 
-- Improving readability – Ex. 5-3, p. 110 (3 exercises) \[Preview in {{% resource_link "dbb4a102-bef4-4f79-a391-5e83f27d2596" "Google Books" %}}\]
-- Revising for brevity -- Ex. 5-6, p. 118 (5 exercises) \[Preview in {{% resource_link "caa386e1-f2c7-4d06-9d93-74addef45dd7" "Google Books" %}}\]
-- Eliminating jargon -- Ex. 7-1, p. 144 (3 exercises) \[Preview in {{% resource_link "399a3120-8a71-4bd6-848b-8e8dfa6fc92a" "Google Books" %}}\]
+- Improving readability – Ex. 5-3, p. 110 (3 exercises) \[Preview in [Google Books](http://books.google.com/books?id=1Lke5Tw5Pq4C&lpg=PP1&pg=PA110#v=onepage&q&f=false)\]
+- Revising for brevity -- Ex. 5-6, p. 118 (5 exercises) \[Preview in [Google Books](http://books.google.com/books?id=1Lke5Tw5Pq4C&lpg=PP1&pg=PA118#v=onepage&q&f=false)\]
+- Eliminating jargon -- Ex. 7-1, p. 144 (3 exercises) \[Preview in [Google Books](http://books.google.com/books?id=1Lke5Tw5Pq4C&lpg=PP1&pg=PA144#v=onepage&q&f=false)\]
 - Punctuation -- Ex. 8-1, p. 172 (5 exercises) \[Google Books preview not available\]
 
 ### Part 3: Purify DNA

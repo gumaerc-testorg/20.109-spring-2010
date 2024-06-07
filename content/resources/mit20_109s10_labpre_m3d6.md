@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to the ELISA protocol.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/e64434f77d3bc569f49eac5c6dce808b_MIT20_109S10_labpre_m3d6.pdf
+file_size: 165454
 file_type: application/pdf
 learning_resource_types:
 - Labs

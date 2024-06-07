@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/84d8035c7b6e15be75f4220d0d371331_tr_green_raw.gif
+file_size: 25668
 file_type: image/gif
 image_metadata:
   caption: ''
