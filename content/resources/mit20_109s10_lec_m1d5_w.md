@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to creating presentation.\r\
   \n"
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/cd0ca2a78e804b4b9c01243b5340a8e4_MIT20_109S10_lec_m1d5_w.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/cd0ca2a78e804b4b9c01243b5340a8e4_MIT20_109S10_lec_m1d5_w.pdf
 file_size: 1448262
 file_type: application/pdf
 learning_resource_types:

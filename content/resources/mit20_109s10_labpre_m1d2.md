@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information about the methods\_section\_\
   tips and DNA\_electrophoresis\_(EP)\_principle."
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f14bd5af7a9c5a5af8526261995ba71f_MIT20_109S10_labpre_m1d2.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f14bd5af7a9c5a5af8526261995ba71f_MIT20_109S10_labpre_m1d2.pdf
 file_size: 528330
 file_type: application/pdf
 learning_resource_types:
