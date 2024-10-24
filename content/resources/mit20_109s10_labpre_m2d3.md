@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to gel electrophoresis.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/0c29e002f4a0f1805d878a9bd86817d2_MIT20_109S10_labpre_m2d3.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/0c29e002f4a0f1805d878a9bd86817d2_MIT20_109S10_labpre_m2d3.pdf
 file_size: 358402
 file_type: application/pdf
 learning_resource_types:

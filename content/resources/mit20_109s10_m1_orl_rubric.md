@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information related to rubric for journal
   club oral presentation. '
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f131f6888100dcb880367ca7c0eb5f51_MIT20_109S10_m1_orl_rubric.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f131f6888100dcb880367ca7c0eb5f51_MIT20_109S10_m1_orl_rubric.pdf
 file_size: 73905
 file_type: application/pdf
 learning_resource_types:
