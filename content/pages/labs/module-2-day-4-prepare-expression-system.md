@@ -15,7 +15,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-\< {{% resource_link "080f3ca5-b66b-7f32-2240-25c3a1fd5acc" "|" "#module_2_index" %}} {{% resource_link "c810141c-0282-3f29-da2a-83f1fe93dcb1" "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link "c902c8ea-545c-743f-443e-440ff96d6753" "Next lab day" "#module_2_index" %}} >
+\< {{% resource_link "c810141c-0282-3f29-da2a-83f1fe93dcb1" "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link "c902c8ea-545c-743f-443e-440ff96d6753" "Next lab day" "#module_2_index" %}} >
 
 ## Introduction
 
@@ -201,21 +201,21 @@ Green
 
 ## For Next Time
 
-1. The vector [pRSET](http://products.invitrogen.com/ivgn/product/V35120) has several properties that make it useful for protein expression and production in bacteria. Some of these were described in today's Introduction. Name 2 other features contained in the pRSET vector and what purposes they serve. (Use your own words to describe the purposes, don't just quote the catalogue.)
+1. The vector pRSET has several properties that make it useful for protein expression and production in bacteria. Some of these were described in today's Introduction. Name 2 other features contained in the pRSET vector and what purposes they serve. (Use your own words to describe the purposes, don't just quote the catalogue.)
 2. BL21(DE3) *E. coli* are often used for protein expression. In contrast, XL1-Blue *E. coli* are 'workhorse' cells useful for plasmid propagation. What are the two modified genes in XL1-Blue that make them ideal for this task? It may help you to refer to the cell manual ([PDF](https://www.neb.com/products/c2527-bl21de3-competent-e-coli#Protocols,%20Manuals%20&%20Usage)).
-3. The major assessment for this module will be a research article describing your protein design work. For this assignment, you will write a draft of the introduction to your report. The introduction provides a framework for the story you are about to tell (*The Amazing Adventures of a Mutant Calcium Sensor*), and thus serves two main purposes. For one, you must provide sufficient background information for a reader to understand the forthcoming results. Just as importantly, you must motivate the audience to keep reading! How? Reveal the significance of the work through connections to both prior scientific accomplishments and future applications. You are welcome to use your own creativity and judgement as to what a good introduction should look like; however, you may find the suggested structure and content below useful.   
+3. The major assessment for this module will be a research article describing your protein design work. For this assignment, you will write a draft of the introduction to your report. The introduction provides a framework for the story you are about to tell (*The Amazing Adventures of a Mutant Calcium Sensor*), and thus serves two main purposes. For one, you must provide sufficient background information for a reader to understand the forthcoming results. Just as importantly, you must motivate the audience to keep reading! How? Reveal the significance of the work through connections to both prior scientific accomplishments and future applications. You are welcome to use your own creativity and judgement as to what a good introduction should look like; however, you may find the suggested structure and content below useful.    
       
-    - **Paragraph 1: most general, "big picture" paragraph.** Here you should introduce the reader to the broader context of your experiment and motivate why your research is important. You might address questions such as those below, but you won't necessarily touch on all of them equally or even at all. Be sure to tell a coherent story, not a dense but unconnected list of facts.   
+    - **Paragraph 1: most general, "big picture" paragraph.** Here you should introduce the reader to the broader context of your experiment and motivate why your research is important. You might address questions such as those below, but you won't necessarily touch on all of them equally or even at all. Be sure to tell a coherent story, not a dense but unconnected list of facts.    
           
         - Why is calcium biologically relevant?
         - What types of natural and synthetic calcium sensors exist and why are they useful?
         - What is protein engineering and by what strategies can it be accomplished?
-    - **Paragraph 2: "zooming in" somewhat**. Now that the reader has a frame for thinking about your research, you can present background information in more depth, including   
+    - **Paragraph 2: "zooming in" somewhat**. Now that the reader has a frame for thinking about your research, you can present background information in more depth, including    
           
         - The structure of inverse pericam, and particularly of calmodulin
         - Specific areas of the protein that could be altered (not just the one you chose, but broad categories of modification)
         - Why changing calcium (or M13) affinity or cooperativity could be useful
-    - **Paragraph 3: most specific, a description of your particular investigation.** Finally you can cover topics such as   
+    - **Paragraph 3: most specific, a description of your particular investigation.** Finally you can cover topics such as    
           
         - How you chose your specific mutation (and rationale for the M124S mutation) given the local protein structure
         - Your expectations for how these mutations will affect protein function
