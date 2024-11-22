@@ -33,7 +33,7 @@ After examining both two- and three-dimensional protein information, you will pr
 
 ### References
 
-Chin, D., and A. R. Means. "[Calmodulin: A Prototypical Calcium Sensor](http://dx.doi.org/10.1016/S0962-8924(00)01800-6)." *Trends Cell Biol* 10, no. 8 (August 2000): 322-328.
+Chin, D., and A. R. Means. "[Calmodulin: A Prototypical Calcium Sensor](http://dx.doi.org/10.1016/S0962-8924%2800%2901800-6)." *Trends Cell Biol* 10, no. 8 (August 2000): 322-328.
 
 Zhang, M., et al. "[Calcium-Induced Conformational Transition Revealed by the Solution Structure of Apo Calmodulin](http://www.nature.com/nsmb/journal/v2/n9/abs/nsb0995-758.html)." *Nat Struct Biol* 2, no. 9 (September 1995): 758-67.
 
@@ -96,7 +96,6 @@ Note that throughout this module, you will perform most experiments not just wit
 
 {{< resource uuid="bb26f46c-5253-2b79-8f7f-4a57a59ff7be" >}}
 
-  
  
 
 **Schematic of primer design for traditional PCR and for mutagenesis**. PCR amplification (A) and site-directed mutagenesis (B) are depicted. Arrows represent primers. Solid lines are template DNA, with the coding strand on top. Dashed lines indicate copies of the template. (A) Primers for PCR amplification are perfectly complementary to the template. (Note: the complexity of the first few rounds of PCR is not shown.) (B) Mutagenic primers differ from the template at X. (Note: for circular DNA, the entire template will ultimately be copied.)
@@ -130,7 +129,7 @@ Residue 101 of calmodulin is serine, encoded by AGC. This is residue 379 with re
 
 To change from serine to leucine, one might choose UUA, UUG, or CUX (wherer X=U, A, G, or C). Because CUC requires only two mutations (rather than three as for the other options), we choose this codon.
 
-Now we must keep 15-20 bp of sequence on each side in a way that meets all our requirements. To quickly find G/C content and see secondary structures, look at IDT's [OligoAnalyzer](http://eu.idtdna.com/analyzer/Applications/OligoAnalyzer/Default.aspx) Web site. (Note that the Tm listed at this site is not one that is relevant for mutagenesis.)
+Now we must keep 15-20 bp of sequence on each side in a way that meets all our requirements. To quickly find G/C content and see secondary structures, look at IDT's [OligoAnalyzer](https://www.idtdna.com/pages/tools/oligoanalyzer?utm_source=google&utm_medium=cpc&utm_campaign=00583_1a_03&utm_content=search&gad_source=1&gclid=EAIaIQobChMIsa-59siCiAMVjzgIBR3PLAD2EAAYASAAEgJbfPD_BwE) Web site. (Note that the Tm listed at this site is not one that is relevant for mutagenesis.)
 
 Ultimately, your primer and its complement might look like the following, which has a Tm of almost 81, and a G/C content of ~58%.
 
@@ -144,7 +143,7 @@ Next you will modify your primers further according to Part 5, if possible for y
 
 ### Part 5: Additional Silent Mutation
 
-One goal of this module is to interrogate DNA sequences in multiple ways. To set us up for achieving this goal, you should attempt to incorporate a second mutation in inverse pericam using your primers. This time, the purpose of the mutation is not to change the protein, but to create a recognizable DNA tag. Thus, the mutation must be silent, that is, it should not affect the protein code. For example, CCA to CCG is a silent mutation, because both triplets code for the amino acid Proline. You can use the NEB [Genetic Code table](http://www.neb.com/nebecomm/tech_reference/general_data/genetic_code.asp) to find degenerate codons.
+One goal of this module is to interrogate DNA sequences in multiple ways. To set us up for achieving this goal, you should attempt to incorporate a second mutation in inverse pericam using your primers. This time, the purpose of the mutation is not to change the protein, but to create a recognizable DNA tag. Thus, the mutation must be silent, that is, it should not affect the protein code. For example, CCA to CCG is a silent mutation, because both triplets code for the amino acid Proline. You can use the NEB [Genetic Code table](https://www.neb.com/en-us/tools-and-resources/usage-guidelines/the-genetic-code) to find degenerate codons.
 
 One category of useful DNA tags are called restriction sites. These sequences, usually short and palindromic, are recognized by enzymes that cut the sites in unique and specific ways, as we will discuss further next time. For now, all you need to know is that you would like to create a new restriction site in your DNA, ideally one that exists in only one or two (or zero) other places in the entire inverse pericam plasmid. All these requirements are getting pretty complicated, and you can imagine that they become quite time-consuming to satisfy by hand! We will use some freely available computer programs to help us.
 
