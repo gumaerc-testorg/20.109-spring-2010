@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to affinity purification\
   \ recap. \r\n\r\n"
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/bf7f22b7bcb3039982012d01870cb35f_MIT20_109S10_labpre_m2d6.pdf
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/bf7f22b7bcb3039982012d01870cb35f_MIT20_109S10_labpre_m2d6.pdf
 file_size: 173347
 file_type: application/pdf
 learning_resource_types:
