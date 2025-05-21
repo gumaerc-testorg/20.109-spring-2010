@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains information related to wrap\u2010up comments."
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/e5371e89e3b8fc4ab1993d1f1f6fa34e_MIT20_109S10_labpre_m3d7.pdf
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/e5371e89e3b8fc4ab1993d1f1f6fa34e_MIT20_109S10_labpre_m3d7.pdf
 file_size: 109018
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information about the promises\_and\_expectations,\
   \ day\u2010to\u2010day\_workflow and annotating\_protocols."
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/d00ac9795def7fb97c67db6f41d3dc8d_MIT20_109S10_labpre_m0d1.pdf
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/d00ac9795def7fb97c67db6f41d3dc8d_MIT20_109S10_labpre_m0d1.pdf
 file_size: 267038
 file_type: application/pdf
 learning_resource_types:
