@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/9f6b75dc8a6fb36f0d699c65d94407b5_m2d6_fig1.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/9f6b75dc8a6fb36f0d699c65d94407b5_m2d6_fig1.jpg
 file_size: 19134
 file_type: image/jpeg
 image_metadata:

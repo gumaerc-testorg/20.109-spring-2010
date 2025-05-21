@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is an special software is required to describe computational analysis.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/7d17e7c58e6972faa7b20ee6b7872828_MIT20_109S10_m1_anly_data.rtf
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/7d17e7c58e6972faa7b20ee6b7872828_MIT20_109S10_m1_anly_data.rtf
 file_size: 39650
 file_type: application/rtf
 learning_resource_types:

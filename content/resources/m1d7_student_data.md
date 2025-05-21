@@ -2,7 +2,7 @@
 content_type: resource
 description: ZIP file for Module 1 Day 7 lab, containing representative binding sample
   data for five lab groups; a total of 30 .csv files.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/3784557b2bababa6518a2482c1dccac7_m1d7_student_data.zip
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/3784557b2bababa6518a2482c1dccac7_m1d7_student_data.zip
 file_size: 88435
 file_type: application/zip
 learning_resource_types: []
