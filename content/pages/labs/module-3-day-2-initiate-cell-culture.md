@@ -3,7 +3,7 @@ content_type: page
 description: Lab module on initiating cultures for an investigation of chondrocyte
   phenotype induction or maintenance.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection

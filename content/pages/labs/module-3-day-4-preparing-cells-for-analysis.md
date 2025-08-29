@@ -2,7 +2,7 @@
 content_type: page
 description: Lab module on preparing cells for analysis.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection

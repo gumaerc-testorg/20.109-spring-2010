@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Graph showing the shift of Soret peak caused by heme-binding aptamers.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/59946b16af2aeb3798aea32f14052b66_m1d5_fig2.gif
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/59946b16af2aeb3798aea32f14052b66_m1d5_fig2.gif
 file_size: 14932
 file_type: image/gif
 image_metadata:

@@ -3,7 +3,7 @@ content_type: page
 description: Notes from a class in which students finish their student Journal Club
   presentations.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection
