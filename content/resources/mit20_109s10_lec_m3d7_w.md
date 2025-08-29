@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to proposal presentation.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/66e0d367f8ad04c598a1a40318d22820_MIT20_109S10_lec_m3d7_w.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/66e0d367f8ad04c598a1a40318d22820_MIT20_109S10_lec_m3d7_w.pdf
 file_size: 517487
 file_type: application/pdf
 learning_resource_types:

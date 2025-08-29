@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: "This resource contains information related to rt\u2010pcr analysis."
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/fac90f578b70f5301911139571a80206_MIT20_109S10_labpre_m3d5.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/fac90f578b70f5301911139571a80206_MIT20_109S10_labpre_m3d5.pdf
 file_size: 219498
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

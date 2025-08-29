@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/0157b734c1769588be860c21c8a74db7_MIT20_109S10_m2d4_sequence.doc
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/0157b734c1769588be860c21c8a74db7_MIT20_109S10_m2d4_sequence.doc
 file_size: 28672
 file_type: application/msword
 learning_resource_types: []

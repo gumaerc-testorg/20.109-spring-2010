@@ -2,11 +2,11 @@
 content_type: resource
 description: "This resource contains the information about preparing\_DNA\_library,\
   \ PCR\_results\_and\_clarifications."
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/1cca677fb8b3641dc56a8d87b58cc038_MIT20_109S10_labpre_m1d5.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/1cca677fb8b3641dc56a8d87b58cc038_MIT20_109S10_labpre_m1d5.pdf
 file_size: 327706
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

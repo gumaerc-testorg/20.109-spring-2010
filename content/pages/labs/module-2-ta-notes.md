@@ -3,7 +3,7 @@ content_type: page
 description: This page contains general preparation notes for the teaching assistants
   supporting Module 2 labs on protein engineering.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection
