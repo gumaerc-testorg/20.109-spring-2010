@@ -4,7 +4,7 @@ description: This section provides an overview of the three lab modules, informa
   on working in the lab and communicating your work, pre-lab lectures, and lab materials.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
