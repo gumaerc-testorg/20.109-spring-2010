@@ -24,21 +24,21 @@ Today we will continue the discussion that we began in lecture about cell-biomat
 
 These papers on chondrocyte tissue culture and cartilage tissue engineering will give you a sense of some design options. You are also welcome to search the scientific literature on your own for further ideas.
 
-Brodkin, K. R., A. J. Garcia, and M. E. Levenston. "[Chondrocyte phenotypes on different extracellular matrix monolayers](http://dx.doi.org/10.1016/j.biomaterials.2004.01.044)." _Biomaterials_ 25 (2004): 5929-5938.
+Brodkin, K. R., A. J. Garcia, and M. E. Levenston. "{{% resource_link "58a4b76a-6a89-432e-8b5e-58efd6f6a3b4" "Chondrocyte phenotypes on different extracellular matrix monolayers" %}}." _Biomaterials_ 25 (2004): 5929-5938.
 
-Kong, H. Y., et al. "[Controlling Rigidity and Degradation of Alginate Hydrogels via Molecular Weight Distribution](http://dx.doi.org/10.1021/bm049879r)." _Biomacromolecules_ 5 (2004): 1720-1727.
+Kong, H. Y., et al. "{{% resource_link "7ed285a5-81c6-4ddc-9db2-8c9febd2a08d" "Controlling Rigidity and Degradation of Alginate Hydrogels via Molecular Weight Distribution" %}}." _Biomacromolecules_ 5 (2004): 1720-1727.
 
-Heywood, H. K., et al. "[Cellular Utilization Determines Viability and Matrix Distribution Profiles in Chondrocyte-Seeded Alginate Constructs](http://dx.doi.org/10.1089/ten.2004.10.1467)." _Tissue Engineering_ 10, no. 9/10 (2004): 1467-1479.
+Heywood, H. K., et al. "{{% resource_link "157d7ed5-b718-48c3-9c87-28c8323703bd" "Cellular Utilization Determines Viability and Matrix Distribution Profiles in Chondrocyte-Seeded Alginate Constructs" %}}." _Tissue Engineering_ 10, no. 9/10 (2004): 1467-1479.
 
-Genes, N. G., et al. "[Effect of substrate mechanics on chondrocyte adhesion to modified alginate surfaces](http://dx.doi.org/10.1016/j.abb.2003.11.023)." _Archives of Biochemistry and Biophysics_ 422 (2004): 161-167.
+Genes, N. G., et al. "{{% resource_link "d62b6307-47d5-4664-987a-25065984d748" "Effect of substrate mechanics on chondrocyte adhesion to modified alginate surfaces" %}}." _Archives of Biochemistry and Biophysics_ 422 (2004): 161-167.
 
-Domm, C., et al. "[Influence of Various Alginate Brands on the Redifferentiation of Dedifferentiated Bovine Articular Chondrocytes in Alginate Bead Culture under High and Low Oxygen Tension](http://dx.doi.org/10.1089/ten.2004.10.1796)." _Tissue Engineering_ 10, no. 11/12 (2004): 1796-1805.
+Domm, C., et al. "{{% resource_link "d036da93-6b46-4a60-9538-ba793f71a6eb" "Influence of Various Alginate Brands on the Redifferentiation of Dedifferentiated Bovine Articular Chondrocytes in Alginate Bead Culture under High and Low Oxygen Tension" %}}." _Tissue Engineering_ 10, no. 11/12 (2004): 1796-1805.
 
-Lee, C. S. D., et al. "[Integration of layered chondrocyte-seeded alginate hydrogel scaffolds](http://dx.doi.org/10.1016/j.biomaterials.2007.02.035)." _Biomaterials_ 28 (2007): 2987-2993.
+Lee, C. S. D., et al. "{{% resource_link "f4676a8e-d36f-409e-81c7-bc51cffea4fb" "Integration of layered chondrocyte-seeded alginate hydrogel scaffolds" %}}." _Biomaterials_ 28 (2007): 2987-2993.
 
-Yoon, D. M., et al. "[Addition of Hyaluronic Acid to Alginate Embedded Chondrocytes Interferes with Insulin-like Growth Factor-1 Signaling _In Vitro_ and _In Vivo_](http://dx.doi.org/10.1089/ten.TEA.2009.0069)." _Tissue Engineering Part A_ 15, no. 11 (2009): 3449-3459.
+Yoon, D. M., et al. "{{% resource_link "66be280d-7574-42d1-b773-9054d022bba2" "Addition of Hyaluronic Acid to Alginate Embedded Chondrocytes Interferes with Insulin-like Growth Factor-1 Signaling _In Vitro_ and _In Vivo_" %}}." _Tissue Engineering Part A_ 15, no. 11 (2009): 3449-3459.
 
-Bosnakovski, D., et al. "[Chondrogenic Differentiation of Bovine Bone Marrow Mesenchymal Stem Cells (MSCs) in Different Hydrogels: Influence of Collagen Type II Extracellular Matrix on MSC Chondrogenesis](http://dx.doi.org/10.1002/bit.20828)." _Biotechnology and Bioengineering_ 93, no. 6 (2006): 1152-1163.
+Bosnakovski, D., et al. "{{% resource_link "57c18959-25d3-4834-b94d-2b67bc69e7a0" "Chondrogenic Differentiation of Bovine Bone Marrow Mesenchymal Stem Cells (MSCs) in Different Hydrogels: Influence of Collagen Type II Extracellular Matrix on MSC Chondrogenesis" %}}." _Biotechnology and Bioengineering_ 93, no. 6 (2006): 1152-1163.
 
 Protocols
 ---------

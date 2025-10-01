@@ -40,9 +40,9 @@ After purifying inverse pericam from your bacterial lysates, you will measure th
 
 ### References
 
-Bradford, M. M. "[A Rapid and Sensitive Method for the Quantitation of Microgram Quantities of Protein Utilizing the Principle of Protein-Dye Binding](http://dx.doi.org/10.1016/0003-2697(76)90527-3)." *Anal Biochem* 72, no. 1-2 (May 7, 1976): 248-54.
+Bradford, M. M. "{{% resource_link "fed9e3a7-cab3-4051-9b8a-4ef2c6ce0621" "A Rapid and Sensitive Method for the Quantitation of Microgram Quantities of Protein Utilizing the Principle of Protein-Dye Binding" %}}." *Anal Biochem* 72, no. 1-2 (May 7, 1976): 248-54.
 
-Compton, S. J., and C. G. Jones. "[Mechanism of Dye Response and Interference in the Bradford Protein Assay](http://dx.doi.org/10.1016/0003-2697(85)90190-3)." *Anal Biochem* 151, no. 2 (December, 1985)
+Compton, S. J., and C. G. Jones. "{{% resource_link "c6a73621-e856-4583-9690-27e22beca8fb" "Mechanism of Dye Response and Interference in the Bradford Protein Assay" %}}." *Anal Biochem* 151, no. 2 (December, 1985)
 
 ## Protocols
 
@@ -303,7 +303,7 @@ BSA 1.0
       
     - 4-15% Polyacrylamide Gels in Tris-HCl
     - TGS Buffer (25 mM Tris, 192 mM glycine, 0.1% (w/v) SDS, pH 8.3)
-    - Kaleidoscope and Unstained markers, [Precision Plus](http://www.bio-rad.com/prd/en/US/adirect/biorad?cmd=BRCatgProductDetail&productID=241601)
+    - Kaleidoscope and Unstained markers, {{% resource_link "2090a7dc-f04c-484c-b4ee-401fa38e8afe" "Precision Plus" %}}
     - Laemmli Sample buffer from Bio-Rad
     - 2% SDS, 25% glycerol, 0.01% Bromophenol Blue in 62.5 mM Tris-HCl pH 6.8, + 5% β-mercaptoethanol just before use
 - Protein Purification from Novagen/Calbiochem   

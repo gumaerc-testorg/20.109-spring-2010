@@ -43,11 +43,11 @@ The heme group is part not only of hemoglobin, thus making it essential for oxyg
 References
 ----------
 
-Granick, S. "[The Induction _in vitro_ of the Synthesis of Delta-Aminolevulinic Acid Synthetase in Chemical Porphyria: A Response to Certain dDrugs, Sex Hormones, and Foreign Chemicals](http://www.jbc.org/content/241/6/1359.long)." _J Biol Chem_ 241, no. 6 (March 25, 1966): 1359-75.
+Granick, S. "{{% resource_link "42e44e7e-fc62-4515-88c9-53882634c5bb" "The Induction _in vitro_ of the Synthesis of Delta-Aminolevulinic Acid Synthetase in Chemical Porphyria: A Response to Certain dDrugs, Sex Hormones, and Foreign Chemicals" %}}." _J Biol Chem_ 241, no. 6 (March 25, 1966): 1359-75.
 
-Ponka, P. "[Tissue-Specific Regulation of Iron Metabolism and Heme Synthesis: Distinct Control Mechanisms in Erythroid Cells](http://bloodjournal.hematologylibrary.org/cgi/content/full/89/1/1)." _Blood_ 89, no. 1 (January 1, 1997); 1-25.
+Ponka, P. "{{% resource_link "524b8a26-5ab3-4d2c-bb74-2d7dd2c23a6d" "Tissue-Specific Regulation of Iron Metabolism and Heme Synthesis: Distinct Control Mechanisms in Erythroid Cells" %}}." _Blood_ 89, no. 1 (January 1, 1997); 1-25.
 
-Ventura, P., M. D. Cappellini, and E. Rocchi. "[The Acute Porphyrias: A Diagnostic and Therapeutic Challenge in Internal and Emergency Medicine](http://www.ncbi.nlm.nih.gov/pubmed/19479318)." _Intern Emerg Med_ 4, no. 4 (August, 2009): 297-308.
+Ventura, P., M. D. Cappellini, and E. Rocchi. "{{% resource_link "00a998e4-4f4b-45ee-9796-2ff1aa30f952" "The Acute Porphyrias: A Diagnostic and Therapeutic Challenge in Internal and Emergency Medicine" %}}." _Intern Emerg Med_ 4, no. 4 (August, 2009): 297-308.
 
 Protocols
 ---------
