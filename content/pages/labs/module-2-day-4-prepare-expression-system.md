@@ -155,7 +155,7 @@ For each reaction, combine the following reagents in an eppendorf tube:
     - 5.3 μL of sequencing primer at 1 pmol/μL
     - 12.7 μL sterile water
 
-Mix each solution by pipetting and then transfer 12 μL to an 8-PCR-tube strip. Keep track of which sample is in which tube (A-H), and label your tubes on both the side and the top according to the table below. The teaching faculty will turn in the strips at the [MIT Biopolymers Laboratory](http://web.mit.edu/biopolymers/www/) for sequencing.
+Mix each solution by pipetting and then transfer 12 μL to an 8-PCR-tube strip. Keep track of which sample is in which tube (A-H), and label your tubes on both the side and the top according to the table below. The teaching faculty will turn in the strips at the {{% resource_link "e2a3d41a-aa70-4804-b4ba-6c2a4d11a4a3" "MIT Biopolymers Laboratory" %}} for sequencing.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 GROUP
@@ -202,7 +202,7 @@ Green
 ## For Next Time
 
 1. The vector pRSET has several properties that make it useful for protein expression and production in bacteria. Some of these were described in today's Introduction. Name 2 other features contained in the pRSET vector and what purposes they serve. (Use your own words to describe the purposes, don't just quote the catalogue.)
-2. BL21(DE3) *E. coli* are often used for protein expression. In contrast, XL1-Blue *E. coli* are 'workhorse' cells useful for plasmid propagation. What are the two modified genes in XL1-Blue that make them ideal for this task? It may help you to refer to the cell manual ([PDF](https://www.neb.com/products/c2527-bl21de3-competent-e-coli#Protocols,%20Manuals%20&%20Usage)).
+2. BL21(DE3) *E. coli* are often used for protein expression. In contrast, XL1-Blue *E. coli* are 'workhorse' cells useful for plasmid propagation. What are the two modified genes in XL1-Blue that make them ideal for this task? It may help you to refer to the cell manual ({{% resource_link "0d0b1df3-bb0c-4ed3-b1c7-b81c1fbdf6f5" "PDF" %}}).
 3. The major assessment for this module will be a research article describing your protein design work. For this assignment, you will write a draft of the introduction to your report. The introduction provides a framework for the story you are about to tell (*The Amazing Adventures of a Mutant Calcium Sensor*), and thus serves two main purposes. For one, you must provide sufficient background information for a reader to understand the forthcoming results. Just as importantly, you must motivate the audience to keep reading! How? Reveal the significance of the work through connections to both prior scientific accomplishments and future applications. You are welcome to use your own creativity and judgement as to what a good introduction should look like; however, you may find the suggested structure and content below useful.    
       
     - **Paragraph 1: most general, "big picture" paragraph.** Here you should introduce the reader to the broader context of your experiment and motivate why your research is important. You might address questions such as those below, but you won't necessarily touch on all of them equally or even at all. Be sure to tell a coherent story, not a dense but unconnected list of facts.    
