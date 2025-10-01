@@ -122,7 +122,7 @@ A few ground rules that are 20.109 specific:
 *   You should not propose any research question that has been the subject of your UROP or research experience outside of 20.109. This proposal must be original.
 *   You should keep in mind that this proposal will be presented to the class, so try to limit your scope to an idea that can be convincingly presented in a twelve minute oral presentation.
 
-Once you and your partner have decided on a suitable research problem, it's time to become an expert on the topic. This will mean searching the literature, talking with people, generating some ideas and critically evaluating them. To keep track of your efforts, you should start a wiki catalog on your OpenWetWare user page. How you format the page is up to you but check out the "[yeast rebuild](http://openwetware.org/wiki/Yeast_rebuild)" or the "[T7.2](http://openwetware.org/wiki/T7.2)" wiki pages on OpenWetWare for examples of research ideas in process. As part of your For Next Time assignment, you will have to print out your wiki page specifying your topic, your research goal and at least two helpful references that you've read and summarized.
+Once you and your partner have decided on a suitable research problem, it's time to become an expert on the topic. This will mean searching the literature, talking with people, generating some ideas and critically evaluating them. To keep track of your efforts, you should start a wiki catalog on your OpenWetWare user page. How you format the page is up to you but check out the "{{% resource_link "a90d9c1e-2461-4882-999e-36df5caa2472" "yeast rebuild" %}}" or the "{{% resource_link "ee27d2f8-a392-4734-94dd-85b033e7e0d7" "T7.2" %}}" wiki pages on OpenWetWare for examples of research ideas in process. As part of your For Next Time assignment, you will have to print out your wiki page specifying your topic, your research goal and at least two helpful references that you've read and summarized.
 
 For Next Time
 -------------
@@ -132,9 +132,9 @@ For Next Time
     *   What additional information about cell viability do you gain by staining whole constructs rather than cell isolates?
 2.  Read this Tissue Engineering editorial by Professor Alan Russell about standards, and come to lecture next time prepared to discuss and/or write about your thoughts.
     
-    *   Russell, A. J. "[Editorial: Standardized Experimental Procedures in Tissue Engineering: Cure or Curse](http://www.liebertonline.com/doi/abs/10.1089/ten.2005.11.vii)." _Tissue Engineering_ 11, nos. 9-10 (Sept-Oct 2005): vii-ix.
+    *   Russell, A. J. "{{% resource_link "510f211c-5905-49f5-a557-9b04b515f110" "Editorial: Standardized Experimental Procedures in Tissue Engineering: Cure or Curse" %}}." _Tissue Engineering_ 11, nos. 9-10 (Sept-Oct 2005): vii-ix.
     
-    You may find other helpful articles in this [essay assignment](http://openwetware.org/wiki/20.109%28S08%29:Essay) from the Spring 2008 20.109 course.
+    You may find other helpful articles in this {{% resource_link "f1cb511b-579c-458f-99af-c4e90498f954" "essay assignment" %}} from the Spring 2008 20.109 course.
     
 3.  Begin to define your research proposal by making a wiki page to collect your ideas and resources (you can do this on one page with your partner or split the effort and each turn in an individual page). Keep in mind that your presentation to the class will ultimately need:
     *   a brief project overview
