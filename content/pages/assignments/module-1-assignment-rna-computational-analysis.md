@@ -75,7 +75,7 @@ CLUSTAL is a program that finds strings of homology among primary sequences of n
 
 ### Exercise
 
-1. Go to the [CLUSTAL Web site](http://www.ebi.ac.uk/Tools/clustalw2/index.html).
+1. Go to the {{% resource_link "3d4c0a13-e989-45bb-9131-4c15f5f770ec" "CLUSTAL Web site" %}}.
 2. Copy and paste the sequences from the attached data file into the text box labeled: "Enter or paste a set of sequences in any supported format:"
     - Note: Be sure that all the ">" characters are included. This is FASTA formatted data, which is a common way for inputting data into many of the bioinformatics software packages used today. You can read more about this data format at the CLUSTAL Web site.
 3. Using the default settings, click the RUN button to begin your analysis.
@@ -122,14 +122,14 @@ When viewing the MEME output (HTML option), look to the left of each motif image
 
 ## {{< anchor "Part_III:_" >}}{{< /anchor >}}Part III: Mfold Analysis
 
-Mfold is a program that predicts nucleic acid secondary structures by computing free energies for the potential structure-space of a given sequence. You can learn more on the [Mfold homepage](http://mfold.rna.albany.edu/?q=mfold/download-mfold) and in the cited literature at the bottom of that page.
+Mfold is a program that predicts nucleic acid secondary structures by computing free energies for the potential structure-space of a given sequence. You can learn more on the {{% resource_link "c2336adc-9df7-4527-b6ac-1d40d987d06d" "Mfold homepage" %}} and in the cited literature at the bottom of that page.
 
 ### Exercise
 
 Here, you will predict the secondary structures for 6-5 and 8-12 using the full-length (constant + variable region) RNA sequence expected after transcription.
 
 1. Follow the directions provided in your data file (read all the background and notes carefully) to come up with the required RNA sequences.
-2. Go to the [Mfold Web site](http://mfold.rna.albany.edu/?q=mfold/download-mfold).
+2. Go to the {{% resource_link "c2336adc-9df7-4527-b6ac-1d40d987d06d" "Mfold Web site" %}}.
 3. Obtain folded structures for the 6-5 and 8-12 RNA sequences. Since you have a small number of sequences enter each individually, and perform your analyses sequentially.
     - Use the default options, but please enter the following information:
         - A name for your sequence
