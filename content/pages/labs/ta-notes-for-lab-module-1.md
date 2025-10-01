@@ -18,7 +18,7 @@ video_metadata:
 
 « Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" %}}
 
-This page contains general preparation notes for the teaching assistants supporting Module 1 labs. Instructors interested in implementing these labs may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for additional fine-tuning information.
+This page contains general preparation notes for the teaching assistants supporting Module 1 labs. Instructors interested in implementing these labs may contact {{% resource_link "4d286431-9c6c-45e4-ab05-676f0c2a73d0" "Agi Stachowiak" %}} for additional fine-tuning information.
 
 General Notes
 -------------
