@@ -319,13 +319,13 @@ When solutions must be diluted several orders of magnitude, then serial dilution
 
 1. Review today's lab to prepare for the lab practical that you and your partner will take together.
 2. Complete the required EHS Training on-line \[only for MIT community, not available to OCW users\].
-    - There are two web-based training modules required for 20.109. They are **Chemical Hygiene Training** and **Managing Hazardous Waste**. *Chemical Hygiene* includes 7 sections and 6 quizzes with an estimated completion time of 1 hour, while *Managing Hazardous Waste* has one quiz and should take less than 1/2 hour to complete. Both courses can be accessed through {{% resource_link "48b95cf0-998e-4caf-a655-90ffcef15cdd" "MIT's Environmental Health and Safety page" %}}. \[NOTE: these modules are only available to the MIT community, requires a valid MIT certificate.\]
-    - **If you have completed EHS training in a** {{% resource_link "91a198e4-95b7-4559-8218-0217acc176d8" "**UROP**" %}} **or in another lab class, you do not need to repeat the training but you do need to print out your training record to hand in.**
+    - There are two web-based training modules required for 20.109. They are **Chemical Hygiene Training** and **Managing Hazardous Waste**. *Chemical Hygiene* includes 7 sections and 6 quizzes with an estimated completion time of 1 hour, while *Managing Hazardous Waste* has one quiz and should take less than 1/2 hour to complete. Both courses can be accessed through [MIT's Environmental Health and Safety page](http://ehs.mit.edu). \[NOTE: these modules are only available to the MIT community, requires a valid MIT certificate.\]
+    - **If you have completed EHS training in a** [**UROP**](https://urop.mit.edu/about/) **or in another lab class, you do not need to repeat the training but you do need to print out your training record to hand in.**
     - From the EHS training page select the second button labeled "I have EHS training requirements for an academic subject."
     - Your summary page ("My EHS Training") should show *Chemical Hygiene* and *Managing Hazardous Waste* as requirements for 20.109. Click on the purple button "Go to Web Classes" right above the training requirements section. You may stop and start the web-based courses as many times as you need to complete them; the software keeps track of your progress in the course.
     - **Print the certificates of completion to turn in next time.**
-3. Register for an account on {{% resource_link "e1d1ff87-62be-4149-987c-3e5ae3de9659" "OpenWetWare" %}} by filling out the "{{% resource_link "e48cd548-430c-4b0e-b7f3-9c5a8d523528" "join OWW" %}}" form. Once you get an account:
-    - familiarize yourself with using the wiki by reading the "{{% resource_link "f7cf2161-503b-4869-991b-0bce89a39ffa" "OpenWetWare Basics" %}}" page.
+3. Register for an account on [OpenWetWare](http://openwetware.org/wiki/Main_Page) by filling out the "[join OWW](http://openwetware.org/wiki/Join)" form. Once you get an account:
+    - familiarize yourself with using the wiki by reading the "[OpenWetWare Basics](http://openwetware.org/wiki/20.109%28S10%29:OWW_basics)" page.
     - add the 20.109 home page to your "watch" list and update your preferences so you'll be notified by email when an announcement is made.
     - Prepare for the first day of Module 1 by reading the {{% resource_link "c810141c-0282-3f29-da2a-83f1fe93dcb1" "Module 1 Overview" "#RNA_Engineering" %}} and {{% resource_link "a4698e5d-1f6b-3e32-71de-c8f8829f224f" "Day 1" %}} introduction.
 
