@@ -203,4 +203,4 @@ Question & Answer
 Rehearse Your Talk Several Times
 --------------------------------
 
-Find video examples of talks at {{% resource_link "c57ac1a7-a885-42a8-a7ba-5edaaba411ef" "MIT Video" %}}.
+Find video examples of talks at [MIT Video](http://video.mit.edu).

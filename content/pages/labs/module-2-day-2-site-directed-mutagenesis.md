@@ -42,13 +42,13 @@ The proteins that bind calcium do so with a great variety of affinities, and hav
 
 ### References
 
-Heim, R., D. C. Prasher, and R. Y. Tsien. "{{% resource_link "ef923e51-7169-4ce1-9a6f-22609a9e406e" "Wavelength Mutations and Posttranslational Autoxidation of Green Fluorescent Protein" %}}." _PNAS_ 91, no. 26 (December 20, 1994): 12501-4. \[Full text\]
+Heim, R., D. C. Prasher, and R. Y. Tsien. "[Wavelength Mutations and Posttranslational Autoxidation of Green Fluorescent Protein](http://www.pnas.org/content/91/26/12501.full.pdf+html)." _PNAS_ 91, no. 26 (December 20, 1994): 12501-4. \[Full text\]
 
-Nagai, T., et al. "{{% resource_link "2f620fd9-bf4b-47bf-b0d7-0ca62fcd0a29" "Circularly Permuted Green Fluorescent Proteins Engineered to Sense Ca2+" %}}." _PNAS_ 98, no. 6 (March 6, 2001): 3197-3202. \[Full text\]
+Nagai, T., et al. "[Circularly Permuted Green Fluorescent Proteins Engineered to Sense Ca2+](http://www.pnas.org/content/98/6/3197)." _PNAS_ 98, no. 6 (March 6, 2001): 3197-3202. \[Full text\]
 
-Clapham, D. E. "{{% resource_link "cc26d687-8d92-43bd-89b5-f7a9632311d3" "Calcium Signaling" %}}." _Cell_ 131, no. 6 (December 14, 2007): 1047-1058.
+Clapham, D. E. "[Calcium Signaling](http://www.cell.com/retrieve/pii/S0092867407015310)." _Cell_ 131, no. 6 (December 14, 2007): 1047-1058.
 
-Carafoli, E. "{{% resource_link "ad70fd6a-6f5f-409c-a953-84c2882dca1f" "Calcium Signaling: A Tale For All Seasons" %}}." _PNAS_ 99, no. 3 (February 5, 2002): 1115-22. \[Full text\]
+Carafoli, E. "[Calcium Signaling: A Tale For All Seasons](http://www.pnas.org/content/99/3/1115)." _PNAS_ 99, no. 3 (February 5, 2002): 1115-22. \[Full text\]
 
 Protocols
 ---------

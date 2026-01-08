@@ -69,4 +69,4 @@ Titration sample preparation.
 For Next Time
 -------------
 
-1.  Prepare a figure and caption for your SDS-PAGE results. Look up the expected molecular weight using the IPC sequence document and this online {{% resource_link "b2526853-8786-41e8-a878-926ecd7ba108" "Protein Molecular Weight" %}} tool (or similar) Web site. Be sure to add ~ 3 KDa for the size of the N-terminus of pRSET (His tag, etc). If you see two strong bands, what do you think the second one is? This homework will be graded during class next time so you can incorporate any comments in your final report.
+1.  Prepare a figure and caption for your SDS-PAGE results. Look up the expected molecular weight using the IPC sequence document and this online [Protein Molecular Weight](http://www.bioinformatics.org/sms/prot_mw.html) tool (or similar) Web site. Be sure to add ~ 3 KDa for the size of the N-terminus of pRSET (His tag, etc). If you see two strong bands, what do you think the second one is? This homework will be graded during class next time so you can incorporate any comments in your final report.
