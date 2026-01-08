@@ -25,11 +25,11 @@ Be sure to review the 20.109 [statement on collaboration and integrity]({{< base
 Writing a "Research Article" versus a "Lab Report"
 --------------------------------------------------
 
-A quick but unscientific survey of several journal's "instructions for authors" shows some common themes that are worth considering here. For instance, the instructions from {{% resource_link "2e2103ac-3db4-4e66-a23e-a6f3dcabafd0" "The Journal of Cell Biology" %}} (JCB) say:
+A quick but unscientific survey of several journal's "instructions for authors" shows some common themes that are worth considering here. For instance, the instructions from [The Journal of Cell Biology](http://jcb.rupress.org/site/misc/ifora.xhtml#Manuscript_organization) (JCB) say:
 
 _"To warrant publication in the JCB, a manuscript must provide novel and significant mechanistic insight into a cellular function that will be of interest to a general readership. Manuscripts containing purely descriptive observations will not be published."_
 
-Similarly, the instructions from {{% resource_link "8c4676d5-8240-425c-9cc2-4b5f2e7c887e" "Molecular Cell Biology" %}} (MCB) state:
+Similarly, the instructions from [Molecular Cell Biology](http://mcb.asm.org/cgi/content/full/28/1/1) (MCB) state:
 
 _"MCB is devoted to the advancement and dissemination of fundamental knowledge concerning the molecular biology of eukaryotic cells, of both microbial and higher organisms. In most cases, reports that emphasize methods and nucleotide sequence data alone (without experimental documentation of the functional significance of the sequence) will not be considered."_
 

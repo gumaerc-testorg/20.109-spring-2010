@@ -54,7 +54,7 @@ A formal research article or less formal lab reports are the principal ways scie
 *   Discussion
 *   References
 
-The requirements for each section are outlined below. If you want more information, you can find parts of this text in an on-line collection of instructional materials used in the {{% resource_link "c9ca1f00-9a5b-4f30-8818-84fdf46d800e" "Purdue University Writing Lab" %}}. Other parts are inspired by Robert A. Day’s book, "How to Write and Publish a Scientific Paper" from Oryx Press. Still other content is based on the research and teaching experiences of 20.109 instructors Natalie Kuldell and Agi Stachowiak.
+The requirements for each section are outlined below. If you want more information, you can find parts of this text in an on-line collection of instructional materials used in the [Purdue University Writing Lab](http://owl.english.purdue.edu/). Other parts are inspired by Robert A. Day’s book, "How to Write and Publish a Scientific Paper" from Oryx Press. Still other content is based on the research and teaching experiences of 20.109 instructors Natalie Kuldell and Agi Stachowiak.
 
 ### {{< anchor "Title" >}}{{< /anchor >}}Title
 
