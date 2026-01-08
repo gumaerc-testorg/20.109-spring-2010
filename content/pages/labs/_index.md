@@ -40,8 +40,8 @@ COMMUNICATING YOUR WORK
 Guidelines on using personal protective equipment, developed by   
 MIT's Environmental Health and Safety Office:
 
-- {{% resource_link "a106b675-3fdc-4364-821c-55485bc00d4f" "Personal Protective Equipment" %}}
-- Lab coat ({{% resource_link "28ab8c66-048b-4525-afd6-b7f44bcfe866" "PDF" %}})
+- [Personal Protective Equipment](https://ehs.mit.edu/workplace-safety-program/personal-protective-equipment/)
+- Lab coat ([PDF](http://openwetware.org/images/4/47/2010_EHS_LabCoatGuidance.pdf))
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -79,7 +79,7 @@ In this module you will investigate RNA aptamer selection. You may already be fa
 
 {{< resource d6cf9db1-840b-790f-a496-1a103d1291e4 >}}
 
-Public domain image. (Prepared using RNA Folding (mfold) at the {{% resource_link "c2336adc-9df7-4527-b6ac-1d40d987d06d" "mFold Web Server" %}}). Reference: Zuker, M. "Mfold Web Server for Nucleic Acid Folding and Hybridization Prediction." _Nucleic Acids Res._ 31, no. 13 (2003): 3406-3415.
+Public domain image. (Prepared using RNA Folding (mfold) at the [mFold Web Server](http://mfold.rna.albany.edu/?q=mfold/download-mfold)). Reference: Zuker, M. "Mfold Web Server for Nucleic Acid Folding and Hybridization Prediction." _Nucleic Acids Res._ 31, no. 13 (2003): 3406-3415.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen colspan="3" >}}
 {{< anchor "MODUle_1:_RNA_Engineering" >}}{{< /anchor >}}MODUle 1: RNA Engineering
@@ -147,11 +147,11 @@ See the {{% resource_link 5a2e497f-e49c-5201-6e67-a52f578758e7 "Assignments" %}}
 
 **Instructors**: Alan Jasanoff and Agi Stachowiak
 
-In this experiment, you will modify a protein called inverse pericam (developed by {{% resource_link "4115fb51-eb67-454d-8e5f-63be000624dc" "Nagai, et al" %}}.) in order to affect its functions as a sensor. Inverse pericam (IPC) comprises a permuted fluorescent protein linked to a calcium sensor. The "inverse" in the name refers to the fact that this protein shines brightly in the absence of calcium, but dimly once calcium is added. The dissociation constant _K_{{< sub "D" >}} of wild-type IPC with respect to calcium is reported to be 0.2 μM (see also figure below). Your goal will be to shift this titration curve or change its steepness by altering one of the calcium binding sites in IPC's calcium sensor portion. You will modify inverse pericam at the gene level using a process called site-directed mutagenesis, express the resultant protein in a bacterial host, and finally purify your mutant protein and assay its calcium-binding activity via fluorescence. In the course of this module, we will consider the benefits and drawbacks of different approaches to protein design, and the types of scientific investigations and applications enabled by fluorescently tagged biological molecules.
+In this experiment, you will modify a protein called inverse pericam (developed by [Nagai, et al](http://www.ncbi.nlm.nih.gov/pubmed/11248055).) in order to affect its functions as a sensor. Inverse pericam (IPC) comprises a permuted fluorescent protein linked to a calcium sensor. The "inverse" in the name refers to the fact that this protein shines brightly in the absence of calcium, but dimly once calcium is added. The dissociation constant _K_{{< sub "D" >}} of wild-type IPC with respect to calcium is reported to be 0.2 μM (see also figure below). Your goal will be to shift this titration curve or change its steepness by altering one of the calcium binding sites in IPC's calcium sensor portion. You will modify inverse pericam at the gene level using a process called site-directed mutagenesis, express the resultant protein in a bacterial host, and finally purify your mutant protein and assay its calcium-binding activity via fluorescence. In the course of this module, we will consider the benefits and drawbacks of different approaches to protein design, and the types of scientific investigations and applications enabled by fluorescently tagged biological molecules.
 
-**Reference**: Nagai, T., et al. "{{% resource_link "94ec13b3-e08a-4421-82e0-45cf7d51bfd6" "Circularly Permuted Green Fluorescent Proteins Engineered to Sense Ca2+" %}}." _PNAS_ 98, no. 6 (March 6, 2001): 3197-3202. \[Open Access\]
+**Reference**: Nagai, T., et al. "[Circularly Permuted Green Fluorescent Proteins Engineered to Sense Ca2+](http://dx.doi.org/10.1073/pnas.051636098)." _PNAS_ 98, no. 6 (March 6, 2001): 3197-3202. \[Open Access\]
 
-We gratefully acknowledge 20.109 instructor Natalie Kuldell for helpful discussions during the development of this module, as well as for her prior work in developing a {{% resource_link "73b7484d-e7de-4f6a-80b7-66831c1f4183" "related module" %}} in the Spring 2007 course.
+We gratefully acknowledge 20.109 instructor Natalie Kuldell for helpful discussions during the development of this module, as well as for her prior work in developing a [related module](http://openwetware.org/wiki/20.109:Module_2) in the Spring 2007 course.
 
 {{< resource c54f55f1-3f57-fa02-f1a1-6b41a696bf73 >}}
 
